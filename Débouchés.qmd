@@ -15,6 +15,6 @@ Le master S.E.P. permet de s'insérer facilement dans des secteurs d'activités 
 -- des administrations : locales, nationales, internationales;\
 -- de l'industrie et des services : banques, assurances, pharmacie, etc...
 
-### Livret des stages 
+### Livret des stages
 
 Un livret présentant les secteurs d'activités des stages des promotions précédentes est disponible [ici](https://livret-des-stages.quarto.pub/livret-des-stage/).
