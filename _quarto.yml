@@ -39,6 +39,8 @@ website:
         file: ressources.qmd
       - text: "Actualités"
         file: Actualites.qmd
+      - text: "Programmes"
+        file: Programmes.qmd
       
       
   sidebar:
