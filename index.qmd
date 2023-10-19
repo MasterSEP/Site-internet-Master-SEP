@@ -1,9 +1,5 @@
 ---
 title: "Présentation du Master SEP"
-about: 
-  template: marquee
-  #image-shape: rectangle
-  #image-width: 50em
 ---
 
 ![](Images/logosite.png){fig-align="center"}

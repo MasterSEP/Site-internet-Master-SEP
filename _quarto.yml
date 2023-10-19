@@ -31,6 +31,7 @@ website:
         file: Formation.qmd
       - text: "Contacts"
         file: contacts.qmd
+        
       - text: "Livret d'acceuil"
         file: Livret_acceuil.qmd
       - text: "On parle de nous"
@@ -74,16 +75,7 @@ website:
         contents:
           - Actualites.qmd
 
-      
-    tools: 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/master-sep-a004ba256/
-      - icon: facebook
-        href: https://www.facebook.com/Master-SEP-Reims-108350474430182
-      - icon: github
-        href: https://github.com/MasterSEP
-      - icon: instagram 
-        href: https://www.instagram.com/
+
       
          
 
@@ -91,8 +83,8 @@ format:
   html:
     toc: true
     page-layout: full
-    theme: Sandstone
-    #css: styles.css
+    theme: journal
+    css: styles.css
     
 
 
