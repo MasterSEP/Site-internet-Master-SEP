@@ -2,7 +2,7 @@
 title: "Présentation du Master SEP"
 ---
 
-![](Images/logosite.png){fig-align="center"}
+![](Images/logo.jpg){fig-align="center"}
 
 Le Master Statistique pour l'Évaluations et Prévision (SEP) offre aux étudiants l'opportunité d'acquérir une formation sur deux ans dans les domaines de l'analyse économique quantitative et de l'aide à la décision. La dualité de cette formation, à la fois théorique et appliquée, permet d'acquérir des compétences reconnues tant dans le monde professionnel que dans le cadre de la préparation d'un doctorat.\
 Le parcours type « Statistique pour l'Évaluation et Prévision » (SEP) forme des statisticiens économistes aptes au dialogue avec des non spécialistes, performants dans tout domaine statistique, sur tout support informatique, et particulièrement efficients sur les problématiques de l'évaluation économique et sociale, de la Data Science, du traitement de données massives (Big Data), du traitement de données marketing et de la gestion des risques.
@@ -27,3 +27,10 @@ La formation s'achève avec un stage long soutenu devant l'ensemble du corps en
 La formation se déroule sur le campus Sciences et sur le campus Économie de l'Université de Reims.
 
 Le Master délivre le SAS Joint Certificate Program « **SAS Programing & Data Analysis** ».
+
+```{r , echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
+```

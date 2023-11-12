@@ -22,4 +22,25 @@ div.quarto-about-jolla main {
     flex: 0 0 25%;
     max-width: 25%;
 }
+h4 {
+    color: Blue;
+}
+
+
+/* styles.css */
+
+table tr.header {
+    background-color: blue;
+    color: white; /* Texte en blanc pour une meilleure lisibilité */
+}
+/* Autres styles pour le tableau (optionnel) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
 

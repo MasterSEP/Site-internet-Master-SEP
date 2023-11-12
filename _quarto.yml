@@ -28,7 +28,7 @@ website:
       - text: "Présentation"
         file: index.qmd
       - text: "Formation"
-        file: Formation.qmd
+        file: Organisation.qmd
       - text: "Contacts"
         file: contacts.qmd
         
@@ -44,36 +44,6 @@ website:
         file: Programmes.qmd
       
       
-  sidebar:
-    style: "docked"
-    search: true
-    contents: 
-      - section: "Présentation"
-        contents: 
-          - index.qmd
-          - Modalités.qmd
-          - Débouchés.qmd
-      - section: "Formation"
-        contents:
-          - Organisation.qmd
-          - Enseignements.qmd
-          - Enseignants.qmd
-          - Stage.qmd
-      - section: "Contacts"
-        contents:
-          - contacts.qmd
-      - section: "Livret d'acceuil"
-        contents:
-          - Livret_acceuil.qmd
-      - section: "On parle de nous"
-        contents:
-          - parle_de_nous.qmd
-      - section: "Ressources"
-        contents:
-          - ressources.qmd
-      - section: "Actualités"
-        contents:
-          - Actualites.qmd
 
 
       
@@ -83,7 +53,7 @@ format:
   html:
     toc: true
     page-layout: full
-    theme: journal
+    theme: jolla
     css: styles.css
     
 
