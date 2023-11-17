@@ -1,0 +1,137 @@
+---
+title: "Programmes"
+editor: visual
+---
+
+#### MODALITÉS PÉDAGOGIQUES
+
+L'équipe enseignante utilise diverses méthodes et pratiques d'enseignement : le cours, les travaux dirigés, l'étude de cas, le projet, le mémoire, la présentation orale, la préparation aux entretiens...
+
+Le master est constitué de 3 semestres de cours, et un semestre de stage en fin de M2 avec rendu de mémoire.
+
+#### ENSEIGNEMENTS
+
+##### MASTER 1 : SEP
+
+| SEMESTRE 1                                             | Volume Horaire | ECTS |
+|---------------------------------------------|--------------|--------------|
+| Probabilités 1                                         | 56h            | 6    |
+| Analyse fonctionnelle 1                                | 28h            | 3    |
+| Modélisation                                           | 28h            | 3    |
+| Modèles linéaires                                      | 50h            | 6    |
+| Optimisation                                           | 56h            | 6    |
+| Anglais de spécialité                                  | 12h            | 2    |
+| Algorithmique 1                                        | 10h            | 2    |
+| Système d'information géographique(SIG)-Geostatistique | 22h            | 2    |
+
+| SEMESTRE 2                      | Volume Horaire | ECTS |
+|---------------------------------|----------------|------|
+| Inférence statistique           | 60h            | 6    |
+| Introduction aux éléments finis | 60h            | 6    |
+| Statistique appliquée           | 30h            | 3    |
+| Méthodes d'échantillonnage      | 20h            | 3    |
+| Probabilités 2                  | 31h            | 3    |
+| Algorithmique 2                 | 30h            | 3    |
+| Mémoire de recherche/Stage      | 2h             | 6    |
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bouton de Redirection</title>
+
+    <style>
+     
+       
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+  
+    <button onclick="rediriger()">Voir plus de détail sur le programme de M1</button>
+
+    <script>
+        function rediriger() {
+            // Rediriger vers le lien souhaité
+            window.location.href = 'https://eos.univ-reims.fr/sciences/administration/offo2023/index.php?action=divers&view=mcc&etape=4&parcours_type=42&annee_type=79';
+        }
+    </script>
+</body>
+<br> </br>
+</html>
+```
+##### MASTER 2 : SEP
+
+| SEMESTRE 3                                                       | Volume Horaire | ECTS |
+|------------------------------------------------------------------|----------------|------|
+| Analyse des systèmes complexes                                   | 50h            | 6    |
+| Outils big data                                                  | 25h            | 3    |
+| Apprentissage automatique                                        | 25h            | 3    |
+| Analyse des données et data mining                               | 50h            | 3    |
+| Apprentissage statistique et data mining                         | 50h            | 3    |
+| Gestion des risques, séries temporelles, économétrie approfondie | 60h            | 4    |
+| Traitement et valorisation de données massives avec R et Rstudio | 40h            | 2    |
+| Anglais                                                          | 20h            | 1    |
+| Implication dans la vie universitaire                            | 13h            | 1    |
+| Conférences, Gestion de projet & Projet Digital, SAS et VBA      | 52h            | 4    |
+
+| SEMESTRE 4                                                                         | Volume Horaire | ECTS |
+|---------------------|-------------------------------|---------------------|
+| Techniques de recherche d'emploi et de stage (TRES), stage ou mémoire de recherche | 15h            | 30   |
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bouton de Redirection</title>
+
+    <style>
+     
+       
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+  
+    <button onclick="rediriger()">Voir plus de détail sur le programme de M2</button>
+
+    <script>
+        function rediriger() {
+            // Rediriger vers le lien souhaité
+            window.location.href = 'https://eos.univ-reims.fr/sciences/administration/offo2023/index.php?action=divers&view=mcc&etape=4&parcours_type=42&annee_type=80';
+        }
+    </script>
+</body>
+<br> </br>
+</html>
+```

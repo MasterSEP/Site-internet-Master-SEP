@@ -28,9 +28,10 @@ website:
       - text: "Présentation"
         file: index.qmd
       - text: "Formation"
-        file: Formation.qmd
+        file: Organisation.qmd
       - text: "Contacts"
         file: contacts.qmd
+        
       - text: "Livret d'acceuil"
         file: Livret_acceuil.qmd
       - text: "On parle de nous"
@@ -39,49 +40,12 @@ website:
         file: ressources.qmd
       - text: "Actualités"
         file: Actualites.qmd
+      - text: "Programmes"
+        file: Programmes.qmd
       
       
-  sidebar:
-    style: "docked"
-    search: true
-    contents: 
-      - section: "Présentation"
-        contents: 
-          - index.qmd
-          - Modalités.qmd
-          - Débouchés.qmd
-      - section: "Formation"
-        contents:
-          - Organisation.qmd
-          - Enseignements.qmd
-          - Enseignants.qmd
-          - Stage.qmd
-      - section: "Contacts"
-        contents:
-          - contacts.qmd
-      - section: "Livret d'acceuil"
-        contents:
-          - Livret_acceuil.qmd
-      - section: "On parle de nous"
-        contents:
-          - parle_de_nous.qmd
-      - section: "Ressources"
-        contents:
-          - ressources.qmd
-      - section: "Actualités"
-        contents:
-          - Actualites.qmd
 
-      
-    tools: 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/master-sep-a004ba256/
-      - icon: facebook
-        href: https://www.facebook.com/Master-SEP-Reims-108350474430182
-      - icon: github
-        href: https://github.com/MasterSEP
-      - icon: instagram 
-        href: https://www.instagram.com/
+
       
          
 
@@ -89,8 +53,8 @@ format:
   html:
     toc: true
     page-layout: full
-    theme: Sandstone
-    #css: styles.css
+    theme: jolla
+    css: styles.css
     
 
 

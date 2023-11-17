@@ -3,7 +3,7 @@ title: "Ressources"
 editor: visual
 ---
 
-### Outil bibliographique 
+### Outil bibliographique
 
 <https://biblioinversee.shinyapps.io/application-biblio-inversee/>
 
