@@ -20,13 +20,18 @@ $blue2 :  #1D325A !default;
 $blue3 :  #081E48 !default;
 
 
+<<<<<<< HEAD
 $navbar-bg : $blue1;
+=======
+$navbar-bg : $blue3;
+>>>>>>> 41627eae761b7d84ab0f125c099119c7d6c54c0b
 
 $primary: $blue3;
 
 
 $navbar-fg: $white;
 
+<<<<<<< HEAD
 $body-color: $blue3;
 
 $navbar-hl: $yellow;
@@ -34,6 +39,16 @@ $navbar-hl: $yellow;
 $link-color: $orange;
 
 $body-bg: $white !default;
+=======
+$body-color: $white;
+
+$navbar-hl: $yellow;
+
+$link-color: $yellow;
+
+$body-bg: $blue1 !default;
+
+>>>>>>> 41627eae761b7d84ab0f125c099119c7d6c54c0b
 
 
 h1, .h1, h2, .h2 {
@@ -41,8 +56,13 @@ h1, .h1, h2, .h2 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: 600;
+<<<<<<< HEAD
     color: teal;
     text-transform: uppercase;
 }
 
 
+=======
+    color: $white;
+}
+>>>>>>> 41627eae761b7d84ab0f125c099119c7d6c54c0b

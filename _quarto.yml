@@ -27,9 +27,20 @@ website:
       - text: "Présentation"
         file: index.qmd
       - text: "Formation"
+
         file: Formation.qmd
       - text: "Programmes"
         file: Programmes.qmd
+
+        file: Organisation.qmd
+      - text: "Contacts"
+        file: contacts.qmd
+        
+      - text: "Livret d'acceuil"
+        file: Livret_acceuil.qmd
+      - text: "On parle de nous"
+        file: parle_de_nous.qmd
+
       - text: "Ressources"
         file: ressources.qmd
       - text: "Actualités"
@@ -40,16 +51,23 @@ website:
         file: parle_de_nous.qmd
       - text: "Contacts"
         file: contacts.qmd
+
+
+
       
+
 
     
 format:
   html:
     toc: true
     page-layout: full
+
     theme: 
     - yeti
     - themes.scss
+
+    theme: jolla
     css: styles.css
     
 
