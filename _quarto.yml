@@ -30,12 +30,12 @@ website:
         file: Formation.qmd
       - text: "Programmes"
         file: Programmes.qmd
+      - text :"Organisation des enseignements"
+        file : Organisation.qmd
       - text: "Ressources"
         file: ressources.qmd
       - text: "Actualités"
         file: Actualites.qmd
-      - text: "Réseau Alumni"
-        file: Alumni.qmd
       - text: "On parle de nous"
         file: parle_de_nous.qmd
       - text: "Contacts"
