@@ -42,7 +42,10 @@ Bâtiment 18\
 
 ![](Images/Plan_campus.JPG){width="457"}
 
-```{r , echo=FALSE}
+```{}
+```
+
+```{r}
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
