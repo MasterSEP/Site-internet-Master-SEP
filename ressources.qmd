@@ -3,8 +3,7 @@ title: "Ressources"
 editor: visual
 ---
 
-(Images/ressources.png){fig-align="center" width="324"}
-
+![](Images/ressources.png){fig-align="center" width="324"}
 
 ### Outil bibliographique
 
