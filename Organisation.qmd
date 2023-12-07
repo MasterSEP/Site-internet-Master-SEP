@@ -1,5 +1,5 @@
 ---
-title: "Organisation des enseignements"
+title: "Organisation"
 editor: visual
 ---
 
