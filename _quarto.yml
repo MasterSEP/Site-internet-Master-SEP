@@ -24,7 +24,7 @@ website:
     background: secondary
     search: true
     left:
-      - text: "Présentation"
+      - text: "Présentation du Master SEP"
         file: index.qmd
         
       - text: "Formation"
@@ -39,7 +39,6 @@ website:
       - text: "Contacts"
         file: contacts.qmd
         
-     
 
       - text: "Ressources"
         file: ressources.qmd

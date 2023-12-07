@@ -47,10 +47,5 @@ Le Master délivre le SAS Joint Certificate Program « **SAS Programing & Data A
 
 Le master SEP de l'université de Reims Champagne-Ardenne a été classé parmi les meilleurs masters au [classement 2023 "Master Big Data & Data Sciences" de Eduniversal](https://www.meilleurs-masters.com/master-big-data-data-sciences.html).
 
-```{r , echo=FALSE}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
-```
+
 
