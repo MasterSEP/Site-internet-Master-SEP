@@ -6,7 +6,7 @@ editor: visual
 
 Le métier de la Data Science (science des données) est un métier interdisciplinaire qui se fait de plus en plus connaître ces dernières années, mais sans en vraiment comprendre le sens. Data Scientist (scientifique des données) est d'ailleurs souvent confondu avec Data Analyst (analyste de données) et même certains professionnels du domaine parviennent difficilement à expliquer leur métier. Auparavant ces professionnels étaient même plutôt appelés des statisticiens !
 
-![](Images/article_6%202.png){fig-align="center"}
+![](/Images/article_6 2.png){fig-align="center" width="324"}
 
 Mais alors quelle est la différence et en quoi consiste le métier de Data Scientist ? Là où un Data Analyst ira interpréter les données pour en faire des rapports pour répondre à une question factuelle, un Data Scientist ira quant à lui plus en profondeur sur une question de prévision pour de l'aide à la décision. Pour mieux illustrer le propos, voici un exemple de problématique par métier :
 
@@ -15,7 +15,7 @@ Mais alors quelle est la différence et en quoi consiste le métier de Data Scie
 
 Ici l'analyste va vous donner une interprétation de ce qu'il aura découvert et éventuellement une piste d'amélioration même s'il n'est pas certain que ce qu'il a découvert se reproduise, tandis que le scientifique va vous donner des prévisions de ce qu'il pourrait se produire et pourquoi, pour vous aider à l'anticiper.
 
-![](Images/article_6.png){fig-align="center" width="213"}
+![](/Images/article_6.png){fig-align="center" width="324"}
 
 Cependant un Data Scientist n'est pas devin ! Pour parvenir à réaliser ses prévisions, il doit d'abord passer par **plusieurs étapes :**
 
@@ -27,7 +27,7 @@ Cependant un Data Scientist n'est pas devin ! Pour parvenir à réaliser ses pr�
 
 **4.** [**La création de l'algorithme :**]{.underline} l'étape la plus importante pour vous, c'est ici que la magie des mathématiques opère. A l'aide de plusieurs outils possibles, le Data Scientist va utiliser ou créer plusieurs modèles mathématiques et les tester les uns après les autres afin d'obtenir le meilleur résultat possible. Cette étape peut être longue puisque parfois il peut être amené à réadapter encore et encore ses paramètres selon les résultats obtenus lors des tests, ou bien même selon des recherches que lui-même ou d'autres auront menées en parallèle pour s'adapter aux progrès technologiques, comme en intelligence artificielle par exemple. Cette étape peut même aboutir à compléter les étapes précédentes au besoin. Une fois tout ce processus complété, le Data Scientist pourra finalement vous présenter ses meilleurs résultats. Ils ne seront pas toujours parfaits mais ils colleront au plus près de la réalité et vous donneront souvent une excellente piste pour faciliter les décisions !
 
-![](Images/article_6%203.png){fig-align="center"}
+![](/Images/article_6 3.png){fig-align="center" width="324"}
 
 Et **l'éthique** du Data Scientist dans tout ça ? Elle englobe un ensemble de principes et de valeurs qui guident sa conduite dans la collecte, le traitement, l'analyse et l'utilisation des données. En raison de la nature souvent sensible des données et de l'impact potentiel sur la vie privée, l'éthique revêt une importance cruciale dans le domaine de la Data Science. Voici quelques principes éthiques auxquels un professionnel est généralement tenu de se conformer :
 

@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-![](article_7.jpg){fig-align="center"}
+![](/Images/article_7.jpg){fig-align="center" width="324"}
 
 **La data visualisation joue un rôle crucial dans la création de valeur en rendant les données plus claires et faciles à comprendre. Alors que les organisations produisent de plus en plus de données, celles-ci ne sont pas toujours facilement interprétables. Afin de tirer pleinement parti du potentiel de ces données, il est essentiel d'utiliser des outils performants de data visualisation. Dans cet article, nous allons explorer ce qu'est la dataviz et comment l'utiliser pour valoriser vos données.**
 

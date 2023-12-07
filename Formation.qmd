@@ -3,7 +3,7 @@ title: "Formation"
 editor: visual
 ---
 
-\![\](Images/Contact-removebg-preview.png){fig-align="center" width="389"}
+! \[ \] (Images/Contact-removebg-preview.png){fig-align="center" width="389"}
 
 ![](images/formation-presentiel.webp){fig-align="center" width="389"}
 
