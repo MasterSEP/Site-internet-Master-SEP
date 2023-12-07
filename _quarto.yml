@@ -26,31 +26,33 @@ website:
     left:
       - text: "Présentation"
         file: index.qmd
+        
       - text: "Formation"
-
         file: Formation.qmd
+        
       - text: "Programmes"
         file: Programmes.qmd
-
+        
+      - text: "Organisation"
         file: Organisation.qmd
+        
       - text: "Contacts"
         file: contacts.qmd
         
-      - text: "Livret d'acceuil"
-        file: Livret_acceuil.qmd
-      - text: "On parle de nous"
-        file: parle_de_nous.qmd
+     
 
       - text: "Ressources"
         file: ressources.qmd
+        
       - text: "Actualités"
         file: Actualites.qmd
+        
       - text: "Réseau Alumni"
         file: Alumni.qmd
+        
       - text: "On parle de nous"
         file: parle_de_nous.qmd
-      - text: "Contacts"
-        file: contacts.qmd
+     
 
 
 
@@ -64,10 +66,10 @@ format:
     page-layout: full
 
     theme: 
-    - yeti
-    - themes.scss
+     - jolla
+     - themes.scss
 
-    theme: jolla
+   # theme: jolla
     css: styles.css
     
 
