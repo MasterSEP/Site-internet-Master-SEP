@@ -24,49 +24,32 @@ website:
     background: secondary
     search: true
     left:
-      - text: "Présentation du Master SEP"
+      - text: "Présentation"
         file: index.qmd
-        
       - text: "Formation"
         file: Formation.qmd
-        
       - text: "Programmes"
         file: Programmes.qmd
-        
-      - text: "Organisation"
-        file: Organisation.qmd
-        
-      - text: "Contacts"
-        file: contacts.qmd
-        
-
       - text: "Ressources"
         file: ressources.qmd
-        
       - text: "Actualités"
         file: Actualites.qmd
-        
-     
+      - text: "Réseau Alumni"
+        file: Alumni.qmd
       - text: "On parle de nous"
         file: parle_de_nous.qmd
-     
-
-
-
+      - text: "Contacts"
+        file: contacts.qmd
       
-
 
     
 format:
   html:
     toc: true
     page-layout: full
-
     theme: 
-     - jolla
-     - themes.scss
-
-   # theme: jolla
+    - yeti
+    - themes.scss
     css: styles.css
     
 
