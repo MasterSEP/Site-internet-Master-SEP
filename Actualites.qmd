@@ -7,4 +7,6 @@ listing:
     - "Article_2.qmd"
     - "Article_4.qmd"
     - "Article_5.qmd"
+    - "Article_6.qmd"
+    - "Article_7.qmd"
 ---

@@ -1,12 +1,12 @@
 ---
-title: "Microsoft lance officiellement SQL Server 2022"
+title: "<span style='color:darkcyan;'>Microsoft lance officiellement SQL Server 2022</span>"
 format: html
 editor: visual
 ---
 
 Microsoft a rendu SQL Server 2022 en disponibilité générale. Plusieurs évolutions sont à noter, notamment une forte imbrication avec le cloud Azure.
 
-![SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)](https://images.itnewsinfo.com/lmi/articles/grande/000000088988.png "SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)"){alt="SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)"}
+![SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)](https://images.itnewsinfo.com/lmi/articles/grande/000000088988.png "SQL Server 2022 a été officiellement lancé par Microsoft et fait la part belle à l'intégration avec les services d'Azure. (Crédit Photo : Microsoft)")
 
 La déclinaison 2022 du SGBD de Microsoft, SQL Server, passe en mode GA (disponibilité générale). La firme de Redmond l'a annoncé à l'occasion du PASS (Professional Association for SQL Server) Community Summit qui s'est tenu récemment à Seattle. Il succède à SQL Server 2019, sorti il y a un peu plus de trois ans.
 

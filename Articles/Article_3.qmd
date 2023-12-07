@@ -1,12 +1,12 @@
 ---
-title: "Les technologies en IA et analyse de données loin de leur plein potentiel"
+title: "<span style='color:darkcyan;'>Les technologies en IA et analyse de données loin de leur plein potentiel</span>"
 format: html
 editor: visual
 ---
 
 En France, 63% des managers utilisent des technologies d'intelligence artificielle et d'analyse des données pour assurer leurs missions, selon une étude réalisée par Axys Consultants. Mais plusieurs facteurs, comme le manque de formation ou d'acculturation à ces outils les empêchent d'en tirer pleinement parti.
 
-![Le défi le plus complexe pour les managers est de s'approprier la data, et l'IA pour effectuer des prévisions sur leur activité et celle de leurs équipes. (Crédit photo : PhotosMix/Pixabay)](https://images.itnewsinfo.com/lmi/articles/grande/000000088446.jpg "Le défi le plus complexe pour les managers est de s’approprier la data, et l’IA pour effectuer des prévisions sur leur activité et celle de leurs équipes. (Crédit photo : PhotosMix/Pixabay)"){alt="Le défi le plus complexe pour les managers est de s’approprier la data, et l’IA pour effectuer des prévisions sur leur activité et celle de leurs équipes. (Crédit photo : PhotosMix/Pixabay)"}
+![Le défi le plus complexe pour les managers est de s'approprier la data, et l'IA pour effectuer des prévisions sur leur activité et celle de leurs équipes. (Crédit photo : PhotosMix/Pixabay)](https://images.itnewsinfo.com/lmi/articles/grande/000000088446.jpg "Le défi le plus complexe pour les managers est de s’approprier la data, et l’IA pour effectuer des prévisions sur leur activité et celle de leurs équipes. (Crédit photo : PhotosMix/Pixabay)")
 
 Dans l'Hexagone, les technologies d'IA et d'analyse des données sont les plus utilisées dans le cadre de la fonction managériale mais des freins au développement de ces dernières sont ressentis plus vivement. C'est le principal enseignement [d'une étude nationale ](https://storage.pardot.com/682673/1665418739ssysO79A/20221010_Manager_augment___Infographie.jpg)réalisée par Axys Consultants auprès de 220 cadres dirigeants. Les résultats montrent en effet que près de 2/3 des managers s'appuient sur ce type de solutions pour assurer leurs missions (63 %). Les outils big data (53 %) sont les plus utilisés par les cadres dirigeants, devant l'IA qui se place en 2ème position (43 %). Selon le cabinet, ces scores laissent supposer que les projets prévus en 2021 ont été menés à bien.  En effet, les répondants étaient 35 % à travailler sur le sujet et 9 % à avoir mis en œuvre des solutions concrètes faisant appel à l'IA (soit 44 %).
 

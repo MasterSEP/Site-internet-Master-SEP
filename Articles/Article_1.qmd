@@ -1,12 +1,12 @@
 ---
-title: "10 bases de données orientées machine learning"
+title: "<span style='color:darkcyan;'>10 bases de données orientées machine learning</span>" 
 format: html
 editor: visual
 ---
 
 Bien que leurs approches et leurs capacités diffèrent, de nombreuses bases de données permettent de créer des modèles d'apprentissage automatique pour exploiter et donner du sens à des mines d'informations. Aux côtés des mastodontes Amazon, Google, Oracle et Microsoft des plateformes comme BlazingSQL, Brytlyt et Kinetica sortent du lot.
 
-![Le machine learning et le deep learning sont aujourd'hui des atouts de taille dans le traitement de lourdes bases de données. (Crédit : Brett Sayles)](https://images.itnewsinfo.com/lmi/articles/grande/000000089555.jpg "Le machine learning et le deep learning sont aujourd'hui des atouts de taille dans le traitement de lourdes bases de données. (Crédit : Brett Sayles)"){alt="Le machine learning et le deep learning sont aujourd'hui des atouts de taille dans le traitement de lourdes bases de données. (Crédit : Brett Sayles)"}
+![Le machine learning et le deep learning sont aujourd'hui des atouts de taille dans le traitement de lourdes bases de données. (Crédit : Brett Sayles)](https://images.itnewsinfo.com/lmi/articles/grande/000000089555.jpg "Le machine learning et le deep learning sont aujourd'hui des atouts de taille dans le traitement de lourdes bases de données. (Crédit : Brett Sayles)")
 
 Dans un article d'octobre 2022 intitulé [Comment choisir une plateforme d'apprentissage automatique cloud](https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html), le premier conseil de Martin Heller pour le choix d'une plateforme était le suivant : « Soyez proche de vos données ». Garder le code près des données est nécessaire pour maintenir une faible latence, car la vitesse de la lumière limite les vitesses de transmission. Après tout, le machine learning (ML) - en particulier le deep learning - a tendance à parcourir toutes vos données plusieurs fois. L'idéal, pour les très grands ensembles de données, est de construire le modèle là où les données résident déjà, de sorte qu'aucune transmission massive de données ne soit nécessaire. Plusieurs bases de données le permettent dans une certaine mesure. La question suivante est naturellement : quelles bases de données prennent en charge le ML interne, et comment le font-elles ? Voici un tour d'horizon de ces bases de données par ordre alphabétique.
 

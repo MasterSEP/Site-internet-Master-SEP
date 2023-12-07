@@ -5,16 +5,35 @@ editor: visual
 
 ### Métiers
 
-Les métiers visés sont très variés : chargé d'études statistiques ou économiques ; data-miner ; gestionnaire de risques ; géomarketeur ; économètre ; analyste financier ; marketeur quantitatif.\
+Les métiers visés sont très variés :
+
+-   Data analyst / Data scientist / Data miner
+
+-   Statisticien
+
+<!-- -->
+
+-   Chargé d'études statistiques ou économiques
+
+-   Gestionnaire de risques / Risk manager
+
+-   Géomarketeur
+
+-   Economètre
+
+-   Analyste financier
+
+-   Marketeur quantitatif.
+
+\
 La rémunération moyenne annuelle brute constatée pour le premier emploi est **32 K€** et le délai d'attente pour ce premier emploi est généralement inférieur à **6 mois**.\
 
 ### Secteurs d'activités
 
-Le master S.E.P. permet de s'insérer facilement dans des secteurs d'activités aussi divers que ceux :\
--- des cabinets de conseil statistique et économique : prospective, marketing quantitatif, gestion des risques, géomarketing, audimat, etc...\
--- des administrations : locales, nationales, internationales;\
--- de l'industrie et des services : banques, assurances, pharmacie, etc...
+Le master S.E.P. permet de s'insérer facilement dans des secteurs d'activités aussi divers que ceux :
 
-### Livret des stages
+-   des cabinets de conseil statistique et économique : prospective, marketing quantitatif, gestion des risques, géomarketing, audimat, etc...
 
-Un livret présentant les secteurs d'activités des stages des promotions précédentes est disponible [ici](https://livret-des-stages.quarto.pub/livret-des-stage/).
+-   des administrations : locales, nationales, internationales;
+
+-   de l'industrie et des services : banques, assurances, pharmacie, etc...

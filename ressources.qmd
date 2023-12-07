@@ -3,7 +3,9 @@ title: "Ressources"
 editor: visual
 ---
 
-### Outil bibliographique 
+![](Images/ressources.png){fig-align="center" width="324"}
+
+### Outil bibliographique
 
 <https://biblioinversee.shinyapps.io/application-biblio-inversee/>
 
@@ -16,3 +18,29 @@ editor: visual
 ### Data Camp
 
 Un Data Camp présentant les prérequis de la formation pour les parcours économique et mathématique est disponible [ici](https://datacamp.quarto.pub/datacamp/).
+
+### Enquête d'insertion professionnelle
+
+Les anciens étudiants de la promotion 2019 ont été invités à répondre à un questionnaire visant à enquêter sur leurs situations professionnelles 30 mois après l'obtention du diplôme.
+
+Vous pouvez retrouver le détail de l'enquête en cliquant [ici](enquetes.pdf)
+
+### Livret d'accueil
+
+![](images/FR_welcome-03.jpg){fig-align="center"}
+
+Le CROUS est la principale structure pour obtenir un logement en résidence universitaire. Mais la chatoyante ville de Reims à beaucoup de logements chez des particuliers comme chez des privés, qui ne demande qu'à accueillir des étudiants.
+
+Pour les étudiants étrangers, les démarches sont d'autant plus difficiles du point de vue administratif. Le livret d'accueil ci-dessous, spécifiquement dédié aux étudiants étrangers, résume l'ensemble des informations nécessaires à leur intégration.
+
+[Livret d'accueil 2023-2024](https://livret-accueil.quarto.pub/livretaccueil/)
+
+### **"Cheatsheets"**
+
+Les cheatsheets ont été soigneusement élaborées pour vous offrir des références rapides et utiles sur différents langages de programmation :
+
+[Cheatsheets - Posit](https://posit.co/resources/cheatsheets/?type=posit-cheatsheets/)
+
+[Cheatsheets - DataCamp](https://www.datacamp.com/resources/cheatsheets)
+
+Nous espérons que ces ressources vous seront utiles dans votre parcours académique et professionnel. N'hésitez pas à explorer et à partager ces cheatsheets avec vos pairs.

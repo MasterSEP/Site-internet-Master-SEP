@@ -3,6 +3,8 @@ title: "Contacts"
 editor: visual
 ---
 
+![](images/Contact-removebg-preview.png){fig-align="center"}
+
 Pour toute demande d'information concernant le parcours du master SEP, contacter :
 
 ### **Master Analyse et Politique Economique :**
@@ -31,4 +33,19 @@ courriel : [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr)
 
 Vous souhaitez connaitre l'avis des étudiants sur l'enseignement dispensé et les possibles débouchées ? Posez votre question, les étudiants vous répondrons.
 
-# 
+## Campus
+
+Campus Croix-Rouge\
+Bâtiment 18\
+57 rue Pierre Taittinger\
+51100 Reims
+
+![](Images/Plan_campus.JPG){width="457"}
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
+
+```

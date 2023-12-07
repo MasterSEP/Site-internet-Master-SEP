@@ -1,12 +1,12 @@
 ---
-title: "Dégradation de la qualité et l'accessibilité des données en 2022"
+title: "<span style='color:darkcyan;'>Dégradation de la qualité et l'accessibilité des données en 2022</span>"
 format: html
 editor: visual
 ---
 
 D'après une étude publiée par l'éditeur Talend, la quasi-totalité des entreprises a éprouvé des difficultés à utiliser les données en 2022. En cause, une dégradation de la santé des données au cours de l'année passée, en particulier sur les aspects d'actualisation.
 
-![Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l\'importance de la culture data pour les entreprises.](https://images.itnewsinfo.com/lmi/articles/grande/000000089992.jpg "Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l’importance de la culture data pour les entreprises."){alt="Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l’importance de la culture data pour les entreprises."}
+![Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l'importance de la culture data pour les entreprises.](https://images.itnewsinfo.com/lmi/articles/grande/000000089992.jpg "Le baromètre 2022 de Talend/Qualtrics sur la santé des données met en exergue l’importance de la culture data pour les entreprises.")
 
 Pratiquement toutes les entreprises reconnaissent l'importance des données pour le succès de leurs stratégies, qu'il s'agisse d'augmenter le chiffre d'affaires, d'optimiser les coûts ou de réduire les risques. Pourtant, selon le baromètre 2022 sur la santé des données réalisé par [l'éditeur Talend](https://www.lemondeinformatique.fr/actualites/lire-talend-bientot-dans-l-escarcelle-de-qlik-89148.html) et la société Qualtrics, 97% des 892 décideurs et professionnels de la donnée interrogés témoignent de difficultés à utiliser les données dont ils disposent, leurs deux premiers défis étant d'assurer la qualité des données (49%) et d'y accéder rapidement (41%).\
 \

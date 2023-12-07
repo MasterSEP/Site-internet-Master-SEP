@@ -1,0 +1,85 @@
+---
+title: "<span style='color:darkcyan;'>Data visualisation : comment valoriser au mieux ses données ?</span>"
+format: html
+editor: visual
+---
+
+![](article_7.jpg){fig-align="center"}
+
+**La data visualisation joue un rôle crucial dans la création de valeur en rendant les données plus claires et faciles à comprendre. Alors que les organisations produisent de plus en plus de données, celles-ci ne sont pas toujours facilement interprétables. Afin de tirer pleinement parti du potentiel de ces données, il est essentiel d'utiliser des outils performants de data visualisation. Dans cet article, nous allons explorer ce qu'est la dataviz et comment l'utiliser pour valoriser vos données.**
+
+Rendant les données plus intelligibles et plus compréhensibles, la data visualisation favorise la création de valeur. 
+
+Si les organisations génèrent de plus en plus de données, elles ne sont pas toujours intelligibles et compréhensibles. Alors pour exploiter pleinement tout le potentiel des données, il est primordial de se doter d**'outils de data visualisations performantes**. De quoi s'agit-il ? Comment utiliser la dataviz pour valoriser ses données ? C'est ce que nous allons voir dans cet article. 
+
+1.  **Qu'est-ce que la data visualisation ?**
+
+<!-- -->
+
+1.  **Définition**
+
+Entre les volumes de données exponentiels, les formats et les sources variées, les organisations disposent d'une grande diversité d'informations. Mais pour leur donner du sens, il est primordial de les rendre intelligibles et compréhensibles par l'ensemble des utilisateurs. C'est justement l'objectif de la data visualisation. Il s'agit de **transformer des données brutes en informations claires et lisibles** grâce à des représentations graphiques (tableaux de bord, des datas stories, camembert, etc). 
+
+Ce faisant, les utilisateurs (qu'ils soient expert data ou non) peuvent interpréter et analyser les données de manière intuitive. 
+
+b\. **Bénéfices de la visualisation de données**
+
+À l'heure du Big data, l'utilisation des données semble de plus en plus complexe. La data visualisation permet justement de simplifier cette exploitation :
+
+-   **Rendre les données intelligibles et facilement compréhensibles** : grâce à la dataviz, la donnée n'est plus seulement une affaire de spécialistes. À travers les représentations visuelles, les utilisateurs sans compétences techniques peuvent comprendre simplement le message dégagé. 
+
+-   **Prendre de meilleures décisions :** bien souvent, les données se présentent sous forme de tableaux avec des milliers de lignes. Or, parmi toutes ces informations disponibles, il est souvent difficile de dégager les éléments les plus importants. La data visualisation a justement pour but de mettre en valeur les insights les plus pertinents. Les organisations peuvent plus facilement identifier des opportunités, détecter des risques, résoudre des problèmes, et plus globalement atteindre leurs objectifs. 
+
+2.  **Comment valoriser ses données à travers des data visualisations ?**
+
+<!-- -->
+
+1.  **Choisir une visualisation adaptée à vos données et au message que vous voulez transmettre**
+
+Pour prendre les meilleures décisions, les organisations ont tout intérêt à choisir les [**outils de data visualisation**](https://www.opendatasoft.com/fr/visualisez-vos-donnees/) les plus pertinents. Voici quelques conseils : 
+
+-   **Adapter son message à l'audience :** les données peuvent être destinées à des analystes data maîtrisant à la perfection les tableaux et les chiffres, mais aussi à des experts métiers sans aucune compétence technique. Alors pour rendre les informations intelligibles, il convient d'adapter la visualisation à l'utilisateur. 
+
+-   **Choisir les données les plus pertinentes** : pour que votre data visualisation soit facilement compréhensible et exploitable, il est important de prioriser les données à utiliser et de s'assurer qu'elles sont de qualité. 
+
+-   **Croiser différents jeux de données** : Pour créer des [**data visualisations**](https://www.opendatasoft.com/fr/blog/dashboards-datastories-maps-quelles-data-visualisations-choisir/), il est en général nécessaire de croiser vos données avec des données de référence (géographique, temporalité, etc). C'est également une bonne pratique pour dégager des tendances
+
+-   **Faciliter l'accès aux data visualisation** : Pour que vos data visualisation soient consultées et utilisées, il est indispensable d'en faciliter l'exploitation, en les réunissant sur un portail data unique par exemple. 
+
+b\. **Contextualiser ses données à travers des dashboards ou data stories**
+
+Pour valoriser les différentes data visualisations créées à partir de vos données, il est important de les agréger sous la forme de : 
+
+-   **Tableaux de bord** : les dashboard sont utiles à tous les départements de l'organisation. En regroupant différentes data visualisations, il est ainsi possible de créer des tableaux de bord financiers, opérationnels ou des dashboards thématiques. 
+
+-   **Datastories :** l'objectif est de raconter une histoire grâce à la donnée. On peut ainsi imaginer ajouter des images, des textes ou des liens et ressources externes pour donner plus de contexte aux données. 
+
+3.  **Concevoir des data visualisations percutantes avec Opendatasoft**
+
+Entre un renforcement du partage des données à l'ensemble des utilisateurs et une simplification des créations de data visualisation, **l'accès aux données se démocratise progressivement**. Toutes les parties prenantes peuvent ainsi interpréter les données à leur disposition, mais aussi transmettre les bons messages. Cela permet ainsi d'optimiser les opérations, de nourrir des relations de transparence avec les parties prenantes et d'accélérer le développement de son organisation.
+
+Avec la plateforme Opendatasoft, vous pouvez gérer tout le cycle de vie de vos données, de leurs enrichissement, en passant par la création de data visualisation et jusqu'au partage dans des formats adaptés à tous. 
+
+**Enrichir vos données pour construire des data visualisation pertinentes**
+
+Pour créer des data visualisation compréhensibles, il est indispensable d'utiliser des données complètes et de qualité. Opendatasoft fournit plus de 50 processeurs qui permettent aux utilisateurs de corriger ou de modifier leurs données sans avoir à écrire une seule ligne de code. Il est ainsi possible de : 
+
+-   **Ajouter des données d'emplacement géographique** ou appliquer des transformations géographiques. La plateforme permet même d'utiliser la géolocalisation à partir d'une adresse pour obtenir automatiquement un géopoint et une carte.
+
+-   **Normaliser une date** en adaptant vos données à la représentation standard de la date et de l'heure définie par la norme ISO 8601.
+
+La plateforme Opendatasoft met à disposition un grand nombre de datasets de référence afin de faciliter le croisement des jeux de données et de permettre la création de nouveaux usages. 
+
+**Simplifier la création de data visualisations avec une solution no-code**
+
+Bien souvent, la data visualisation est la compétence exclusive d'expert de la donnée. Ces derniers maîtrisent à la perfection les langages de programmation, les solutions de business intelligence, etc. Or, les collaborateurs ne possédant pas de telles compétences sont limités quant à la valorisation des données. Comme ils ne peuvent créer simplement de data visualisation, ils n'exploitent pas pleinement les données à leur disposition. Cette **exclusion des non-experts peut représenter un véritable manque à gagner** pour les organisations, puisque les décisions ne sont pas prises en toute connaissance de cause. 
+
+Pour éviter cette situation, il est primordial de simplifier la création de data visualisation. Notamment grâce à des **solutions no code.**
+
+**Partager ses dataviz en toute simplicité**
+
+La data visualisation ayant pour objectif de rendre les données compréhensibles par tous, il est primordial d'en **favoriser le partage à l'ensemble des utilisateurs** (aussi bien les collaborateurs en interne, que les partenaires externes, les fournisseurs, les clients, ...). 
+
+La plateforme Opendatasoft facilite justement le partage de data viz avec toutes les parties prenantes.
+
+Article rédigé par Silicon

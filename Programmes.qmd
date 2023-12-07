@@ -1,10 +1,7 @@
 ---
-title: ""
+title: "Programmes"
 ---
 
-```{r , echo=FALSE}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
-```
+![](Images/programmes.jpeg){fig-align="center" width="407"}
+
+Un programme détaillé des enseignements et des intervenants est disponible en cliquant [ici](Maquette_Master.pdf).

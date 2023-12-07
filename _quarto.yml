@@ -6,10 +6,9 @@ website:
   search : true
   title: "URCA - Master SEP"
   reader-mode: true
-  favicon: logo_blanc.jpg
 
   page-footer: 
-      center: "Made by Nouhaila & Hafsa, URCA Master SEP"
+      center: "<span style='color: darkcyan;'>Made by Nouhaila & Hafsa, URCA Master SEP</span>"
       right:
         - icon: linkedin
           href: https://www.linkedin.com/in/master-sep-a004ba256/
@@ -21,7 +20,7 @@ website:
           href: https://www.instagram.com/
 
   navbar:
-    logo: logo urca.jpg
+    logo: "Images/logo.png"
     background: secondary
     search: true
     left:
@@ -29,66 +28,30 @@ website:
         file: index.qmd
       - text: "Formation"
         file: Formation.qmd
-      - text: "Contacts"
-        file: contacts.qmd
-        
-      - text: "Livret d'acceuil"
-        file: Livret_acceuil.qmd
-      - text: "On parle de nous"
-        file: parle_de_nous.qmd
+      - text: "Programmes"
+        file: Programmes.qmd
       - text: "Ressources"
         file: ressources.qmd
       - text: "Actualités"
         file: Actualites.qmd
-      - text: "Programmes"
-        file: Programmes.qmd
+      - text: "Réseau Alumni"
+        file: Alumni.qmd
+      - text: "On parle de nous"
+        file: parle_de_nous.qmd
+      - text: "Contacts"
+        file: contacts.qmd
       
-      
-  sidebar:
-    style: "docked"
-    search: true
-    contents: 
-      - section: "Présentation"
-        contents: 
-          - index.qmd
-          - Modalités.qmd
-          - Débouchés.qmd
-      - section: "Formation"
-        contents:
-          - Organisation.qmd
-          - Enseignements.qmd
-          - Enseignants.qmd
-          - Stage.qmd
-      - section: "Contacts"
-        contents:
-          - contacts.qmd
-      - section: "Livret d'acceuil"
-        contents:
-          - Livret_acceuil.qmd
-      - section: "On parle de nous"
-        contents:
-          - parle_de_nous.qmd
-      - section: "Ressources"
-        contents:
-          - ressources.qmd
-      - section: "Actualités"
-        contents:
-          - Actualites.qmd
 
-
-      
-         
-
+    
 format:
   html:
     toc: true
     page-layout: full
-    theme: journal
+    theme: 
+    - yeti
+    - themes.scss
     css: styles.css
     
-
-
-
 
     
 

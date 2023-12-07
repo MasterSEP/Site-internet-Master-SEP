@@ -1,0 +1,28 @@
+---
+title: "Formation"
+editor: visual
+---
+
+![](images/formation-presentiel.webp){fig-align="center" width="389"}
+
+Explorez le détail de nos enseignements et plongez-vous dans les sujets passionnants que propose notre programme :
+
+-   [**Organisation des enseignements**](Organisation.qmd)
+
+------------------------------------------------------------------------
+
+Envisagez votre avenir professionnel en consultant la liste des métiers accessibles après l'obtention de notre diplôme :
+
+-   [**Débouchés du master**](Débouchés.qmd)
+
+------------------------------------------------------------------------
+
+Une inscription au master vous intéresse ? Si vous êtes prêt à franchir le pas, retrouvez ici toutes les informations relatives aux conditions d'admission et aux prérequis.
+
+-   [**Modalités d'admissions**](Modalités.qmd)
+
+------------------------------------------------------------------------
+
+Vous vous posez des questions sur les possibilités de stage ? Renseignez vous sur le parcours des anciens du master avec la page ci-dessous :
+
+-   [**Stages des anciens étudiants**](Stage.qmd)
