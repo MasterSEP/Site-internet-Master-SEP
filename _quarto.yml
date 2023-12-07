@@ -47,9 +47,7 @@ website:
       - text: "Actualités"
         file: Actualites.qmd
         
-      - text: "Réseau Alumni"
-        file: Alumni.qmd
-        
+     
       - text: "On parle de nous"
         file: parle_de_nous.qmd
      

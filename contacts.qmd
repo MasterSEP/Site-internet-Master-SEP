@@ -42,10 +42,9 @@ Bâtiment 18\
 
 ![](Images/Plan_campus.JPG){width="457"}
 
-```{r, echo=FALSE}
+```{r , echo=FALSE}
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
-
 ```
