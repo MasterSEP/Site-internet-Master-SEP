@@ -3,9 +3,7 @@ title: "Formation"
 editor: visual
 ---
 
-! \[ \] (Images/Contact-removebg-preview.png){fig-align="center" width="389"}
-
-![](images/formation-presentiel.webp){fig-align="center" width="389"}
+![](Images/formation-presentiel.webp){fig-align="center" width="324"}
 
 Explorez le détail de nos enseignements et plongez-vous dans les sujets passionnants que propose notre programme :
 
