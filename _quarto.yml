@@ -30,7 +30,7 @@ website:
         file: Formation.qmd
       - text: "Programmes"
         file: Programmes.qmd
-      - text : "Organisation des enseignements"
+      - text : "Organisation"
         file : Organisation.qmd
       - text: "Ressources"
         file: ressources.qmd
