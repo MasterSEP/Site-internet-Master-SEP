@@ -17,7 +17,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 ##### MASTER 1 : SEP-MA
 
 | SEMESTRE 1                                             | Volume Horaire | ECTS |
-|-----------------------------------------|----------------|----------------|
+|--------------------------------------------------------|----------------|------|
 | Probabilités 1                                         | 56h            | 6    |
 | Analyse fonctionnelle 1                                | 28h            | 3    |
 | Modélisation                                           | 28h            | 3    |
@@ -81,7 +81,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 ##### MASTER 2 : SEP-MA
 
 | SEMESTRE 3                                                       | Volume Horaire | ECTS |
-|-----------------------------------------------|-------------|-------------|
+|------------------------------------------------------------------|----------------|------|
 | Analyse des systèmes complexes                                   | 50h            | 6    |
 | Outils big data                                                  | 25h            | 3    |
 | Apprentissage automatique                                        | 25h            | 3    |
@@ -94,7 +94,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 | Conférences, Gestion de projet & Projet Digital, SAS et VBA      | 52h            | 4    |
 
 | SEMESTRE 4                                                                         | Volume Horaire | ECTS |
-|---------------------|------------------------------|---------------------|
+|------------------------------------------------------------------------------------|----------------|------|
 | Techniques de recherche d'emploi et de stage (TRES), stage ou mémoire de recherche | 15h            | 30   |
 
 ```{=html}
