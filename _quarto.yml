@@ -20,7 +20,7 @@ website:
           href: https://www.instagram.com/
 
   navbar:
-    logo: "Images/URCAorbrun.png"
+    logo: "Images/logo-urca.png"
     background: secondary
     search: true
     left:
