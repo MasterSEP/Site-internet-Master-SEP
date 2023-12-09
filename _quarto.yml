@@ -36,8 +36,6 @@ website:
         file: ressources.qmd
       - text: "Actualités"
         file: Actualites.qmd
-      - text: "On parle de nous"
-        file: parle_de_nous.qmd
       - text: "Contacts"
         file: contacts.qmd
       
@@ -48,7 +46,7 @@ format:
     toc: true
     page-layout: full
     theme: 
-    - yeti
+    - jolla
     - themes.scss
     css: styles.css
     

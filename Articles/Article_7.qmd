@@ -1,12 +1,12 @@
 ---
-title: "<span style='color:darkcyan;'>Data visualisation : comment valoriser au mieux ses données ?</span>"
+title: "<span style='color:#8b4513;'>Data visualisation : comment valoriser au mieux ses données ?</span>"
 format: html
 editor: visual
 ---
 
-![](/Images/article_7.jpg){fig-align="center" width="324"}
+![](/Images/article_7-removebg-preview.png){fig-align="center" width="650"}
 
-**La data visualisation joue un rôle crucial dans la création de valeur en rendant les données plus claires et faciles à comprendre. Alors que les organisations produisent de plus en plus de données, celles-ci ne sont pas toujours facilement interprétables. Afin de tirer pleinement parti du potentiel de ces données, il est essentiel d'utiliser des outils performants de data visualisation. Dans cet article, nous allons explorer ce qu'est la dataviz et comment l'utiliser pour valoriser vos données.**
+La data visualisation joue un rôle crucial dans la création de valeur en rendant les données plus claires et faciles à comprendre. Alors que les organisations produisent de plus en plus de données, celles-ci ne sont pas toujours facilement interprétables. Afin de tirer pleinement parti du potentiel de ces données, il est essentiel d'utiliser des outils performants de data visualisation. Dans cet article, nous allons explorer ce qu'est la dataviz et comment l'utiliser pour valoriser vos données.
 
 Rendant les données plus intelligibles et plus compréhensibles, la data visualisation favorise la création de valeur. 
 

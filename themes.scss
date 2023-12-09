@@ -20,18 +20,18 @@ $blue2 :  #1D325A !default;
 $blue3 :  #081E48 !default;
 
 
-$navbar-bg : $blue1;
+$navbar-bg : #ACBED8;
 
 $primary: $blue3;
 
 
-$navbar-fg: $white;
+$navbar-fg: #081E48;
 
-$body-color: $blue3;
+$body-color: #000;
 
-$navbar-hl: $yellow;
+$navbar-hl: #8b4513;
 
-$link-color: $orange;
+$link-color: #8b4513;
 
 $body-bg: $white !default;
 
@@ -40,8 +40,8 @@ h1, .h1, h2, .h2 {
     opacity: .9;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: 600;
-    color: teal;
+    font-weight: 1000;
+    color: #8b4513;
     text-transform: uppercase;
 }
 

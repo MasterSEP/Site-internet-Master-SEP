@@ -35,7 +35,7 @@ Pour les étudiants étrangers, les démarches sont d'autant plus difficiles du 
 
 [Livret d'accueil 2023-2024](https://livret-accueil.quarto.pub/livretaccueil/)
 
-### **"Cheatsheets"**
+### Cheatsheets
 
 Les cheatsheets ont été soigneusement élaborées pour vous offrir des références rapides et utiles sur différents langages de programmation :
 
