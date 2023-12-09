@@ -2,8 +2,6 @@
 title: "Présentation du Master SEP"
 ---
 
-![](Images/présentation.jpg){style="gray" fig-align="center"}
-
 ------------------------------------------------------------------------
 
 ```{=html}
@@ -49,3 +47,6 @@ La formation se déroule sur le campus Sciences et sur le campus Économie de l'
 Le Master délivre le SAS Joint Certificate Program « **SAS Programing & Data Analysis** ».
 
 Le master SEP de l'université de Reims Champagne-Ardenne a été classé parmi les meilleurs masters au [classement 2023 "Master Big Data & Data Sciences" de Eduniversal](https://www.meilleurs-masters.com/master-big-data-data-sciences.html).
+
+```{=html}
+```

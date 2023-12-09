@@ -3,7 +3,7 @@ title: "Ressources"
 editor: visual
 ---
 
-![](Images/ressources.png){fig-align="center" width="324"}
+![](Images/ressources.png){fig-align="center" width="500"}
 
 ### Outil bibliographique
 
@@ -27,7 +27,7 @@ Vous pouvez retrouver le détail de l'enquête en cliquant [ici](enquetes.pdf)
 
 ### Livret d'accueil
 
-(images/FR_welcome-03.jpg){fig-align="center"}
+![](Images/FR_welcome.jpg){fig-align="center"}
 
 Le CROUS est la principale structure pour obtenir un logement en résidence universitaire. Mais la chatoyante ville de Reims à beaucoup de logements chez des particuliers comme chez des privés, qui ne demande qu'à accueillir des étudiants.
 

@@ -3,13 +3,15 @@ title: "Contacts"
 editor: visual
 ---
 
-![](Images/Contact.JPG){fig-align="center" width="345"}
+![](Images/Contact-removebg-preview.png){fig-align="center" width="600"}
 
 Pour toute demande d'information concernant le parcours du master SEP, contacter :
 
 ### **Master Analyse et Politique Economique :**
 
-**Emmanuelle GAUTHERAT**\
+**Responsable du Master :**
+
+Emmanuelle GAUTHERAT\
 courriel : [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr)
 
 **Coordonnées du secrétariat** :
@@ -40,9 +42,12 @@ Bâtiment 18\
 57 rue Pierre Taittinger\
 51100 Reims
 
-![](Images/Plan_campus.JPG){width="457"}
+![](Images/Plan_campus.JPG){fig-align="center" width="900"}
 
 ```         
+```
+
+```{}
 ```
 
 ```{r}
@@ -50,5 +55,4 @@ library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
-
 ```

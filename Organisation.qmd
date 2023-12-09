@@ -3,7 +3,7 @@ title: "Organisation"
 editor: visual
 ---
 
-![](images/enseignement-distance.jpg){fig-align="center" width="372"}
+![](Images/enseignement-distance-removebg-preview.png){fig-align="center" width="500"}
 
 La formation est pluridisciplinaire. Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
 

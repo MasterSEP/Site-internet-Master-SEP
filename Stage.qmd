@@ -3,7 +3,7 @@ title: "Stages"
 editor: visual
 ---
 
-![](images/stage.png){fig-align="center" width="458"}
+![](images/stage.png){fig-align="center" width="500"}
 
 Notre programme de stages va au-delà de l'acquisition de compétences techniques. Il offre une occasion unique d'explorer vos passions, de développer un réseau professionnel, et de vous préparer à affronter les défis du monde réel. Chez nous, chaque stage est une chance de grandir, d'apprendre, et de transformer vos ambitions en réussites concrètes.
 
@@ -11,4 +11,8 @@ Le master SEP propose un stage long de 4 à 6 mois pour la majeure professionnel
 
 **Livret de stages :**
 
-Curieux de voir les accomplissements antérieurs de nos étudiants ? Explorez notre [**livret de stages**](https://livret-des-stages.quarto.pub/livret-des-stage/Administration%20publique.html?fbclid=IwAR1I_iymNk25LY7Sk9HPkrT2Ok85vseb13WNsMMdyA6Y8JRKEWAWGhyogUo) pour découvrir une pléthore de projets innovants, d'expériences captivantes et de succès professionnels. Ce livret, alimenté par les réalisations exceptionnelles de nos promotions précédentes, est une source d'inspiration et de motivation pour les étudiants actuels et futurs du Master SEP.
+Curieux de voir les accomplissements antérieurs de nos étudiants ?
+
+Explorez notre [**livret de stages**](https://livret-des-stages.quarto.pub/livret-des-stage/Administration%20publique.html?fbclid=IwAR1I_iymNk25LY7Sk9HPkrT2Ok85vseb13WNsMMdyA6Y8JRKEWAWGhyogUo) pour découvrir une pléthore de projets innovants, d'expériences captivantes et de succès professionnels.
+
+Ce livret, alimenté par les réalisations exceptionnelles de nos promotions précédentes, est une source d'inspiration et de motivation pour les étudiants actuels et futurs du Master SEP.

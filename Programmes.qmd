@@ -4,19 +4,20 @@ title: "Programmes"
 editor: visual
 ---
 
-
 #### MODALITÉS PÉDAGOGIQUES
 
 L'équipe enseignante utilise diverses méthodes et pratiques d'enseignement : le cours, les travaux dirigés, l'étude de cas, le projet, le mémoire, la présentation orale, la préparation aux entretiens...
+
+![](Images/programmes-removebg-preview.png){fig-align="center" width="500"}
 
 Le master est constitué de 3 semestres de cours, et un semestre de stage en fin de M2 avec rendu de mémoire.
 
 #### ENSEIGNEMENTS
 
-##### MASTER 1 : SEP
+##### MASTER 1 : SEP-MA
 
 | SEMESTRE 1                                             | Volume Horaire | ECTS |
-|---------------------------------------------|--------------|--------------|
+|-----------------------------------------|----------------|----------------|
 | Probabilités 1                                         | 56h            | 6    |
 | Analyse fonctionnelle 1                                | 28h            | 3    |
 | Modélisation                                           | 28h            | 3    |
@@ -65,7 +66,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 </head>
 <body>
   
-    <button onclick="rediriger()">Voir plus de détail sur le programme de M1</button>
+    <button onclick="rediriger()">Voir plus de détail sur le programme de M1-MA</button>
 
     <script>
         function rediriger() {
@@ -77,10 +78,10 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 <br> </br>
 </html>
 ```
-##### MASTER 2 : SEP
+##### MASTER 2 : SEP-MA
 
 | SEMESTRE 3                                                       | Volume Horaire | ECTS |
-|------------------------------------------------------------------|----------------|------|
+|-----------------------------------------------|-------------|-------------|
 | Analyse des systèmes complexes                                   | 50h            | 6    |
 | Outils big data                                                  | 25h            | 3    |
 | Apprentissage automatique                                        | 25h            | 3    |
@@ -93,7 +94,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 | Conférences, Gestion de projet & Projet Digital, SAS et VBA      | 52h            | 4    |
 
 | SEMESTRE 4                                                                         | Volume Horaire | ECTS |
-|---------------------|-------------------------------|---------------------|
+|---------------------|------------------------------|---------------------|
 | Techniques de recherche d'emploi et de stage (TRES), stage ou mémoire de recherche | 15h            | 30   |
 
 ```{=html}
@@ -125,7 +126,7 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 </head>
 <body>
   
-    <button onclick="rediriger()">Voir plus de détail sur le programme de M2</button>
+    <button onclick="rediriger()">Voir plus de détail sur le programme de M2-MA</button>
 
     <script>
         function rediriger() {
@@ -137,4 +138,4 @@ Le master est constitué de 3 semestres de cours, et un semestre de stage en fin
 <br> </br>
 </html>
 ```
-
+Pour le Master mention Analyse et Politique Economique (APE), un programme détaillé des enseignements est disponible en cliquant sur ce lien [Maquette Master APE](Maquette_Master.pdf)
