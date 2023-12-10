@@ -3,7 +3,7 @@ title: "Stages"
 editor: visual
 ---
 
-![](images/stage.png){fig-align="center" width="500"}
+![](Images/stage.png){fig-align="center" width="500"}
 
 Notre programme de stages va au-delà de l'acquisition de compétences techniques. Il offre une occasion unique d'explorer vos passions, de développer un réseau professionnel, et de vous préparer à affronter les défis du monde réel. Chez nous, chaque stage est une chance de grandir, d'apprendre, et de transformer vos ambitions en réussites concrètes.
 

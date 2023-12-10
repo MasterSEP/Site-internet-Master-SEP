@@ -1,5 +1,5 @@
 ---
-title: "<span style='color:#8b4513;'>Data visualisation : comment valoriser au mieux ses données ?</span>"
+title: "<span style='color:#8b4513;'>Data visualisation : comment valoriser au mieux ses données</span>"
 format: html
 editor: visual
 ---
