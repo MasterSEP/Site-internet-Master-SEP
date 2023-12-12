@@ -50,7 +50,7 @@ Bâtiment 18\
 ```         
 ```
 
-```{r}
+```{r, echo = FALSE}
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
