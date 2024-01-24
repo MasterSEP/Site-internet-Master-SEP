@@ -1,0 +1,87 @@
+---
+title: "<span style='color:#8b4513;'>Google Bard : Tout savoir du principal concurrent de ChatGPT</span>"
+format: html
+editor: visual
+---
+
+![](/Images/google-bard.png)
+
+**Bard est l'application lancée par Google pour tenter de concurrencer ChatGPT. Accessible en France depuis juillet 2023, elle se distingue sur quelques points précis, sans réellement inquiéter le leader du domaine.**
+
+Le 30 novembre 2022, [ChatGPT](https://datascientest.com/chatgpt-le-nouveau-chatbot-qui-revolutionne-internet) a pris le monde par surprise, et notamment la société Google, longtemps considérée comme l'un des acteurs phare de l'intelligence artificielle. Google avait notamment :
+
+-   Présenté, dès 2006, la **Google Car**, une automobile autonome -- devenue depuis la **Waymo** ;
+
+-   Recruté, en décembre 2012, Ray Kurzweil, l'un des pionniers de l'intelligence artificielle, pour diriger sa division du même nom ;
+
+-   **Battu**, en juillet 2016, le champion d'Europe de go, avec son système **AlphaGo** ;
+
+-   Dévoilé en  2017, [AutoML](https://datascientest.com/automl-automatisation-menace-data-scientists), une intelligence artificielle capable de créer d'autres intelligences artificielles.
+
+Donc, ChatGPT de OpenAI a soufflé, sans crier gare, une place que Google convoitait.
+
+### Un modèle de langage maison
+
+En réalité, Google œuvrait, depuis de nombreuses années sur une **technologie maison de LLM -- large language model**. 
+
+Pour mémoire, un LLM désigne l'algorithme qui gère l'intelligence artificielle d'un chatbot. Celui de ChatGPT s'appelle GPT. Le LLM de Google s'intitule LaMDA et tout comme GPT, il a été entraîné sur des centaines de milliards de documents.
+
+[LaMDA](https://datascientest.com/lamda-tout-savoir) avait été dévoilé en 2021 mais n'avait pas été rendu public. La sortie de ChatGPT a contraint Google à accélérer ses travaux et finaliser au plus vite un chatbot à même de [rivaliser avec ChatGPT](https://datascientest.com/google-rattrape-chatgpt-avec-la-derniere-mise-a-jour-de-bard). Google Bard a ainsi été annoncé en février 2023.
+
+### Un lancement français retardé
+
+Google Bard a pu être lancé dès mars 2023 aux USA et en Angleterre. En revanche, il a fallu attendre le 13 juillet pour qu'il soit accessible en  France. A présent, n'importe qui peut taper [bard.google.com](http://bard.google.com/) et découvrir ce chatbot made in Google.
+
+Pourquoi un tel retard ? Parce que, officiellement, Google a déclaré avoir voulu lancer Bard « progressivement » et « en concertation avec les régulateurs locaux ». La firme californienne dit avoir fait en sorte que Bard « réponde aux exigences de confidentialité et attentes en matière de responsabilité, des usagers ».
+
+### Les particularités de Bard
+
+Dans la pratique, nous avons droit à un chatbot similaire à ChatGPT : nous lui posons des questions et il y répond du mieux qu'il le peut. Toutefois, plusieurs caractéristiques le différencient de son concurrent majeur.
+
+#### Les autres suggestions
+
+Bard affiche la réponse demandée à la question posée, mais propose aussi d'afficher d'autres suggestions, soit d'autres formulations de la réponse. Quelle est la logique ? Elle est similaire à celle des applications « **text-to-image** » comme [Dall.e 2](https://datascientest.com/dall-e-en-acces-public-sur-edge-microsoft-donne-le-feu-vert) ou **Midjourney**, qui par défaut, proposent 4 images pour une requête donnée.
+
+#### Accès à Internet
+
+À la différence de ChatGPT dont l'algorithme repose sur une base de connaissances allant jusqu'à 2021, **Bard est en mesure de consulter le Web** pour formuler ses réponses et donc d'opérer sur des données actuelles. ChatGPT propose un même service via son système de plug-ins mais nécessite alors que l'on acquière la version payante.
+
+#### Pilotage à la voix
+
+Il est possible de poser ses questions à Bard en mode vocal et d'écouter la lecture de ses réponses. ChatGPT ne peut offrir une même fonctionnalité que si on installe une extension appropriée à son navigateur Web.
+
+### Fonctions attendues
+
+D'autres particularités sont disponibles dans la version américaine du chatbot et devraient l'être tôt ou tard dans la mouture française.
+
+-   La première est la possibilité d'adapter les réponses selon 5 formes possibles : « simple, long, court, professionnel, informel ». Cette option sera appréciée de ceux qui souhaitent copier tel quel les réponses de Bard dans un document.
+
+-   La seconde concerne la possibilité de charger une image dans le chatbot afin qu'il puisse l'analyser. Ce service a été promis aux utilisateurs de **ChatGPT-4** en mars 2023 mais tarde à apparaître.
+
+### Quelles extensions pour Bard ?
+
+ChatGPT-4 (la version payante) se distingue par la disponibilité de très nombreux plug-ins qui étendent de façon considérable ses potentiels. Google entend proposer de pareilles extensions, notamment des services maisons tels que :
+
+-   [Google Maps](https://datascientest.com/google-ajoute-un-nouvel-outil-low-code-a-google-maps-platform)
+
+-   Google Hotels
+
+-   Google Flights (réservation de billets d'avion).
+
+-   [YouTube](https://datascientest.com/le-directeur-de-youtube-veut-creer-des-intelligences-artificielles)
+
+Il est également prévu d'intégrer des services tiers tels que :
+
+-   Kayak, un service analogue à Google Flights
+
+-   Instacart -- livraison de produits alimentaires
+
+-   OpenTable -- réservation de restaurants
+
+-   etc.
+
+### Une avance de ChatGPT difficile à rattraper
+
+À l'usage, il apparaît que ChatGPT, dans sa version payante, possède une belle avance en termes de fonctionnalités et que Bard n'a pas encore réussi à rattraper. Toutefois, **le chatbot de Google peut raisonnablement être comparé à la version gratuite de ChatGPT, soit la 3.5**.
+
+*Article rédigé par DataScientest*

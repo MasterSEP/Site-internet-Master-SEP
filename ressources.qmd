@@ -3,7 +3,7 @@ title: "Ressources"
 editor: visual
 ---
 
-![](Images/ressources.png){fig-align="center" width="500"}
+![](Images/28.jpg){fig-align="center"}
 
 ### Outil bibliographique
 
@@ -27,8 +27,6 @@ Vous pouvez retrouver le détail de l'enquête en cliquant [ici](enquetes.pdf)
 
 ### Livret d'accueil
 
-![](Images/FR_welcome.jpg){fig-align="center"}
-
 Le CROUS est la principale structure pour obtenir un logement en résidence universitaire. Mais la chatoyante ville de Reims à beaucoup de logements chez des particuliers comme chez des privés, qui ne demande qu'à accueillir des étudiants.
 
 Pour les étudiants étrangers, les démarches sont d'autant plus difficiles du point de vue administratif. Le livret d'accueil ci-dessous, spécifiquement dédié aux étudiants étrangers, résume l'ensemble des informations nécessaires à leur intégration.
@@ -44,3 +42,33 @@ Les cheatsheets ont été soigneusement élaborées pour vous offrir des référ
 [Cheatsheets - DataCamp](https://www.datacamp.com/resources/cheatsheets)
 
 Nous espérons que ces ressources vous seront utiles dans votre parcours académique et professionnel. N'hésitez pas à explorer et à partager ces cheatsheets avec vos pairs.
+
+### Apprentissage 
+
+Explorez ces ressources d'apprentissage pour enrichir votre parcours académique et professionel. Chaque lien offre une opportunité unique d'acquérir des connaissances pertinentes et applicables dans le domaine de la data science.
+
+[OpenClassrooms](https://openclassrooms.com/fr/)
+
+OpenClassrooms est une plateforme d'apprentissage en ligne offrant une variété de cours gratuits couvrant divers domaines, allant de la programmation à la science des données. Les ressources disponibles sur ce site peuvent être précieuses pour approfondir vos connaissances et développer de nouvelles compétences.
+
+[FUN MOOC](https://www.fun-mooc.fr/fr/cours/?limit=21&offset=0)
+
+FUN MOOC propose une sélection de cours en ligne gratuits, couvrant un large éventail de sujets. Ces MOOC (Massive Open Online Courses) offrent une opportunité d'apprentissage flexible, adaptée à vos besoins académiques et professionnels.
+
+[Vidéos SAS gratuites](https://video.sas.com/category/videos/sas-studio)
+
+Explorez une collection de vidéos gratuites SAS Studio qui offrent des démonstrations pratiques, des conseils et des astuces pour maximiser votre utilisation de SAS Studio, un environnement de programmation interactif.
+
+[SAS® Programming 1: Essentials](https://learn.sas.com/course/view.php?id=118)
+
+Ce cours gratuits en ligne de SAS Learning offre une introduction essentielle à la programmation SAS. Idéal pour les débutants, il couvre les bases nécessaires pour maîtriser les concepts fondamentaux de la programmation SAS.
+
+De plus, la réussite de ce module vous ouvre la porte pour passer les tests de certifications SAS, renforçant ainsi votre crédibilité en tant que professionnel de la data science.
+
+[Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression](https://learn.sas.com/course/view.php?id=451)
+
+Ce cours gratuits de statistiques en ligne de SAS Learning vous guide à travers les concepts d'ANOVA, de régression et de régression logistique. Parfait pour ceux qui cherchent à approfondir leurs compétences en analyse statistique avec SAS.
+
+[Udemy](https://www.udemy.com/)
+
+Udemy est une plateforme d'apprentissage en ligne offrant une vaste gamme de cours dans divers domaines. Bien qu'ils soient payants, des promotions régulières offrent des opportunités d'accès à des cours de haute qualité à des tarifs très avantageux.

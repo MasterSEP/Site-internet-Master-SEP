@@ -3,28 +3,36 @@ title: "Modalités d'admissions"
 editor: visual
 ---
 
-## Prérequis obligatoires
+Le Master fonde son excellence et sa renommée sur sa sélectivité. Le rôle de cette page est de vous accompagner au mieux dans vos candidatures, en vous fournissant toutes les informations relatives à la sélection.
 
-Pour le M1 : être titulaire d'une L3 ou équivalent (180 crédits ECTS).\
-Pour le M2 : être titulaire d'un M1 (240 crédits ECTS).
+## Qui peut postuler ?
 
-Mentions de Licence recommandées :
+Le master 1 est ouvert aux étudiants titulaire d'une L3 ou équivalent :
 
-Licence Economie et Gestion
+-   Licence Economie et Gestion
 
-Licence Mathématiques et informatique appliquées en sciences humaines et sociales
+-   Licence Mathématiques et informatique appliquées en sciences humaines et sociales
 
-Licence Mathématiques appliquées et sciences sociales
+-   Licence Mathématiques appliquées et sciences sociales
 
-**Prérequis recommandés :**
+La liste n'est pas exhaustive et dépend du parcours de chaque  étudiant.
 
-Pour suivre cette formation dans de bonnes conditions il est recommandé de posséder des acquis avérés en mathématiques, probabilité et statistique. Appétence pour l'objet informatique. Capacité à travailler en groupe. Fortes compétences rédactionnelles et bonne capacité d'expression orale. Curiosité.
+\
+Le M2 necessite d'être titulaire d'un M1 :
 
-Les acquis de la licence en économie, la licence économie et gestion, ou la licence MIASHS sont idéaux lorsque les enseignements relatifs aux prérequis obligatoires sont obtenus avec aisance.
+-   Économétrie, Ingénieurs, Grandes écoles, M1 MASS, M1 Ingénierie Mathématique
 
-Possibilité d'entrée en seconde année d'étudiant.e.s d'autres filières (Licence de géographie, psychologie, etc.) ayant acquis les prérequis obligatoires et ayant un projet professionnel de double compétence.
+Ces étudiants suivent alors le programme en 1 an et commencent directement au niveau M2.
 
-## Admission
+[**Prérequis Recommandés :**]{.underline}
+
+Avoir une affinité pour l'informatique est un atout majeur. La capacité à travailler en groupe, des compétences rédactionnelles affirmées et une aisance à l'expression orale sont particulierement valorisés.
+
+Les étudiant.e.s ayant obtenu leur licence en économie, en économie et gestion, ou en MIASHS, trouveront notre programme particulièrement enrichissant, surtout si les cours liés aux prérequis obligatoires ont été appréhendés avec brio.
+
+Les étudiant.e.s venant d'horizons divers, que ce soit en géographie, psychologie, et autres, peuvent intégrer la deuxième année à condition d'avoir validé les prérequis nécessaires et de démontrer un projet professionnel orienté vers une double compétence.
+
+## Comment postuler ?
 
 -   [***Niveau à l'entrée en formation :***]{.underline}
 
@@ -49,7 +57,7 @@ L'admission se fait en plusieurs étapes :
     Voici les documents demandés :
 
 |                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | Curriculum Vitae                                                                                                 |
 | Lettre de motivation avec projet professionnel                                                                   |
 | Relevé de notes de toutes vos années universitaires.                                                             |
@@ -65,3 +73,41 @@ Les modalités relatives à l'admission des étudiants étrangers sont disponibl
 Pour plus d'informations, vous pouvez également envoyer un e-mail : [etudiants.etrangers\@univ-reims.fr](mailto:etudiants.etrangers@univ-reims.fr)
 
 Adresse d'inscription : 2 avenue Robert Schuman
+
+[Voici donc quelques précisions et recommandations pour maximiser vos chances d'être admis :]{.underline}
+
+-   respecter bien les dates de dépôt de candidature et vérifier que vous avez bien déposer toutes les pièces obligatoires.
+
+-   le jury d'admission se réunissant à l'issue du dépôt des candidatures, il est inutile de contacter les enseignants du Master ou d'envoyer des pièces supplémentaires après la deadline officielle, ces pièces ne seront pas prises en compte.
+
+## FAQ
+
+1.  ***Quels sont les critères de sélection ?***
+
+Le jury du master apprécie à la fois les résultats académiques des candidats, notamment au regard des mentions obtenues au cours du parcours universitaire, ainsi que leurs expériences professionnelles. Plus généralement, elles sont sensibles à la cohérence globale de la candidature.
+
+2.  ***Existe-t-il une moyenne générale précise à atteindre pour prétendre sa candidature ?***
+
+L'obtention de la licence et/ou du M1 est exigée pour déposer sa candidature. Au regard du nombre de candidatures, l'obtention d'une mention assez bien ou bien est particulièrement indiquée.
+
+3.  ***Comment sont appréciés les parcours « atypiques » ou « particuliers » ? Quel est le profil de la promotion ?***
+
+Les étudiants ont des profils variés : parcours de mathématiques à l'université ou en écoles, parcours économique, etc.
+
+Les directeurs apprécient chaque dossier selon ses singularités et ses atouts mais il est conseillé de mettre en valeur la cohérence du projet avec les débouchés du Master.
+
+4.  ***Est-ce qu'un entretien oral fait partie du processus de sélection ?***
+
+Oui, un entretien oral peut être prévu après l'examen des dossiers de candidature. Cela s'applique particulièrement aux candidats en Master 2, où les entretiens sont plus fréquents.
+
+5.  ***Quels aspects sont discutés lors de l'entretien oral ?***
+
+L'entretien oral permet d'explorer la passion du candidat, ses expériences antérieures et ses ambitions futures. C'est une étape clé pour mieux connaître chaque candidat et assurer une correspondance harmonieuse entre leurs attentes et le programme de Master SEP.
+
+6.  ***Comment me préparer à l'entretien oral ? Quelle est la durée de l'entretien oral ?***
+
+Préparez-vous en réfléchissant à vos expériences, vos motivations et vos objectifs. Soyez prêt à discuter de votre intérêt pour le programme et comment il s'aligne avec vos aspirations académiques et professionnelles.
+
+La durée peut varier, mais généralement, les entretiens oraux durent entre 20 et 30 minutes. Soyez concis et préparez-vous à mettre en avant les points clés de votre parcours et de vos ambitions.
+
+Nous espérons que ces réponses vous éclairent sur le processus de sélection et que vous êtes prêt à saisir cette opportunité de partager votre parcours et vos aspirations au sein de notre Master.

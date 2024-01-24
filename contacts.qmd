@@ -3,7 +3,7 @@ title: "Contacts"
 editor: visual
 ---
 
-![](Images/Contact-removebg-preview.png){fig-align="center" width="600"}
+![](Images/batiment3.jpg){fig-align="center"}
 
 Pour toute demande d'information concernant le parcours du master SEP, contacter :
 
