@@ -17,7 +17,7 @@ editor: visual
 
 ### Data Camp
 
-Un Data Camp présentant les prérequis de la formation pour les parcours économique et mathématique est disponible [ici](https://datacamp.quarto.pub/datacamp/).
+Un Data Camp présentant les prérequis de la formation pour les parcours économique et mathématique est disponible [ici](https://elifets.github.io/DataCamp_SEP_2023_2024/).
 
 ### Enquête d'insertion professionnelle
 
@@ -43,7 +43,7 @@ Les cheatsheets ont été soigneusement élaborées pour vous offrir des référ
 
 Nous espérons que ces ressources vous seront utiles dans votre parcours académique et professionnel. N'hésitez pas à explorer et à partager ces cheatsheets avec vos pairs.
 
-### Apprentissage 
+### Apprentissage
 
 Explorez ces ressources d'apprentissage pour enrichir votre parcours académique et professionel. Chaque lien offre une opportunité unique d'acquérir des connaissances pertinentes et applicables dans le domaine de la data science.
 

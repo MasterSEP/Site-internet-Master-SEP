@@ -10,7 +10,7 @@ L'équipe enseignante utilise diverses méthodes et pratiques d'enseignement : l
 
 ![](Images/24.jpg){fig-align="center" width="800"}
 
-Le master est constitué de 3 semestres de cours, et un semestre de stage en fin de M2 avec rendu de mémoire.
+Le master est constitué de 3 semestres de cours, et un semestre de stage en fin de M2 avec rendu de rapport de stage.
 
 #### ENSEIGNEMENTS
 
