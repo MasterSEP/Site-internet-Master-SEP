@@ -1,6 +1,6 @@
 ---
 title: "Formation"
-editor: visual
+editor: visual  
 ---
 
 ![](Images/22.jpg){fig-align="center"}
