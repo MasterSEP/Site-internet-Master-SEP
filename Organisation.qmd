@@ -3,7 +3,7 @@ title: "Organisation"
 editor: visual
 ---
 
-![](Images/batiment2.jpg){fig-align="center" width="1329"}
+![](Images/batiment2.jpg){fig-align="center" width="800"}
 
 La formation est pluridisciplinaire. Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
 

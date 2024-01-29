@@ -3,7 +3,7 @@ title: "Formation"
 editor: visual  
 ---
 
-![](Images/22.jpg){fig-align="center"}
+![](Images/22.jpg){fig-align="center" width="800"}
 
 Explorez le détail de nos enseignements et plongez-vous dans les sujets passionnants que propose notre programme :
 
