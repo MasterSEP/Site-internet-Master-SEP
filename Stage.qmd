@@ -9,22 +9,6 @@ Notre programme de stages va au-delà de l'acquisition de compétences technique
 
 Le master SEP propose un stage long de 4 à 6 mois pour la majeure professionnelle et de 1 à 6 mois pour la majeure recherche.
 
-### **Livret de stages :**
-
-Curieux de voir les accomplissements antérieurs de nos étudiants ?
-
-Explorez notre [**livret de stages**](https://mastersep.github.io/Livret_des_stages/) pour découvrir une pléthore de projets innovants, d'expériences captivantes et de succès professionnels.
-
-Ce livret, alimenté par les réalisations exceptionnelles de nos promotions précédentes, est une source d'inspiration et de motivation pour les étudiants actuels et futurs du Master SEP.
-
-### **Sas Spring Campus**
-
-Le SAS Spring Campus est bien plus qu'un événement, c'est une opportunité unique pour les étudiants passionnés par la data science et la technologie. En participant, non seulement vous aurez accès à des ateliers captivants et à des discussions animées avec des experts de l'industrie, mais vous ouvrirez également la porte **à des opportunités de stage exceptionnelles.**
-
-Le campus offre la possibilité de décrocher un stage auprès des partenaires de SAS, des entreprises leaders dans le domaine, ou même au sein même de SAS. Chaque année, des étudiants de notre master sont sélectionnés pour y participer. Les cours débutent généralement au mois de mars, suivis de la période de stage.
-
-Découvrez comment le SAS Spring Campus peut façonner votre avenir professionnel : <https://www.sas.com/fr_fr/academic/sas-spring-campus.html>.
-
 ### **Enquêtes sur les stages effectués**
 
 Un groupe d'anciens étudiants de la promotion 2023 du master a réalisé une enquête statistique sur les stages effectués par les promotions précédentes. Ces résultats te permettront de mieux appréhender les opportunités et les possibilités qui t'attendent si tu décides de t'embarquer dans ce domaine riche et passionnant !
@@ -66,3 +50,11 @@ Un groupe d'anciens étudiants de la promotion 2023 du master a réalisé une en
 ![](Images/stage_5.JPG)
 
 *En 2017, seulement 20% des stages utilisaient le langage de programmation Python, aujourd'hui considéré comme l'outil le plus couramment utilisé. Cependant, en 2022, ce pourcentage a augmenté à 67%. Le langage R, largement utilisé pour les statistiques et la visualisation de données en 2017, n'a été utilisé que dans 19% des stages en 2022. L'utilisation de SAS, fréquemment utilisé pour les analyses statistiques en entreprise, et de SQL, utilisé pour gérer et manipuler les bases de données, n'ont connu que peu de variations entre 2017 et 2022.*
+
+### **Sas Spring Campus**
+
+Le SAS Spring Campus est bien plus qu'un événement, c'est une opportunité unique pour les étudiants passionnés par la data science et la technologie. En participant, non seulement vous aurez accès à des ateliers captivants et à des discussions animées avec des experts de l'industrie, mais vous ouvrirez également la porte **à des opportunités de stage exceptionnelles.**
+
+Le campus offre la possibilité de décrocher un stage auprès des partenaires de SAS, des entreprises leaders dans le domaine, ou même au sein même de SAS. Chaque année, des étudiants de notre master sont sélectionnés pour y participer. Les cours débutent généralement au mois de mars, suivis de la période de stage.
+
+Découvrez comment le SAS Spring Campus peut façonner votre avenir professionnel : <https://www.sas.com/fr_fr/academic/sas-spring-campus.html>.

@@ -4,11 +4,11 @@ project:
 
 website:
   search : true
-  title: "URCA - Master SEP"
+  title: "URCA - Master SEP "
   reader-mode: true
 
   page-footer: 
-      center: "<span style='color: darkcyan;'></span>"
+      center: "<span style='color: #8b4513;'> Made by Isra Friaa & Benjamin Sejdi</span>"
       right:
         - icon: linkedin
           href: https://www.linkedin.com/in/master-sep-a004ba256/
