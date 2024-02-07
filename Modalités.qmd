@@ -57,7 +57,7 @@ L'admission se fait en plusieurs étapes :
     Voici les documents demandés :
 
 |                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | Curriculum Vitae                                                                                                 |
 | Lettre de motivation avec projet professionnel                                                                   |
 | Relevé de notes de toutes vos années universitaires.                                                             |
