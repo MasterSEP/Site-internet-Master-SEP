@@ -5,14 +5,6 @@ title: "Présentation du Master SEP"
 ------------------------------------------------------------------------
 
 ```{=html}
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: darkcyan;
-  margin: 20px 0;
-}
-</style>
 ```
 **Nous vous souhaitons la bienvenue sur le site du Master Statistique pour l'Évaluation et la Prévision (SEP).**
 
