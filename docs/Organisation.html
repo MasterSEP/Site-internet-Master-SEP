@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -68,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./Images/URCAorbrun.png" alt="" class="navbar-logo">
     </a>
@@ -85,42 +92,64 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Présentation</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Présentation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Formation.html" rel="" target="">
- <span class="menu-text">Formation</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-formation" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Formation</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-formation">    
+        <li>
+    <a class="dropdown-item" href="./Programmes.html">
+ <span class="dropdown-text">Programmes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Programmes.html" rel="" target="">
- <span class="menu-text">Programmes</span></a>
+        <li>
+    <a class="dropdown-item" href="./Organisation.html">
+ <span class="dropdown-text">Organisation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./Organisation.html" rel="" target="" aria-current="page">
- <span class="menu-text">Organisation</span></a>
+        <li>
+    <a class="dropdown-item" href="./Débouchés.html">
+ <span class="dropdown-text">Débouchés</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./ressources.html" rel="" target="">
- <span class="menu-text">Ressources</span></a>
+        <li>
+    <a class="dropdown-item" href="./Modalités.html">
+ <span class="dropdown-text">Modalités</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Actualites.html" rel="" target="">
- <span class="menu-text">Actualités</span></a>
+        <li>
+    <a class="dropdown-item" href="./Stage.html">
+ <span class="dropdown-text">Stage</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-vie-étudiante" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Vie étudiante</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-vie-étudiante">    
+        <li>
+    <a class="dropdown-item" href="./Actualites.html">
+ <span class="dropdown-text">Actualités</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./ressources.html">
+ <span class="dropdown-text">Outils et ressources</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./contacts.html" rel="" target="">
- <span class="menu-text">Contacts</span></a>
+    <a class="nav-link" href="./contacts.html"> 
+<span class="menu-text">Contacts</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -128,11 +157,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#structure-du-master" id="toc-structure-du-master" class="nav-link active" data-scroll-target="#structure-du-master">Structure du Master</a></li>
+  <li><a href="#méthodes-denseignement" id="toc-méthodes-denseignement" class="nav-link" data-scroll-target="#méthodes-denseignement">Méthodes d’enseignement</a></li>
+  <li><a href="#première-année-du-master-m1" id="toc-première-année-du-master-m1" class="nav-link" data-scroll-target="#première-année-du-master-m1">Première année du Master (M1)</a></li>
+  <li><a href="#deuxième-année-du-master-m2" id="toc-deuxième-année-du-master-m2" class="nav-link" data-scroll-target="#deuxième-année-du-master-m2">Deuxième année du Master (M2) :</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -141,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -149,29 +187,74 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
+
+<section id="structure-du-master" class="level3">
+<h3 class="anchored" data-anchor-id="structure-du-master">Structure du Master</h3>
+<p>Le master SEP (Statistique et évaluation de la prévision) se déroule sur deux ans (M1 et M2) avec une progression continue des compétences.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Images/batiment2.jpg" class="img-fluid figure-img" width="800"></p>
+<p><img src="Images/stats.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
 </figure>
 </div>
-<p>La formation est pluridisciplinaire. Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.</p>
-<p>La spécialité de Master SEP se compose de deux pèriodes.</p>
-<p><strong>Première Période (De début septembre à mars) :</strong></p>
+<p>Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.</p>
+</section>
+<section id="méthodes-denseignement" class="level3">
+<h3 class="anchored" data-anchor-id="méthodes-denseignement">Méthodes d’enseignement</h3>
+<p>L’équipe enseignante adopte une approche pédagogique variée et dynamique, on y trouve :</p>
+<ul>
+<li><p><strong>Cours magistraux (CM)</strong> : Fondamentaux théoriques pour acquérir une base solide de connaissances.</p></li>
+<li><p><strong>Travaux dirigés (TD)</strong> : Séances interactives pour approfondir les concepts et appliquer les connaissances.</p></li>
+<li><p><strong>Études de cas</strong> : Analyse de situations réelles pour développer des compétences de réflexion stratégique.</p></li>
+<li><p><strong>Projets en groupe</strong> : Collaborations autour de problématiques professionnelles concrètes.</p></li>
+<li><p><strong>Mémoire</strong> : Recherche approfondie sur un sujet d’intérêt dans le domaine d’études.</p></li>
+<li><p><strong>Présentations orales</strong> : Exercice de communication pour renforcer les compétences de prise de parole.</p></li>
+<li><p><strong>Préparation aux entretiens</strong> : Simulations et conseils pour réussir les entretiens professionnels.</p></li>
+</ul>
+</section>
+<section id="première-année-du-master-m1" class="level3">
+<h3 class="anchored" data-anchor-id="première-année-du-master-m1">Première année du Master (M1)</h3>
+<p><strong>1er semestre</strong></p>
+<p>Durant ce 1er semestre de M1, pour les étudiants en master SEP maths, certains cours se déroulent au Campus croix Rouge tandis que d’autres sont, comme pour les cours de License Mathématiques, au campus Moulin de la Housse.</p>
+<p>Les cours étudiés au campus Moulin de la Housse représentent plus un aspect mathématiques tandis que les cours au Campus Croix Rouge sont plus pratiques.</p>
+<p>Certains des cours sont en communs avec ceux des étudiants inscrit en Master CS (Calcul Scientifique) Pour les étudiants en Master SEP Eco tous les cours se dérouleront au campus Croix Rouge.</p>
+<p>On retrouve comme matières principales :</p>
+<ul>
+<li><p><strong>Probabilités</strong> : Étude des phénomènes aléatoires et des lois qui régissent les événements incertains.</p></li>
+<li><p><strong>Réseaux de neurones</strong> : Modèles informatiques inspirés du cerveau humain, utilisés pour l’apprentissage automatique et la reconnaissance de motifs.</p></li>
+<li><p><strong>Data mining</strong> : Processus d’extraction de connaissances et de modèles à partir de grandes quantités de données.</p></li>
+<li><p><strong>Macro Excel</strong> : Automatisation de tâches dans Excel à l’aide de scripts VBA pour améliorer l’efficacité des analyses de données.</p></li>
+<li><p><strong>Apprentissage de Git</strong> : Acquisition de compétences pour utiliser Git, un système de contrôle de version, pour gérer et collaborer sur des projets de code.</p></li>
+</ul>
+<p><strong>Second Semestre de M1</strong></p>
+<p>Il se déroule de la même manière que le premier</p>
+<ul>
+<li><p><strong>Inférence statistique</strong> : Méthodes permettant de tirer des conclusions sur une population à partir d’échantillons de données.</p></li>
+<li><p><strong>SQL</strong> : Langage de requête structuré utilisé pour interagir avec des bases de données et gérer les données.</p></li>
+<li><p><strong>RGPD</strong> : Règlement général sur la protection des données, établissant des règles sur la collecte et le traitement des données personnelles en Europe.</p></li>
+<li><p><strong>Statistical Analysis System (SAS)</strong> : Logiciel puissant utilisé pour l’analyse statistique, la gestion des données et la visualisation.</p></li>
+<li><p><strong>Processus stochastiques</strong> : Modèles mathématiques décrivant des systèmes qui évoluent dans le temps avec une certaine forme d’incertitude.</p></li>
+</ul>
+</section>
+<section id="deuxième-année-du-master-m2" class="level3">
+<h3 class="anchored" data-anchor-id="deuxième-année-du-master-m2">Deuxième année du Master (M2) :</h3>
+<p><strong>Première Période</strong></p>
 <p>Au cours de cette phase initiale, les étudiants suivent un ensemble de cours obligatoires, couvrant divers domaines :</p>
 <ul>
 <li><p><strong>Statistique/Probabilités :</strong> Exploration des séries temporelles, économétrie, analyse des données, Data-Mining, géomarketing, scoring et business intelligence, statistique exploratoire et big data.</p></li>
-<li><p><strong>Informatique :</strong> Maîtrise des outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.</p></li>
+<li><p><strong>Informatique :</strong> Maîtrise dses outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.</p></li>
 <li><p><strong>Transversal :</strong> Développement des compétences en anglais, participation à des séminaires de recherche, implication dans la vie associative.</p></li>
 <li><p><strong>Finance et Gestion des Risques :</strong> Apprentissage de la modélisation, des mathématiques financières, de la mesure et de la gestion des risques, de la modélisation stochastique en temps continu, des techniques statistiques pour l’analyse des risques difficiles à modéliser, et introduction au traitement de l’image.</p></li>
-<li><p><strong>Économie :</strong> Exploration de l’analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable.</p></li>
+<li><p><strong>Économie :</strong> Exploration de l’analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable. oui bah oy</p></li>
 </ul>
 <p>Tous les cours sont évalués au moyen de tests et de projets, assurant ainsi une compréhension approfondie des concepts enseignés.</p>
 <p><strong>Deuxième Période : Stage Professionnel</strong></p>
 <p>La deuxième période est consacrée à un stage professionnel, offrant aux étudiants l’opportunité d’appliquer leurs connaissances dans un contexte pratique. Pour en savoir plus sur les stages, consultez notre page dédiée à cette étape cruciale de votre formation <a href="./Stage.html">ici</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -253,10 +336,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -266,8 +366,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -279,7 +388,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -323,6 +555,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -348,6 +581,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -413,7 +672,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><span style="color: #8b4513;"> Made by Isra Friaa &amp; Benjamin Sejdi</span></div>
+    <div class="nav-footer-center">
+<p><span style="color: #8b4513;"> Made by Isra Friaa &amp; Benjamin Sejdi</span></p>
+</div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -444,6 +705,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 

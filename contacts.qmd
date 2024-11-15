@@ -1,58 +1,27 @@
 ---
 title: "Contacts"
-editor: visual
+output: html_document
 ---
 
-![](Images/00021892_normal.png){fig-align="center"}
+**Le responsable change en fonction de la spécialité prise dans le master.**
 
-Pour toute demande d'information concernant le parcours du master SEP, contacter :
+| Spécialité                             | Analyse et Politique Économique                                                  | Mathématiques et Application                                             |
+|----------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Responsable du master**              | Emmanuelle GAUTHERAT                                                             | Jules MAES                                                               |
+| **Email du responsable**               | [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr) | [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr)             |
+| **Email du secrétariat**               | [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr)           | [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr) |
+| **Numéro de téléphone du secrétariat** | 03.26.91.86.19                                                                   | 03.26.91.86.19                                                           |
 
-### **Master Analyse et Politique Economique :**
+## Campus Croix-Rouge
 
-**Responsable du Master :**
-
-Emmanuelle GAUTHERAT\
-courriel : [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr)
-
-**Coordonnées du secrétariat** :
-
-courriel : [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr)\
-Tel : 03.26.91.86.19
-
-### **Master Mathématiques et Application :**
-
-**Responsable du Master :**
-
-Jules MAES\
-courriel : [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr)
-
-**Coordonnées du secrétariat** :
-
-| courriel : [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr)
-| Tel : 03.26.91.86.19
-
-**Email du Master SEP :** [contact.mastersepreims\@gmail.com](http://mastersep.fr/contact.mastersepreims@gmail.com)
-
-Vous souhaitez connaitre l'avis des étudiants sur l'enseignement dispensé et les possibles débouchées ? Posez votre question, les étudiants vous répondrons.
-
-## Campus
-
-Campus Croix-Rouge\
-Bâtiment 18\
-57 rue Pierre Taittinger\
-51100 Reims
+**Adresse** : 57 rue Pierre Taittinger, 51100 Reims\
+**Téléphone** : 03 26 91 86 19
 
 ![](Images/Plan_campus.JPG){fig-align="center" width="900"}
 
-```         
-```
+## Campus Moulin de la Housse
 
-```         
-```
+**Adresse** : Chem. des Rouliers, 51100 Reims\
+**Téléphone** : 03 26 91 34 19
 
-```{r, echo = FALSE}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=4.004, lat=49.237, popup="Université de Reims")
-```
+![](Images/Plan_campus.JPG){fig-align="center" width="900"}

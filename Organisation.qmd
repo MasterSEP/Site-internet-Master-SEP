@@ -7,7 +7,7 @@ editor: visual
 
 Le master SEP (Statistique et évaluation de la prévision) se déroule sur deux ans (M1 et M2) avec une progression continue des compétences.
 
-![](Images/batiment2.jpg){fig-align="center" width="800"}
+![](Images/stats.jpg){fig-align="center" width="800"}
 
 Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
 
@@ -27,11 +27,9 @@ L’équipe enseignante adopte une approche pédagogique variée et dynamique, o
 
 -   **Présentations orales** : Exercice de communication pour renforcer les compétences de prise de parole.
 
-
 -   **Préparation aux entretiens** : Simulations et conseils pour réussir les entretiens professionnels.
 
 ### Première année du Master (M1)
-
 
 **1er semestre**
 
@@ -39,9 +37,9 @@ Durant ce 1er semestre de M1, pour les étudiants en master SEP maths, certains 
 
 Les cours étudiés au campus Moulin de la Housse représentent plus un aspect mathématiques tandis que les cours au Campus Croix Rouge sont plus pratiques.
 
-Certains des cours sont en communs avec ceux des étudiants inscrit en Master CS (Calcul Scientifique) Pour les étudiants en Master SEP Eco tous les cours se dérouleront au campus Croix Rouge. 
+Certains des cours sont en communs avec ceux des étudiants inscrit en Master CS (Calcul Scientifique) Pour les étudiants en Master SEP Eco tous les cours se dérouleront au campus Croix Rouge.
 
-On retrouve comme matières principales : 
+On retrouve comme matières principales :
 
 -   **Probabilités** : Étude des phénomènes aléatoires et des lois qui régissent les événements incertains.
 
@@ -55,8 +53,7 @@ On retrouve comme matières principales :
 
 **Second Semestre de M1**
 
-Il se déroule de la même manière que le premier 
-
+Il se déroule de la même manière que le premier
 
 -   **Inférence statistique** : Méthodes permettant de tirer des conclusions sur une population à partir d'échantillons de données.
 
@@ -67,7 +64,6 @@ Il se déroule de la même manière que le premier
 -   **Statistical Analysis System (SAS)** : Logiciel puissant utilisé pour l'analyse statistique, la gestion des données et la visualisation.
 
 -   **Processus stochastiques** : Modèles mathématiques décrivant des systèmes qui évoluent dans le temps avec une certaine forme d'incertitude.
-
 
 ### Deuxième année du Master (M2) :
 
