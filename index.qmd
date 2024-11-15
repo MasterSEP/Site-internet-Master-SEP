@@ -1,63 +1,51 @@
 ---
 title: "Présentation du Master SEP"
+output:
+  html_document:
+    toc: true
+    css: styles.css
 ---
 
-------------------------------------------------------------------------
+**Bienvenue sur le site du Master Statistique pour l’Évaluation et la Prévision (SEP).**
 
-```{=html}
-```
-**Nous vous souhaitons la bienvenue sur le site du Master Statistique pour l'Évaluation et la Prévision (SEP).**
+Le Master SEP offre une formation complète et de haut niveau sur deux ans dans les domaines de l’analyse économique quantitative et de l’aide à la décision. Cette formation duale, combinant théorie et pratique, permet aux étudiants de développer des compétences recherchées dans les secteurs professionnels et académiques, y compris pour ceux souhaitant poursuivre un doctorat.
 
-**Vous trouverez ici toutes les informations sur la formation, ses atouts et ses débouchés, ainsi que des ressources supplémentaires. Nous restons à votre disposition pour vous répondre via le mail du master présent dans l'onglet Contacts.**
+::: {style="text-align: center;"}
+<img src="Images/indexgraph.png" width="70%"/>
+:::
 
-![](Images/dernierlogo.webp){fig-align="center"}
+## Pourquoi rejoindre le Master SEP ?
 
-Le Master Statistique pour l'Évaluation et la Prévision (SEP) offre aux étudiants l'opportunité d'acquérir une formation sur deux ans dans les domaines de l'analyse économique quantitative et de l'aide à la décision. La dualité de cette formation, à la fois théorique et appliquée, permet d'acquérir des compétences reconnues tant dans le monde professionnel que dans le cadre de la préparation d'un doctorat.
+1.  **Expertise en Data Science :**\
+    Le programme permet d’acquérir des compétences avancées en Data Science et Big Data, répondant aux besoins actuels de nombreux secteurs.
 
-### *Notre Vision Actuelle : Les Enjeux de la Data dans un Monde en constante évolution*
+2.  **Formation théorique et pratique :**\
+    Les étudiants bénéficient de cours théoriques approfondis et réalisent un stage obligatoire pour appliquer leurs connaissances en milieu professionnel.
 
-Dans un contexte mondial où la data s'impose comme l'épicentre de transformations majeures, le Master SEP s'affirme comme un catalyseur face aux défis inédits de notre époque. En réponse à l'avènement des nouvelles technologies, de l'intelligence artificielle, notre formation aspire à façonner des experts capables de naviguer avec brio dans l'univers dynamique de la Data Science, du Big Data et des technologies de machine learning.
+3.  **Approche multidisciplinaire :**\
+    Une formation qui couvre la statistique, l’économie, la data science et l’informatique, rendant les diplômés polyvalents.
 
-L'explosion des volumes de données, la prolifération des dispositifs connectés, et l'émergence de l'intelligence artificielle ont radicalement transformé la manière dont nous appréhendons et utilisons l'information. Dans ce panorama en perpétuelle évolution, le Master SEP s'engage à fournir à ses étudiants les compétences nécessaires pour comprendre et exploiter ces avancées de manière innovante et stratégique.
+4.  **Forte employabilité :**\
+    Les diplômés sont très recherchés grâce à leurs compétences techniques et leur formation pratique.
 
-Ainsi, dans un monde où chaque secteur, de l'économie à la santé en passant par la finance et le marketing, s'appuie de plus en plus sur les données pour prendre des décisions éclairées, notre Master SEP se positionne comme un véritable moteur de compétences. Il vise à former une nouvelle génération d'experts polyvalents et agiles, prêts à relever les défis complexes de l'ère de la data et à contribuer activement à l'innovation et au progrès, tout aussi bien au niveau local comme mondial.
+5.  **Utilisation d’outils de pointe :**\
+    Les étudiants maîtrisent des logiciels et langages comme Python, R et SAS, essentiels pour l’analyse de données.
 
-### *Un Aperçu du Parcours "Statistique pour l'Évaluation et la Prévision"*
+6.  **Reconnaissance académique :**\
+    Le Master SEP a été classé parmi les meilleurs au classement 2023 *"Master Big Data & Data Sciences"* ([voir le classement](#)) de Eduniversal.
 
-Le parcours type « Statistique pour l'Évaluation et la Prévision » (SEP) forme des statisticiens économistes aptes au dialogue avec des non spécialistes, performants dans tout domaine statistique, sur tout support informatique, et particulièrement efficients sur les problématiques de l'évaluation économique et sociale, de la Data Science, du traitement de données massives (Big Data), du traitement de données marketing et de la gestion des risques.
+## Notre Vision Actuelle : Les Enjeux de la Data dans un Monde en Constante Évolution
 
-![](Images/393748253_923078515919470_2293964093268622866_n.png){width="800"}
+Dans un contexte mondial où la data s’impose comme l’épicentre de transformations majeures, le Master SEP s’affirme comme un catalyseur face aux défis inédits de notre époque. En réponse à l’avènement des nouvelles technologies et de l’intelligence artificielle, notre formation aspire à façonner des experts capables de naviguer avec brio dans l’univers dynamique de la Data Science, du Big Data et des technologies de machine learning.
 
-##### *Compétences Acquises au Fil de la Formation*
+L’explosion des volumes de données, la prolifération des dispositifs connectés et l’émergence de l’intelligence artificielle ont transformé la manière dont nous appréhendons et utilisons l’information. Dans ce panorama en perpétuelle évolution, le Master SEP s’engage à fournir à ses étudiants les compétences nécessaires pour exploiter ces avancées de manière innovante et stratégique.
 
-Les compétences acquises dans ce Master dépassent largement le cadre de la statistique appliquée et de l'économétrie, pour couvrir les champs de l'économie et de l'informatique.
+Dans un monde où chaque secteur, de l’économie à la santé, en passant par la finance et le marketing, s’appuie sur les données pour prendre des décisions éclairées, le Master SEP forme des experts polyvalents et agiles. Ces diplômés sont prêts à relever les défis complexes de l’ère de la data et à contribuer activement à l’innovation et au progrès, tant au niveau local que mondial.
 
-Au terme du Master SEP, les étudiants auront acquis une expertise approfondie dans des domaines clés, tels que :
+## Localisation et Certification
 
--   Analyse des données, séries temporelles, et apprentissage statistique.
+Les enseignements du Master SEP se déroulent sur deux campus à Reims :\
+- **Campus Croix Rouge**\
+- **Campus Moulin de la Housse**
 
--   Modélisation mathématique et techniques quantitatives en évaluation.
-
--   Maîtrise des outils informatiques dédiés à la statistique, tels que IBM-SPSS, SAS, R, Python, ainsi que la manipulation de données massives avec Hadoop et Spark.
-
--   Compétences métiers en Data Science, évaluation, gestion des risques financiers, marketing, et bien d'autres.
-
-##### *Approche Pédagogique et Pluridisciplinaire*
-
-La formation SEP se démarque par son approche pluridisciplinaire. Dispensés par des économistes, des mathématiciens, des informaticiens, ainsi que des professionnels sectoriels, les enseignements favorisent la multidisciplinarité dès les premières étapes de la formation.
-
-##### *L'Accès à la Mutidisciplinarité dès le Début*
-
-Nos futurs statisticiens sont confrontés, dès leur formation, à la multidisciplinarité et à la nécessité d'user d'un langage commun grâce au recrutement d'étudiants issus de cursus variés : scientifique (mathématiciens, probabilistes, ingénieurs pluridisciplinaires et informaticiens) et domaine tertiaire (économistes avec fort acquis mathématique, économètres, gestionnaires, géographes ou sociologues ayant de fortes appétences quantitatives).
-
-##### *Conclusion avec un Stage Valorisant*
-
-La formation se conclut par un stage long, soutenu devant l'ensemble du corps enseignant et de la nouvelle promotion. L'approche pédagogique est centrée sur la réalisation de projets en groupe, utilisant les acquis de plusieurs enseignements.
-
-##### *Localisation et Certification*
-
-Les cours se déroulent sur les campus Sciences et Économie de l'Université de Reims. Le Master délivre également le SAS Joint Certificate Program "SAS Programing & Data Analysis".
-
-##### *Reconnaissance Académique*
-
-Le master SEP de l'université de Reims Champagne-Ardenne a été classé parmi les meilleurs masters au [classement 2023 "Master Big Data & Data Sciences" de Eduniversal](https://www.meilleurs-masters.com/master-big-data-data-sciences.html).
+Cette flexibilité géographique permet aux étudiants d’accéder à des ressources et infrastructures variées tout en favorisant les interactions avec des étudiants d'autres disciplines.
