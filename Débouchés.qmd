@@ -7,14 +7,14 @@ editor: visual
 
 Les métiers visés sont très variés et répondent à une demande croissante sur le marché de l'emploi :
 
-- **Data Analyst** / **Data Scientist** / **Data Miner** : Ces professionnels exploitent et analysent des données pour en tirer des insights stratégiques.
-- **Statisticien** : Chargé de concevoir des études et d'interpréter des résultats, le statisticien joue un rôle clé dans la prise de décisions basées sur des données.
-- **Chargé d'études statistiques ou économiques** : Ce poste implique la réalisation d'analyses approfondies pour évaluer des situations économiques ou des comportements de marché.
-- **Gestionnaire de risques** / **Risk Manager** : Il identifie et évalue les risques potentiels pour minimiser les pertes et protéger les actifs de l'entreprise.
-- **Géomarketeur** : Spécialiste du marketing qui utilise les données géographiques pour optimiser les campagnes publicitaires et les stratégies de vente.
-- **Economètre** : Expert en méthodes statistiques appliquées à l'économie, il modélise les relations économiques pour mieux comprendre les dynamiques de marché.
-- **Analyste financier** : Ce professionnel évalue la performance financière d'une entreprise et propose des recommandations pour améliorer sa rentabilité.
-- **Marketeur quantitatif** : Utilise des techniques analytiques pour élaborer des stratégies marketing basées sur des données quantitatives.
+-   **Data Analyst** / **Data Scientist** / **Data Miner** : Ces professionnels exploitent et analysent des données pour en tirer des insights stratégiques.
+-   **Statisticien** : Chargé de concevoir des études et d'interpréter des résultats, le statisticien joue un rôle clé dans la prise de décisions basées sur des données.
+-   **Chargé d'études statistiques ou économiques** : Ce poste implique la réalisation d'analyses approfondies pour évaluer des situations économiques ou des comportements de marché.
+-   **Gestionnaire de risques** / **Risk Manager** : Il identifie et évalue les risques potentiels pour minimiser les pertes et protéger les actifs de l'entreprise.
+-   **Géomarketeur** : Spécialiste du marketing qui utilise les données géographiques pour optimiser les campagnes publicitaires et les stratégies de vente.
+-   **Economètre** : Expert en méthodes statistiques appliquées à l'économie, il modélise les relations économiques pour mieux comprendre les dynamiques de marché.
+-   **Analyste financier** : Ce professionnel évalue la performance financière d'une entreprise et propose des recommandations pour améliorer sa rentabilité.
+-   **Marketeur quantitatif** : Utilise des techniques analytiques pour élaborer des stratégies marketing basées sur des données quantitatives.
 
 La rémunération moyenne annuelle brute constatée pour le premier emploi est **44 K€**, et le délai d'attente pour ce premier emploi est généralement inférieur à **6 mois**. Ces chiffres soulignent l'attractivité et le potentiel du secteur des données.
 
@@ -24,8 +24,8 @@ L'**APEC** propose une étude sur les [**métiers de la data**](https://www.goog
 
 Le Master S.E.P. permet de s'insérer facilement dans des secteurs d'activités aussi divers que ceux :
 
-- **Cabinets de conseil statistique et économique** : Des domaines comme la prospective, le marketing quantitatif, la gestion des risques et le géomarketing sont en pleine expansion.
-- **Administrations** : Les compétences statistiques sont recherchées à tous les niveaux, que ce soit dans les administrations locales, nationales ou internationales.
-- **Industrie et services** : Les secteurs comme les banques, les assurances et la pharmacie nécessitent des experts en données pour améliorer leur efficacité et leur prise de décision.
+-   **Cabinets de conseil statistique et économique** : Des domaines comme la prospective, le marketing quantitatif, la gestion des risques et le géomarketing sont en pleine expansion.
+-   **Administrations** : Les compétences statistiques sont recherchées à tous les niveaux, que ce soit dans les administrations locales, nationales ou internationales.
+-   **Industrie et services** : Les secteurs comme les banques, les assurances et la pharmacie nécessitent des experts en données pour améliorer leur efficacité et leur prise de décision.
 
 Ainsi, le Master S.E.P. prépare les étudiants à intégrer un marché du travail dynamique et en constante évolution, offrant de nombreuses opportunités professionnelles.

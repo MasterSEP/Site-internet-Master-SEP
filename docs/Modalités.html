@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -68,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./Images/URCAorbrun.png" alt="" class="navbar-logo">
     </a>
@@ -85,42 +92,64 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Présentation</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Présentation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Formation.html" rel="" target="">
- <span class="menu-text">Formation</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-formation" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Formation</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-formation">    
+        <li>
+    <a class="dropdown-item" href="./Programmes.html">
+ <span class="dropdown-text">Programmes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Programmes.html" rel="" target="">
- <span class="menu-text">Programmes</span></a>
+        <li>
+    <a class="dropdown-item" href="./Organisation.html">
+ <span class="dropdown-text">Organisation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Organisation.html" rel="" target="">
- <span class="menu-text">Organisation</span></a>
+        <li>
+    <a class="dropdown-item" href="./Débouchés.html">
+ <span class="dropdown-text">Débouchés</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./ressources.html" rel="" target="">
- <span class="menu-text">Ressources</span></a>
+        <li>
+    <a class="dropdown-item" href="./Modalités.html">
+ <span class="dropdown-text">Modalités</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Actualites.html" rel="" target="">
- <span class="menu-text">Actualités</span></a>
+        <li>
+    <a class="dropdown-item" href="./Stage.html">
+ <span class="dropdown-text">Stage</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-vie-étudiante" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Vie étudiante</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-vie-étudiante">    
+        <li>
+    <a class="dropdown-item" href="./Actualites.html">
+ <span class="dropdown-text">Actualités</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./ressources.html">
+ <span class="dropdown-text">Outils et ressources</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./contacts.html" rel="" target="">
- <span class="menu-text">Contacts</span></a>
+    <a class="nav-link" href="./contacts.html"> 
+<span class="menu-text">Contacts</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -133,9 +162,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#qui-peut-postuler" id="toc-qui-peut-postuler" class="nav-link active" data-scroll-target="#qui-peut-postuler">Qui peut postuler ?</a></li>
-  <li><a href="#comment-postuler" id="toc-comment-postuler" class="nav-link" data-scroll-target="#comment-postuler">Comment postuler ?</a></li>
-  <li><a href="#faq" id="toc-faq" class="nav-link" data-scroll-target="#faq">FAQ</a></li>
+  <li><a href="#qui-peut-postuler" id="toc-qui-peut-postuler" class="nav-link active" data-scroll-target="#qui-peut-postuler">Qui peut postuler ?</a>
+  <ul class="collapse">
+  <li><a href="#master-1" id="toc-master-1" class="nav-link" data-scroll-target="#master-1">Master 1</a></li>
+  <li><a href="#master-2" id="toc-master-2" class="nav-link" data-scroll-target="#master-2">Master 2</a></li>
+  </ul></li>
+  <li><a href="#comment-postuler" id="toc-comment-postuler" class="nav-link" data-scroll-target="#comment-postuler">Comment postuler ?</a>
+  <ul class="collapse">
+  <li><a href="#pour-entrer-en-m1" id="toc-pour-entrer-en-m1" class="nav-link" data-scroll-target="#pour-entrer-en-m1"><u><strong>Pour entrer en M1 :</strong></u></a></li>
+  <li><a href="#pour-entrer-en-m2" id="toc-pour-entrer-en-m2" class="nav-link" data-scroll-target="#pour-entrer-en-m2"><u><strong>Pour entrer en M2 :</strong></u></a></li>
+  <li><a href="#vous-êtes-de-nationalité-étrangère" id="toc-vous-êtes-de-nationalité-étrangère" class="nav-link" data-scroll-target="#vous-êtes-de-nationalité-étrangère"><u><strong>Vous êtes de nationalité étrangère :</strong></u></a></li>
+  </ul></li>
+  <li><a href="#faq" id="toc-faq" class="nav-link" data-scroll-target="#faq">FAQ</a>
+  <ul class="collapse">
+  <li><a href="#quels-sont-les-critères-de-sélection" id="toc-quels-sont-les-critères-de-sélection" class="nav-link" data-scroll-target="#quels-sont-les-critères-de-sélection"><strong>1. Quels sont les critères de sélection ?</strong></a></li>
+  <li><a href="#y-a-t-il-une-moyenne-à-atteindre-pour-être-admis" id="toc-y-a-t-il-une-moyenne-à-atteindre-pour-être-admis" class="nav-link" data-scroll-target="#y-a-t-il-une-moyenne-à-atteindre-pour-être-admis"><strong>2. Y a-t-il une moyenne à atteindre pour être admis ?</strong></a></li>
+  <li><a href="#comment-sont-appréciés-les-parcours-atypiques" id="toc-comment-sont-appréciés-les-parcours-atypiques" class="nav-link" data-scroll-target="#comment-sont-appréciés-les-parcours-atypiques"><strong>3. Comment sont appréciés les parcours atypiques ?</strong></a></li>
+  <li><a href="#un-entretien-oral-est-il-prévu" id="toc-un-entretien-oral-est-il-prévu" class="nav-link" data-scroll-target="#un-entretien-oral-est-il-prévu"><strong>4. Un entretien oral est-il prévu ?</strong></a></li>
+  <li><a href="#quels-aspects-sont-discutés-lors-de-lentretien" id="toc-quels-aspects-sont-discutés-lors-de-lentretien" class="nav-link" data-scroll-target="#quels-aspects-sont-discutés-lors-de-lentretien"><strong>5. Quels aspects sont discutés lors de l’entretien ?</strong></a></li>
+  <li><a href="#comment-me-préparer-à-lentretien" id="toc-comment-me-préparer-à-lentretien" class="nav-link" data-scroll-target="#comment-me-préparer-à-lentretien"><strong>6. Comment me préparer à l’entretien ?</strong></a></li>
+  <li><a href="#quelle-est-la-durée-de-lentretien" id="toc-quelle-est-la-durée-de-lentretien" class="nav-link" data-scroll-target="#quelle-est-la-durée-de-lentretien"><strong>7. Quelle est la durée de l’entretien ?</strong></a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -149,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -157,124 +204,81 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<p>Le Master fonde&nbsp;son excellence et sa renommée sur sa sélectivité. Le rôle de cette page est de vous accompagner au mieux dans vos candidatures, en vous fournissant&nbsp;toutes les informations relatives à la sélection.</p>
+
+<p>Le Master SEP fonde sa renommée sur la qualité de sa sélection. À travers cette page, nous vous accompagnons dans votre candidature en vous fournissant toutes les informations nécessaires pour intégrer cette formation d’excellence.</p>
 <section id="qui-peut-postuler" class="level2">
 <h2 class="anchored" data-anchor-id="qui-peut-postuler">Qui peut postuler ?</h2>
-<p>Le master 1 est ouvert aux étudiants titulaire d’une L3 ou équivalent :</p>
-<ul>
-<li><p>Licence Economie et Gestion</p></li>
-<li><p>Licence Mathématiques et informatique appliquées en sciences humaines et sociales</p></li>
-<li><p>Licence Mathématiques appliquées et sciences sociales</p></li>
-</ul>
-<p>La liste n’est pas exhaustive et dépend du parcours de chaque&nbsp; étudiant.</p>
-<p><br>
-Le M2 necessite d’être titulaire d’un M1 :</p>
-<ul>
-<li>Économétrie, Ingénieurs, Grandes écoles, M1 MASS, M1 Ingénierie Mathématique</li>
-</ul>
-<p>Ces étudiants suivent alors le programme en 1 an et commencent directement au niveau M2.</p>
-<p><u><strong>Prérequis Recommandés :</strong></u></p>
-<p>Avoir une affinité pour l’informatique est un atout majeur. La capacité à travailler en groupe, des compétences rédactionnelles affirmées et une aisance à l’expression orale sont particulierement valorisés.</p>
-<p>Les étudiant.e.s ayant obtenu leur licence en économie, en économie et gestion, ou en MIASHS, trouveront notre programme particulièrement enrichissant, surtout si les cours liés aux prérequis obligatoires ont été appréhendés avec brio.</p>
-<p>Les étudiant.e.s venant d’horizons divers, que ce soit en géographie, psychologie, et autres, peuvent intégrer la deuxième année à condition d’avoir validé les prérequis nécessaires et de démontrer un projet professionnel orienté vers une double compétence.</p>
+<section id="master-1" class="level3">
+<h3 class="anchored" data-anchor-id="master-1">Master 1</h3>
+<p>Le M1 est ouvert aux étudiants titulaires d’une Licence ou d’un diplôme équivalent, notamment dans les filières suivantes : - Licence Économie et Gestion - Licence Mathématiques et Informatique appliquées aux Sciences Sociales (MIASHS) - Licence Mathématiques appliquées et Sciences Sociales</p>
+<p>Cette liste n’est pas exhaustive. Chaque candidature est étudiée en fonction du parcours académique et des compétences de l’étudiant.</p>
+</section>
+<section id="master-2" class="level3">
+<h3 class="anchored" data-anchor-id="master-2">Master 2</h3>
+<p>L’accès direct au M2 est réservé aux candidats ayant validé un M1 ou équivalent dans des domaines connexes, tels que : - Économétrie - Ingénierie - Grandes Écoles - M1 MASS - M1 Ingénierie Mathématique</p>
+<p>Ces étudiants peuvent suivre le programme directement en 2ème année.</p>
+<section id="prérequis-recommandés" class="level4">
+<h4 class="anchored" data-anchor-id="prérequis-recommandés"><u><strong>Prérequis recommandés :</strong></u></h4>
+<p>Pour maximiser vos chances de réussite, il est vivement recommandé de : - Avoir une affinité pour l’informatique et les outils numériques. - Posséder de solides compétences rédactionnelles et orales. - Savoir travailler en groupe de manière efficace.</p>
+<p>Les candidats issus d’autres disciplines, comme la géographie ou la psychologie, peuvent postuler au M2 à condition de justifier des prérequis nécessaires et d’un projet professionnel bien défini, orienté vers une double compétence.</p>
+</section>
+</section>
 </section>
 <section id="comment-postuler" class="level2">
 <h2 class="anchored" data-anchor-id="comment-postuler">Comment postuler ?</h2>
-<ul>
-<li><u><strong><em>Niveau à l’entrée en formation :</em></strong></u></li>
-</ul>
-<p>niveau II (licence ou maîtrise universitaire)</p>
-<ul>
-<li><u><strong><em>Pour entrer en M1 :</em></strong></u></li>
-</ul>
-<p>A partir du 1er février, les étudiants pourront consulter toutes les informations sur les diplômes nationaux de master sur le site :</p>
-<p><a href="http://www.monmaster.gouv.fr/">www.monmaster.gouv.fr</a></p>
-<ul>
-<li><u><strong><em>Pour entrer en M2 :</em></strong></u></li>
-</ul>
-<p>L’admission se fait en plusieurs étapes :</p>
-<ol type="1">
-<li><p>Candidature en ligne : via le <a href="https://candidatures.univ-reims.fr/candidat/#!accueilView"><strong>eCandidat de l’université de Reims</strong></a></p></li>
-<li><p>Décision d’admissibilité pour les entretiens, sur la base du dossier de candidature.</p></li>
-<li><p>Entretien avec les candidats admissibles, puis décision d’admission.</p>
-<p>Voici les documents demandés :</p></li>
-</ol>
-<table class="table">
-<colgroup>
-<col style="width: 100%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Curriculum Vitae</td>
-</tr>
-<tr class="even">
-<td>Lettre de motivation avec projet professionnel</td>
-</tr>
-<tr class="odd">
-<td>Relevé de notes de toutes vos années universitaires.</td>
-</tr>
-<tr class="even">
-<td>Copies des diplômes obtenus (baccalauréat compris)</td>
-</tr>
-<tr class="odd">
-<td>Attestation(s) de stage</td>
-</tr>
-<tr class="even">
-<td>Attestation(s) justifiant de l’expérience professionnelle en lien avec la formation</td>
-</tr>
-<tr class="odd">
-<td>Avis de l’Ambassade de France (Obligatoire pour les candidats non Européens résidant hors de l’Union Européenne)</td>
-</tr>
-<tr class="even">
-<td>Un document avec le programme des études et le volume horaire des enseignements de chaque année d’études</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li><u><strong><em>Vous êtes de nationalité étrangère :</em></strong></u></li>
-</ul>
-<p>Les modalités relatives à l’admission des étudiants étrangers sont disponibles sur le lien suivant : <a href="http://www.univ-reims.fr/etudiants-internationaux" class="uri">http://www.univ-reims.fr/etudiants-internationaux</a><br>
-Pour plus d’informations, vous pouvez également envoyer un e-mail : <a href="mailto:etudiants.etrangers@univ-reims.fr">etudiants.etrangers@univ-reims.fr</a></p>
-<p>Adresse d’inscription : 2 avenue Robert Schuman</p>
-<p><u>Voici donc quelques précisions et recommandations pour maximiser vos chances d’être admis&nbsp;:</u></p>
-<ul>
-<li><p>respecter bien les dates de dépôt de candidature et vérifier que vous avez bien déposer toutes les pièces obligatoires.</p></li>
-<li><p>le jury d’admission se réunissant à l’issue du dépôt des candidatures, il est inutile de contacter les enseignants du Master ou d’envoyer des pièces supplémentaires après la deadline officielle, ces pièces ne seront pas prises en compte.</p></li>
-</ul>
+<section id="pour-entrer-en-m1" class="level3">
+<h3 class="anchored" data-anchor-id="pour-entrer-en-m1"><u><strong>Pour entrer en M1 :</strong></u></h3>
+<p>Les candidatures au M1 sont ouvertes à partir du 1er février. Vous pouvez consulter toutes les informations relatives aux diplômes nationaux de Master sur le site <a href="http://www.monmaster.gouv.fr">www.monmaster.gouv.fr</a>.</p>
+</section>
+<section id="pour-entrer-en-m2" class="level3">
+<h3 class="anchored" data-anchor-id="pour-entrer-en-m2"><u><strong>Pour entrer en M2 :</strong></u></h3>
+<p>L’admission en M2 se déroule en plusieurs étapes : 1. <strong>Candidature en ligne</strong> : Déposez votre dossier sur la plateforme <a href="https://candidatures.univ-reims.fr/candidat/#!accueilView">eCandidat de l’Université de Reims</a>. 2. <strong>Étude du dossier</strong> : Le jury d’admission évalue les dossiers et sélectionne les candidats admissibles. 3. <strong>Entretien oral</strong> : Un entretien est prévu pour les candidats sélectionnés, permettant d’évaluer leur motivation et la cohérence de leur projet professionnel.</p>
+<section id="documents-à-fournir" class="level4">
+<h4 class="anchored" data-anchor-id="documents-à-fournir"><u><strong>Documents à fournir</strong></u></h4>
+<p>Lors de votre candidature, il vous sera demandé de soumettre les documents suivants : - Curriculum Vitae détaillé - Lettre de motivation incluant votre projet professionnel - Relevés de notes de toutes vos années universitaires - Copies de vos diplômes (baccalauréat compris) - Attestation(s) de stage ou d’expérience professionnelle pertinente - Pour les candidats non européens résidant hors de l’UE : l’avis de l’Ambassade de France - Un document présentant le programme des études et le volume horaire des cours suivis</p>
+</section>
+</section>
+<section id="vous-êtes-de-nationalité-étrangère" class="level3">
+<h3 class="anchored" data-anchor-id="vous-êtes-de-nationalité-étrangère"><u><strong>Vous êtes de nationalité étrangère :</strong></u></h3>
+<p>Les modalités d’admission spécifiques aux étudiants étrangers sont disponibles sur le lien suivant : <a href="http://www.univ-reims.fr/etudiants-internationaux">univ-reims.fr/etudiants-internationaux</a>. Pour toute question complémentaire, n’hésitez pas à contacter l’université à l’adresse suivante : <a href="mailto:etudiants.etrangers@univ-reims.fr">etudiants.etrangers@univ-reims.fr</a>.</p>
+</section>
 </section>
 <section id="faq" class="level2">
 <h2 class="anchored" data-anchor-id="faq">FAQ</h2>
-<ol type="1">
-<li><strong><em>Quels sont les critères de sélection ?</em></strong></li>
-</ol>
-<p>Le jury du master apprécie à la fois les résultats académiques des candidats, notamment au regard des mentions obtenues au cours du parcours universitaire, ainsi que leurs expériences professionnelles. Plus généralement, elles sont sensibles à la cohérence globale de la candidature.</p>
-<ol start="2" type="1">
-<li><strong><em>Existe-t-il une moyenne générale précise à atteindre pour prétendre sa candidature ?</em></strong></li>
-</ol>
-<p>L’obtention de la licence et/ou du M1 est exigée pour déposer sa candidature. Au regard du nombre de candidatures, l’obtention d’une mention assez bien ou bien est particulièrement indiquée.</p>
-<ol start="3" type="1">
-<li><strong><em>Comment sont appréciés les parcours « atypiques » ou « particuliers » ? Quel est le profil de la promotion ?</em></strong></li>
-</ol>
-<p>Les étudiants ont des profils variés : parcours de mathématiques à l’université ou en écoles, parcours économique, etc.</p>
-<p>Les directeurs apprécient chaque dossier selon ses singularités et ses atouts mais il est conseillé de mettre en valeur la cohérence du projet avec les débouchés du Master.</p>
-<ol start="4" type="1">
-<li><strong><em>Est-ce qu’un entretien oral fait partie du processus de sélection ?</em></strong></li>
-</ol>
-<p>Oui, un entretien oral peut être prévu après l’examen des dossiers de candidature. Cela s’applique particulièrement aux candidats en Master 2, où les entretiens sont plus fréquents.</p>
-<ol start="5" type="1">
-<li><strong><em>Quels aspects sont discutés lors de l’entretien oral ?</em></strong></li>
-</ol>
-<p>L’entretien oral permet d’explorer la passion du candidat, ses expériences antérieures et ses ambitions futures. C’est une étape clé pour mieux connaître chaque candidat et assurer une correspondance harmonieuse entre leurs attentes et le programme de Master SEP.</p>
-<ol start="6" type="1">
-<li><strong><em>Comment me préparer à l’entretien oral ? Quelle est la durée de l’entretien oral ?</em></strong></li>
-</ol>
-<p>Préparez-vous en réfléchissant à vos expériences, vos motivations et vos objectifs. Soyez prêt à discuter de votre intérêt pour le programme et comment il s’aligne avec vos aspirations académiques et professionnelles.</p>
-<p>La durée peut varier, mais généralement, les entretiens oraux durent entre 20 et 30 minutes. Soyez concis et préparez-vous à mettre en avant les points clés de votre parcours et de vos ambitions.</p>
-<p>Nous espérons que ces réponses vous éclairent sur le processus de sélection et que vous êtes prêt à saisir cette opportunité de partager votre parcours et vos aspirations au sein de notre Master.</p>
+<section id="quels-sont-les-critères-de-sélection" class="level3">
+<h3 class="anchored" data-anchor-id="quels-sont-les-critères-de-sélection"><strong>1. Quels sont les critères de sélection ?</strong></h3>
+<p>Le jury prend en compte plusieurs critères, dont les résultats académiques (mentions obtenues), les expériences professionnelles, ainsi que la cohérence du projet professionnel avec les objectifs du Master.</p>
+</section>
+<section id="y-a-t-il-une-moyenne-à-atteindre-pour-être-admis" class="level3">
+<h3 class="anchored" data-anchor-id="y-a-t-il-une-moyenne-à-atteindre-pour-être-admis"><strong>2. Y a-t-il une moyenne à atteindre pour être admis ?</strong></h3>
+<p>L’obtention d’une licence (ou d’un M1 pour le M2) est requise. Une mention “Assez Bien” ou “Bien” est souvent conseillée pour se distinguer, mais chaque dossier est évalué dans sa globalité.</p>
+</section>
+<section id="comment-sont-appréciés-les-parcours-atypiques" class="level3">
+<h3 class="anchored" data-anchor-id="comment-sont-appréciés-les-parcours-atypiques"><strong>3. Comment sont appréciés les parcours atypiques ?</strong></h3>
+<p>Les profils variés sont les bienvenus, qu’ils soient issus de mathématiques, d’économie, ou d’autres disciplines. Le jury apprécie les candidatures singulières, à condition que le projet soit cohérent avec les débouchés du Master.</p>
+</section>
+<section id="un-entretien-oral-est-il-prévu" class="level3">
+<h3 class="anchored" data-anchor-id="un-entretien-oral-est-il-prévu"><strong>4. Un entretien oral est-il prévu ?</strong></h3>
+<p>Oui, surtout pour les admissions en M2. L’entretien permet d’évaluer la motivation et les aspirations du candidat.</p>
+</section>
+<section id="quels-aspects-sont-discutés-lors-de-lentretien" class="level3">
+<h3 class="anchored" data-anchor-id="quels-aspects-sont-discutés-lors-de-lentretien"><strong>5. Quels aspects sont discutés lors de l’entretien ?</strong></h3>
+<p>Le candidat est invité à exposer ses expériences passées, sa motivation pour intégrer le Master, ainsi que son projet professionnel. C’est l’occasion de démontrer la pertinence de sa candidature.</p>
+</section>
+<section id="comment-me-préparer-à-lentretien" class="level3">
+<h3 class="anchored" data-anchor-id="comment-me-préparer-à-lentretien"><strong>6. Comment me préparer à l’entretien ?</strong></h3>
+<p>Préparez-vous à répondre aux questions concernant vos expériences académiques et professionnelles, ainsi que votre motivation à suivre ce Master. Mettez en avant les aspects de votre parcours qui correspondent aux valeurs et aux objectifs du programme.</p>
+</section>
+<section id="quelle-est-la-durée-de-lentretien" class="level3">
+<h3 class="anchored" data-anchor-id="quelle-est-la-durée-de-lentretien"><strong>7. Quelle est la durée de l’entretien ?</strong></h3>
+<p>L’entretien dure généralement entre 20 et 30 minutes. Soyez clair et concis, en insistant sur les points forts de votre dossier.</p>
+<p>Nous espérons que ces informations vous aideront à bien préparer votre candidature. N’hésitez pas à poser des questions si besoin, et bonne chance dans vos démarches !</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -357,10 +361,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -370,8 +391,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -383,7 +413,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -427,6 +580,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -452,6 +606,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -517,7 +697,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><span style="color: #8b4513;"> Made by Isra Friaa &amp; Benjamin Sejdi</span></div>
+    <div class="nav-footer-center">
+<p><span style="color: #8b4513;"> Made by Isra Friaa &amp; Benjamin Sejdi</span></p>
+</div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -548,6 +730,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 
