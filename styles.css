@@ -51,5 +51,112 @@ th, td {
     padding: 8px;
 }
 
+/* -----------------------------------------*/
+
+/* Style général de la barre de navigation */
+.navbar {
+  font-family: 'Arial', sans-serif;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Style du conteneur du menu déroulant */
+.navbar .dropdown {
+  position: relative;
+}
+
+/* Style du menu déroulant */
+.navbar .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+  padding: 0.75rem 0;
+  min-width: 200px;
+  z-index: 1000;
+}
+
+/* Créer une zone tampon pour le menu déroulant */
+.navbar .dropdown::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 20px; /* Ajustez cette valeur selon vos besoins */
+}
+
+/* Affichage du menu déroulant au survol du menu principal ou de la zone tampon */
+.navbar .dropdown:hover .dropdown-menu,
+.navbar .dropdown:hover::after {
+  display: block;
+}
+
+/* Style des éléments du menu déroulant */
+.navbar .dropdown-item {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  color: #333333;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+/* Effet de survol sur les éléments du menu déroulant */
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  background-color: #f8f9fa;
+  color: #8b4513; /* Couleur marron au survol */
+  padding-left: 1.75rem;
+}
+
+/* Ajout d'une icône au survol des éléments du menu déroulant */
+.navbar .dropdown-item:hover::before {
+  content: '▸';
+  position: absolute;
+  left: 0.75rem;
+  color: #8b4513; /* Couleur marron pour l'icône au survol */
+}
+
+/* Style des liens de navigation principaux */
+.navbar .nav-link {
+  position: relative;
+  padding: 0.5rem 1rem;
+  color: #333333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+/* Effet de survol sur les liens de navigation principaux */
+.navbar .nav-link:hover {
+  color: #8b4513; /* Couleur marron au survol des liens principaux */
+}
+
+/* Ligne d'animation sous les liens de navigation principaux */
+.navbar .nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background-color: #8b4513; /* Couleur marron pour la ligne sous le lien */
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+.navbar .nav-link:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+
+
+/* Suppression des flèches par défaut pour les menus déroulants */
+.navbar .dropdown-toggle::after {
+  display: none;
+}
+
 
 

@@ -27,15 +27,23 @@ website:
       - text: "Présentation"
         file: index.qmd
       - text: "Formation"
-        file: Formation.qmd
-      - text: "Programmes"
-        file: Programmes.qmd
-      - text : "Organisation"
-        file : Organisation.qmd
-      - text: "Ressources"
-        file: ressources.qmd
-      - text: "Actualités"
-        file: Actualites.qmd
+        menu:  # Sous-menu pour Formation
+          - text: "Programmes"
+            file: Programmes.qmd
+          - text: "Organisation"
+            file: Organisation.qmd
+          - text: "Débouchés"
+            file: Débouchés.qmd
+          - text: "Modalités"
+            file: Modalités.qmd
+          - text: "Stage"
+            file: Stage.qmd
+      - text: "Vie étudiante"
+        menu:
+          - text: "Actualités"
+            file: Actualites.qmd
+          - text: "Outils et ressources"
+            file: ressources.qmd
       - text: "Contacts"
         file: contacts.qmd
       
