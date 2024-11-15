@@ -5,35 +5,27 @@ editor: visual
 
 ### Métiers
 
-Les métiers visés sont très variés :
+Les métiers visés sont très variés et répondent à une demande croissante sur le marché de l'emploi :
 
--   Data analyst / Data scientist / Data miner
+- **Data Analyst** / **Data Scientist** / **Data Miner** : Ces professionnels exploitent et analysent des données pour en tirer des insights stratégiques.
+- **Statisticien** : Chargé de concevoir des études et d'interpréter des résultats, le statisticien joue un rôle clé dans la prise de décisions basées sur des données.
+- **Chargé d'études statistiques ou économiques** : Ce poste implique la réalisation d'analyses approfondies pour évaluer des situations économiques ou des comportements de marché.
+- **Gestionnaire de risques** / **Risk Manager** : Il identifie et évalue les risques potentiels pour minimiser les pertes et protéger les actifs de l'entreprise.
+- **Géomarketeur** : Spécialiste du marketing qui utilise les données géographiques pour optimiser les campagnes publicitaires et les stratégies de vente.
+- **Economètre** : Expert en méthodes statistiques appliquées à l'économie, il modélise les relations économiques pour mieux comprendre les dynamiques de marché.
+- **Analyste financier** : Ce professionnel évalue la performance financière d'une entreprise et propose des recommandations pour améliorer sa rentabilité.
+- **Marketeur quantitatif** : Utilise des techniques analytiques pour élaborer des stratégies marketing basées sur des données quantitatives.
 
--   Statisticien
+La rémunération moyenne annuelle brute constatée pour le premier emploi est **44 K€**, et le délai d'attente pour ce premier emploi est généralement inférieur à **6 mois**. Ces chiffres soulignent l'attractivité et le potentiel du secteur des données.
 
--   Chargé d'études statistiques ou économiques
-
--   Gestionnaire de risques / Risk manager
-
--   Géomarketeur
-
--   Economètre
-
--   Analyste financier
-
--   Marketeur quantitatif.
-
-\
-La rémunération moyenne annuelle brute constatée pour le premier emploi est **44 K€** et le délai d'attente pour ce premier emploi est généralement inférieur à **6 mois**.
-
-L'**APEC** propose une étude sur les [**métiers de la data**](https://www.google.com/url?q=https%3A%2F%2Fcorporate.apec.fr%2Fhome%2Fnos-etudes%2Ftoutes-nos-etudes%2Fles-metiers-de-la-data.html&sa=D&sntz=1&usg=AOvVaw3YjCLTb4j1HOWRJPolrZ1o) mettant met en lumière sept métiers, qui placent les données au cœur de leur activité, qu'il s'agisse de leur collecte et de leur stockage, de leur traitement et de leur modélisation ou encore de leur protection.
+L'**APEC** propose une étude sur les [**métiers de la data**](https://www.google.com/url?q=https%3A%2F%2Fcorporate.apec.fr%2Fhome%2Fnos-etudes%2Ftoutes-nos-etudes%2Fles-metiers-de-la-data.html&sa=D&sntz=1&usg=AOvVaw3YjCLTb4j1HOWRJPolrZ1o) mettant en lumière sept métiers qui placent les données au cœur de leur activité, qu'il s'agisse de leur collecte, de leur stockage, de leur traitement, de leur modélisation ou encore de leur protection.
 
 ### Secteurs d'activités
 
-Le master S.E.P. permet de s'insérer facilement dans des secteurs d'activités aussi divers que ceux :
+Le Master S.E.P. permet de s'insérer facilement dans des secteurs d'activités aussi divers que ceux :
 
--   des cabinets de conseil statistique et économique : prospective, marketing quantitatif, gestion des risques, géomarketing, audimat, etc...
+- **Cabinets de conseil statistique et économique** : Des domaines comme la prospective, le marketing quantitatif, la gestion des risques et le géomarketing sont en pleine expansion.
+- **Administrations** : Les compétences statistiques sont recherchées à tous les niveaux, que ce soit dans les administrations locales, nationales ou internationales.
+- **Industrie et services** : Les secteurs comme les banques, les assurances et la pharmacie nécessitent des experts en données pour améliorer leur efficacité et leur prise de décision.
 
--   des administrations : locales, nationales, internationales;
-
--   de l'industrie et des services : banques, assurances, pharmacie, etc...
+Ainsi, le Master S.E.P. prépare les étudiants à intégrer un marché du travail dynamique et en constante évolution, offrant de nombreuses opportunités professionnelles.

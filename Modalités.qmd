@@ -3,111 +3,81 @@ title: "Modalités d'admissions"
 editor: visual
 ---
 
-Le Master fonde son excellence et sa renommée sur sa sélectivité. Le rôle de cette page est de vous accompagner au mieux dans vos candidatures, en vous fournissant toutes les informations relatives à la sélection.
+Le Master SEP fonde sa renommée sur la qualité de sa sélection. À travers cette page, nous vous accompagnons dans votre candidature en vous fournissant toutes les informations nécessaires pour intégrer cette formation d’excellence.
 
 ## Qui peut postuler ?
 
-Le master 1 est ouvert aux étudiants titulaire d'une L3 ou équivalent :
+### Master 1
+Le M1 est ouvert aux étudiants titulaires d’une Licence ou d’un diplôme équivalent, notamment dans les filières suivantes :
+- Licence Économie et Gestion
+- Licence Mathématiques et Informatique appliquées aux Sciences Sociales (MIASHS)
+- Licence Mathématiques appliquées et Sciences Sociales
 
--   Licence Economie et Gestion
+Cette liste n’est pas exhaustive. Chaque candidature est étudiée en fonction du parcours académique et des compétences de l’étudiant.
 
--   Licence Mathématiques et informatique appliquées en sciences humaines et sociales
+### Master 2
+L’accès direct au M2 est réservé aux candidats ayant validé un M1 ou équivalent dans des domaines connexes, tels que :
+- Économétrie
+- Ingénierie
+- Grandes Écoles
+- M1 MASS
+- M1 Ingénierie Mathématique
 
--   Licence Mathématiques appliquées et sciences sociales
+Ces étudiants peuvent suivre le programme directement en 2ème année.
 
-La liste n'est pas exhaustive et dépend du parcours de chaque  étudiant.
+#### [**Prérequis recommandés :**]{.underline}
+Pour maximiser vos chances de réussite, il est vivement recommandé de :
+- Avoir une affinité pour l’informatique et les outils numériques.
+- Posséder de solides compétences rédactionnelles et orales.
+- Savoir travailler en groupe de manière efficace.
 
-\
-Le M2 necessite d'être titulaire d'un M1 :
-
--   Économétrie, Ingénieurs, Grandes écoles, M1 MASS, M1 Ingénierie Mathématique
-
-Ces étudiants suivent alors le programme en 1 an et commencent directement au niveau M2.
-
-[**Prérequis Recommandés :**]{.underline}
-
-Avoir une affinité pour l'informatique est un atout majeur. La capacité à travailler en groupe, des compétences rédactionnelles affirmées et une aisance à l'expression orale sont particulierement valorisés.
-
-Les étudiant.e.s ayant obtenu leur licence en économie, en économie et gestion, ou en MIASHS, trouveront notre programme particulièrement enrichissant, surtout si les cours liés aux prérequis obligatoires ont été appréhendés avec brio.
-
-Les étudiant.e.s venant d'horizons divers, que ce soit en géographie, psychologie, et autres, peuvent intégrer la deuxième année à condition d'avoir validé les prérequis nécessaires et de démontrer un projet professionnel orienté vers une double compétence.
+Les candidats issus d’autres disciplines, comme la géographie ou la psychologie, peuvent postuler au M2 à condition de justifier des prérequis nécessaires et d’un projet professionnel bien défini, orienté vers une double compétence.
 
 ## Comment postuler ?
 
--   [***Niveau à l'entrée en formation :***]{.underline}
+### [**Pour entrer en M1 :**]{.underline}
+Les candidatures au M1 sont ouvertes à partir du 1er février. Vous pouvez consulter toutes les informations relatives aux diplômes nationaux de Master sur le site [www.monmaster.gouv.fr](http://www.monmaster.gouv.fr).
 
-niveau II (licence ou maîtrise universitaire)
+### [**Pour entrer en M2 :**]{.underline}
+L’admission en M2 se déroule en plusieurs étapes :
+1. **Candidature en ligne** : Déposez votre dossier sur la plateforme [eCandidat de l’Université de Reims](https://candidatures.univ-reims.fr/candidat/#!accueilView).
+2. **Étude du dossier** : Le jury d’admission évalue les dossiers et sélectionne les candidats admissibles.
+3. **Entretien oral** : Un entretien est prévu pour les candidats sélectionnés, permettant d’évaluer leur motivation et la cohérence de leur projet professionnel.
 
--   [***Pour entrer en M1 :***]{.underline}
+#### [**Documents à fournir**]{.underline}
+Lors de votre candidature, il vous sera demandé de soumettre les documents suivants :
+- Curriculum Vitae détaillé
+- Lettre de motivation incluant votre projet professionnel
+- Relevés de notes de toutes vos années universitaires
+- Copies de vos diplômes (baccalauréat compris)
+- Attestation(s) de stage ou d’expérience professionnelle pertinente
+- Pour les candidats non européens résidant hors de l’UE : l’avis de l’Ambassade de France
+- Un document présentant le programme des études et le volume horaire des cours suivis
 
-A partir du 1er février, les étudiants pourront consulter toutes les informations sur les diplômes nationaux de master sur le site :
-
-[www.monmaster.gouv.fr](http://www.monmaster.gouv.fr/)
-
--   [***Pour entrer en M2 :***]{.underline}
-
-L'admission se fait en plusieurs étapes :
-
-1.  Candidature en ligne : via le [**eCandidat de l'université de Reims**](https://candidatures.univ-reims.fr/candidat/#!accueilView)
-
-2.  Décision d'admissibilité pour les entretiens, sur la base du dossier de candidature.
-
-3.  Entretien avec les candidats admissibles, puis décision d'admission.
-
-    Voici les documents demandés :
-
-|                                                                                                                  |
-|------------------------------------------------------------------------|
-| Curriculum Vitae                                                                                                 |
-| Lettre de motivation avec projet professionnel                                                                   |
-| Relevé de notes de toutes vos années universitaires.                                                             |
-| Copies des diplômes obtenus (baccalauréat compris)                                                               |
-| Attestation(s) de stage                                                                                          |
-| Attestation(s) justifiant de l'expérience professionnelle en lien avec la formation                              |
-| Avis de l'Ambassade de France (Obligatoire pour les candidats non Européens résidant hors de l'Union Européenne) |
-| Un document avec le programme des études et le volume horaire des enseignements de chaque année d'études         |
-
--   [***Vous êtes de nationalité étrangère :***]{.underline}
-
-Les modalités relatives à l'admission des étudiants étrangers sont disponibles sur le lien suivant : <http://www.univ-reims.fr/etudiants-internationaux>\
-Pour plus d'informations, vous pouvez également envoyer un e-mail : [etudiants.etrangers\@univ-reims.fr](mailto:etudiants.etrangers@univ-reims.fr)
-
-Adresse d'inscription : 2 avenue Robert Schuman
-
-[Voici donc quelques précisions et recommandations pour maximiser vos chances d'être admis :]{.underline}
-
--   respecter bien les dates de dépôt de candidature et vérifier que vous avez bien déposer toutes les pièces obligatoires.
-
--   le jury d'admission se réunissant à l'issue du dépôt des candidatures, il est inutile de contacter les enseignants du Master ou d'envoyer des pièces supplémentaires après la deadline officielle, ces pièces ne seront pas prises en compte.
+### [**Vous êtes de nationalité étrangère :**]{.underline}
+Les modalités d’admission spécifiques aux étudiants étrangers sont disponibles sur le lien suivant : [univ-reims.fr/etudiants-internationaux](http://www.univ-reims.fr/etudiants-internationaux). Pour toute question complémentaire, n’hésitez pas à contacter l’université à l’adresse suivante : [etudiants.etrangers@univ-reims.fr](mailto:etudiants.etrangers@univ-reims.fr).
 
 ## FAQ
 
-1.  ***Quels sont les critères de sélection ?***
+### **1. Quels sont les critères de sélection ?**
+Le jury prend en compte plusieurs critères, dont les résultats académiques (mentions obtenues), les expériences professionnelles, ainsi que la cohérence du projet professionnel avec les objectifs du Master.
 
-Le jury du master apprécie à la fois les résultats académiques des candidats, notamment au regard des mentions obtenues au cours du parcours universitaire, ainsi que leurs expériences professionnelles. Plus généralement, elles sont sensibles à la cohérence globale de la candidature.
+### **2. Y a-t-il une moyenne à atteindre pour être admis ?**
+L’obtention d’une licence (ou d’un M1 pour le M2) est requise. Une mention "Assez Bien" ou "Bien" est souvent conseillée pour se distinguer, mais chaque dossier est évalué dans sa globalité.
 
-2.  ***Existe-t-il une moyenne générale précise à atteindre pour prétendre sa candidature ?***
+### **3. Comment sont appréciés les parcours atypiques ?**
+Les profils variés sont les bienvenus, qu’ils soient issus de mathématiques, d’économie, ou d’autres disciplines. Le jury apprécie les candidatures singulières, à condition que le projet soit cohérent avec les débouchés du Master.
 
-L'obtention de la licence et/ou du M1 est exigée pour déposer sa candidature. Au regard du nombre de candidatures, l'obtention d'une mention assez bien ou bien est particulièrement indiquée.
+### **4. Un entretien oral est-il prévu ?**
+Oui, surtout pour les admissions en M2. L’entretien permet d’évaluer la motivation et les aspirations du candidat.
 
-3.  ***Comment sont appréciés les parcours « atypiques » ou « particuliers » ? Quel est le profil de la promotion ?***
+### **5. Quels aspects sont discutés lors de l’entretien ?**
+Le candidat est invité à exposer ses expériences passées, sa motivation pour intégrer le Master, ainsi que son projet professionnel. C’est l’occasion de démontrer la pertinence de sa candidature.
 
-Les étudiants ont des profils variés : parcours de mathématiques à l'université ou en écoles, parcours économique, etc.
+### **6. Comment me préparer à l’entretien ?**
+Préparez-vous à répondre aux questions concernant vos expériences académiques et professionnelles, ainsi que votre motivation à suivre ce Master. Mettez en avant les aspects de votre parcours qui correspondent aux valeurs et aux objectifs du programme.
 
-Les directeurs apprécient chaque dossier selon ses singularités et ses atouts mais il est conseillé de mettre en valeur la cohérence du projet avec les débouchés du Master.
+### **7. Quelle est la durée de l’entretien ?**
+L’entretien dure généralement entre 20 et 30 minutes. Soyez clair et concis, en insistant sur les points forts de votre dossier.
 
-4.  ***Est-ce qu'un entretien oral fait partie du processus de sélection ?***
-
-Oui, un entretien oral peut être prévu après l'examen des dossiers de candidature. Cela s'applique particulièrement aux candidats en Master 2, où les entretiens sont plus fréquents.
-
-5.  ***Quels aspects sont discutés lors de l'entretien oral ?***
-
-L'entretien oral permet d'explorer la passion du candidat, ses expériences antérieures et ses ambitions futures. C'est une étape clé pour mieux connaître chaque candidat et assurer une correspondance harmonieuse entre leurs attentes et le programme de Master SEP.
-
-6.  ***Comment me préparer à l'entretien oral ? Quelle est la durée de l'entretien oral ?***
-
-Préparez-vous en réfléchissant à vos expériences, vos motivations et vos objectifs. Soyez prêt à discuter de votre intérêt pour le programme et comment il s'aligne avec vos aspirations académiques et professionnelles.
-
-La durée peut varier, mais généralement, les entretiens oraux durent entre 20 et 30 minutes. Soyez concis et préparez-vous à mettre en avant les points clés de votre parcours et de vos ambitions.
-
-Nous espérons que ces réponses vous éclairent sur le processus de sélection et que vous êtes prêt à saisir cette opportunité de partager votre parcours et vos aspirations au sein de notre Master.
+Nous espérons que ces informations vous aideront à bien préparer votre candidature. N’hésitez pas à poser des questions si besoin, et bonne chance dans vos démarches !
