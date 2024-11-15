@@ -147,16 +147,13 @@ th, td {
 }
 
 .navbar .nav-link:hover::after {
-  width: 100%;
-  left: 0;
+   width:100%;
+   left :0 ;
 }
-
-
 
 /* Suppression des flèches par défaut pour les menus déroulants */
 .navbar .dropdown-toggle::after {
-  display: none;
+   display:none ;
 }
-
 
 
