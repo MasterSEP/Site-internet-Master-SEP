@@ -3,25 +3,87 @@ title: "Organisation"
 editor: visual
 ---
 
+### Structure du Master
+
+Le master SEP (Statistique et évaluation de la prévision) se déroule sur deux ans (M1 et M2) avec une progression continue des compétences.
+
 ![](Images/batiment2.jpg){fig-align="center" width="800"}
 
-La formation est pluridisciplinaire. Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
+Les enseignements sont dispensés à parts égales par des mathématiciens, des économistes et des professionnels du secteur.
 
-La spécialité de Master SEP se compose de deux pèriodes.
+### Méthodes d'enseignement
 
-**Première Période (De début septembre à mars) :**
+L’équipe enseignante adopte une approche pédagogique variée et dynamique, on y trouve :
+
+-   **Cours magistraux (CM)** : Fondamentaux théoriques pour acquérir une base solide de connaissances.
+
+-   **Travaux dirigés (TD)** : Séances interactives pour approfondir les concepts et appliquer les connaissances.
+
+-   **Études de cas** : Analyse de situations réelles pour développer des compétences de réflexion stratégique.
+
+-   **Projets en groupe** : Collaborations autour de problématiques professionnelles concrètes.
+
+-   **Mémoire** : Recherche approfondie sur un sujet d’intérêt dans le domaine d’études.
+
+-   **Présentations orales** : Exercice de communication pour renforcer les compétences de prise de parole.
+
+
+-   **Préparation aux entretiens** : Simulations et conseils pour réussir les entretiens professionnels.
+
+### Première année du Master (M1)
+
+
+**1er semestre**
+
+Durant ce 1er semestre de M1, pour les étudiants en master SEP maths, certains cours se déroulent au Campus croix Rouge tandis que d'autres sont, comme pour les cours de License Mathématiques, au campus Moulin de la Housse.
+
+Les cours étudiés au campus Moulin de la Housse représentent plus un aspect mathématiques tandis que les cours au Campus Croix Rouge sont plus pratiques.
+
+Certains des cours sont en communs avec ceux des étudiants inscrit en Master CS (Calcul Scientifique) Pour les étudiants en Master SEP Eco tous les cours se dérouleront au campus Croix Rouge. 
+
+On retrouve comme matières principales : 
+
+-   **Probabilités** : Étude des phénomènes aléatoires et des lois qui régissent les événements incertains.
+
+-   **Réseaux de neurones** : Modèles informatiques inspirés du cerveau humain, utilisés pour l'apprentissage automatique et la reconnaissance de motifs.
+
+-   **Data mining** : Processus d'extraction de connaissances et de modèles à partir de grandes quantités de données.
+
+-   **Macro Excel** : Automatisation de tâches dans Excel à l'aide de scripts VBA pour améliorer l'efficacité des analyses de données.
+
+-   **Apprentissage de Git** : Acquisition de compétences pour utiliser Git, un système de contrôle de version, pour gérer et collaborer sur des projets de code.
+
+**Second Semestre de M1**
+
+Il se déroule de la même manière que le premier 
+
+
+-   **Inférence statistique** : Méthodes permettant de tirer des conclusions sur une population à partir d'échantillons de données.
+
+-   **SQL** : Langage de requête structuré utilisé pour interagir avec des bases de données et gérer les données.
+
+-   **RGPD** : Règlement général sur la protection des données, établissant des règles sur la collecte et le traitement des données personnelles en Europe.
+
+-   **Statistical Analysis System (SAS)** : Logiciel puissant utilisé pour l'analyse statistique, la gestion des données et la visualisation.
+
+-   **Processus stochastiques** : Modèles mathématiques décrivant des systèmes qui évoluent dans le temps avec une certaine forme d'incertitude.
+
+
+### Deuxième année du Master (M2) :
+
+**Première Période**
 
 Au cours de cette phase initiale, les étudiants suivent un ensemble de cours obligatoires, couvrant divers domaines :
 
 -   **Statistique/Probabilités :** Exploration des séries temporelles, économétrie, analyse des données, Data-Mining, géomarketing, scoring et business intelligence, statistique exploratoire et big data.
 
--   **Informatique :** Maîtrise des outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.
+-   **Informatique :** Maîtrise dses outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.
 
 -   **Transversal :** Développement des compétences en anglais, participation à des séminaires de recherche, implication dans la vie associative.
 
 -   **Finance et Gestion des Risques :** Apprentissage de la modélisation, des mathématiques financières, de la mesure et de la gestion des risques, de la modélisation stochastique en temps continu, des techniques statistiques pour l'analyse des risques difficiles à modéliser, et introduction au traitement de l'image.
 
--   **Économie :** Exploration de l'analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable.
+-   **Économie :** Exploration de l'analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable. oui bah oy
 
 Tous les cours sont évalués au moyen de tests et de projets, assurant ainsi une compréhension approfondie des concepts enseignés.
 
