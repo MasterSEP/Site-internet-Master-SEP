@@ -40,7 +40,7 @@ website:
             file: Stage.qmd
       - text: "Vie étudiante"
         menu:
-          - text: "Témoignages d'Alumni"
+          - text: "Témoignages d'anciens"
             file: Témoignage.qmd
           - text: "Actualités"
             file: Actualites.qmd
