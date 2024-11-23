@@ -1,10 +1,6 @@
 ---
 title: "Organisation"
 editor: visual
-format:
-  html:
-    toc: true
-    css: styles.css
 ---
 
 ### Structure du Master
