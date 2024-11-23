@@ -40,8 +40,6 @@ website:
             file: Stage.qmd
       - text: "Vie étudiante"
         menu:
-          - text: "Témoignages d'anciens"
-            file: Témoignage.qmd
           - text: "Actualités"
             file: Actualites.qmd
           - text: "Outils et ressources"
