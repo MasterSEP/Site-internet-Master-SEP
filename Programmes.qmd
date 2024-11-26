@@ -6,12 +6,24 @@ editor: visual
 
 #### MODALITÉS PÉDAGOGIQUES
 
-L'équipe enseignante utilise diverses méthodes et pratiques d'enseignement : le cours, les travaux dirigés, l'étude de cas, le projet, le mémoire, la présentation orale, la préparation aux entretiens...
+Sur cette page, vous découvrirez en détail le programme académique des deux Masters faisant partis du master **Statistique pour l'évalutation de la prévision**. On y retrouve le Master **Mathématique et Applications (MA)** et le master **Analyse et Politique Economique (APE)** . Chaque lien renseigné vous présente le volume horaire dédié à chaque matière, ainsi que leur coefficient respectif. Ces informations permettront aux étudiants d’avoir une vision claire des priorités et des exigences de leur formation.
 
 ![](Images/24.jpg){fig-align="center" width="800"}
 
-Le master est constitué de 3 semestres de cours, et un semestre de stage en fin de M2 avec rendu de rapport de stage.
+#### MASTER MA SEP
 
-#### ENSEIGNEMENTS
 
-Un programme détaillé des enseignements et des intervenants est disponible en cliquant i[ci](Maquette_Master.pdf)
+Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master MA SEP en cliquant [ici](https://www.univ-reims.fr/formation/catalogue-de-formation/master-mathematiques-et-applications,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=599#educationalOrganizations)
+
+#### MASTER MA APE
+
+Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master APE SEP en cliquant [ici](https://www.univ-reims.fr/formation/catalogue-de-formation/master-analyse-et-politique-economique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp*XGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=684#educationalOrganizations)
+
+
+
+
+
+
+
+
+

@@ -73,13 +73,13 @@ Au cours de cette phase initiale, les étudiants suivent un ensemble de cours ob
 
 -   **Statistique/Probabilités :** Exploration des séries temporelles, économétrie, analyse des données, Data-Mining, géomarketing, scoring et business intelligence, statistique exploratoire et big data.
 
--   **Informatique :** Maîtrise dses outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.
+-   **Informatique :** Maîtrise des outils tels que SAS, SPSS, SPLUS®, R, VB-VBA, ACCESS-SQL Server, Git, hadoop.
 
 -   **Transversal :** Développement des compétences en anglais, participation à des séminaires de recherche, implication dans la vie associative.
 
 -   **Finance et Gestion des Risques :** Apprentissage de la modélisation, des mathématiques financières, de la mesure et de la gestion des risques, de la modélisation stochastique en temps continu, des techniques statistiques pour l'analyse des risques difficiles à modéliser, et introduction au traitement de l'image.
 
--   **Économie :** Exploration de l'analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable. oui bah oy
+-   **Économie :** Exploration de l'analyse multi-critères, des acteurs et politiques publiques, et de la gestion du développement durable.
 
 Tous les cours sont évalués au moyen de tests et de projets, assurant ainsi une compréhension approfondie des concepts enseignés.
 
