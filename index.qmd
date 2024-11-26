@@ -8,7 +8,7 @@ output:
 
 **Bienvenue sur le site du Master Statistique pour l’Évaluation et la Prévision (SEP).**
 
-Le Master SEP offre une formation complète sur deux ans dans les domaines de l’analyse économique quantitative et de l’aide à la décision. Cette formation duale, combinant théorie et pratique, permet aux étudiants de développer des compétences recherchées dans les secteurs professionnels et académiques, y compris pour ceux souhaitant poursuivre un doctorat.
+Le Master SEP offre une formation complète et de haut niveau sur deux ans dans les domaines de l’analyse économique quantitative et de l’aide à la décision. Cette formation duale, combinant théorie et pratique, permet aux étudiants de développer des compétences recherchées dans les secteurs professionnels et académiques, y compris pour ceux souhaitant poursuivre un doctorat.
 
 ::: {style="text-align: center;"}
 <img src="Images/indexgraph.png" width="70%"/>
