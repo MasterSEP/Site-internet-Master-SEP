@@ -3,83 +3,64 @@ title: "Stages"
 editor: visual
 ---
 
-![Étudiants en stage](Images/stage2.jpg)
+![](Images/stage2.jpg)
 
-Notre programme de stages est bien plus qu'une simple formation technique. C'est une opportunité d'explorer vos passions, de développer un réseau professionnel solide et de vous préparer à relever les défis du marché du travail. Chaque stage est une occasion de grandir, d'acquérir une expérience concrète et de faire le lien entre théorie et pratique. Les stages constituent une étape cruciale dans votre parcours académique, en renforçant vos compétences et en ouvrant la voie à des carrières prometteuses.
+Notre programme de stages va au-delà de l'acquisition de compétences techniques. Il offre une occasion unique d'explorer vos passions, de développer un réseau professionnel, et de vous préparer à affronter les défis du monde réel. Chez nous, chaque stage est une chance de grandir, d'apprendre, et de transformer vos ambitions en réussites concrètes.
 
+Le master SEP propose un stage long de 4 à 6 mois pour la majeure professionnelle et de 1 à 6 mois pour la majeure recherche.
 
 ### **Enquêtes sur les stages effectués**
 
-Dans le cadre d'une enquête menée par des anciens étudiants de la promotion 2023, des données ont été recueillies sur les stages réalisés par les promotions précédentes. Cette étude vous donne un aperçu clair des types de stages effectués, des entreprises partenaires, et des compétences techniques développées.
+Un groupe d'anciens étudiants de la promotion 2023 du master a réalisé une enquête statistique sur les stages effectués par les promotions précédentes. Ces résultats te permettront de mieux appréhender les opportunités et les possibilités qui t'attendent si tu décides de t'embarquer dans ce domaine riche et passionnant !
 
----
+#### **Où se situent les organismes d'accueil ?**
 
-#### **Répartition géographique des stages**
+![](Images/Stage_1.JPG)
 
-![Localisation des stages](Images/Stage_1.JPG)
+*Les stages de fin d'études peuvent avoir lieu en France comme à l'étranger. En France, 66% des stages effectués depuis 2017 se sont déroulés dans la région parisienne ce qui peut être expliqué par le fais que « Ile de France » est la capitale des grandes entreprises qui offrent une multitude de postes d'emploi. De plus, Ile de France est facilement accessible depuis Reims.*
 
-*Les stages peuvent se dérouler en France ou à l’étranger. Depuis 2017, environ 66 % des stages ont été effectués en région parisienne. Cette tendance est largement influencée par le dynamisme de l’Île-de-France, un pôle économique regroupant de nombreuses grandes entreprises, en particulier dans les secteurs des services et de la finance. Cette région offre des opportunités uniques aux étudiants pour accéder à un large éventail de postes qualifiés.*
+#### **Les entreprises dans lesquelles les stages ont été effectués sont-elles plutôt privées ou publiques ?**
 
----
+![](Images/Stage_2.JPG)
 
-#### **Secteur d’activité : Privé ou public ?**
+*Depuis 2017, la majorité des stages, soit plus de 85%, ont été effectués dans des entreprises du secteur privé, ce qui peut s'expliquer par le fait que les entreprises privées offrent un plus grand nombre d'opportunités d'emploi et des salaires plus attractifs que le secteur public.*
 
-![Secteurs privé et public](Images/Stage_2.JPG)
+#### **Quels sont les secteurs d'activité des organismes d'accueil ?**
 
-*Entre 2017 et 2022, plus de 85 % des stages ont été effectués dans le secteur privé. Cette prédominance s’explique par la capacité des entreprises privées à offrir une plus grande diversité de postes, des opportunités de carrière attractives, ainsi que des rémunérations compétitives. Toutefois, le secteur public attire encore des étudiants, notamment dans les domaines de la recherche ou des missions de service public.*
+![](Images/stage_3.JPG)
 
----
+*Depuis 2017, les stages ont été majoritairement effectués dans le secteur du conseil dans différents domaines (Data, Marketing, Transformation digitale des entreprises...) et le secteur des banques et assurances. Ceci peut s'expliquer par la multitude d'entreprises existantes dans ces deux secteurs, entraînant une offre d'emploi élevée, des salaires attractifs et divers avantages.*
 
-#### **Secteurs d’activité des entreprises accueillant les stagiaires**
+*Ces deux secteurs peuvent alterner de position d'une année à l'autre. En 2022, par exemple, 71% des stages ont été effectués dans ces deux domaines, dont 52% dans des cabinets de conseil et 19% dans des banques et des assurances. Cependant, en 2021, 24% des stages ont eu lieu dans des banques et assurances, suivis de 12% dans des cabinets de conseil.*
 
-![Secteurs d'activité](Images/stage_3.JPG)
+*Mis à part ces deux secteurs, plusieurs étudiants s'intéressent à d'autres domaines, notamment la Recherche, l'Énergie, l'Informatique et les Télécommunications, ainsi que le secteur de l'Édition de logiciels (principalement SAS Institute).*
 
-*Les entreprises d'accueil des stagiaires se concentrent principalement dans deux secteurs principaux : le conseil et la banque/assurance.*
+#### **Quelles sont les différentes techniques statistiques utilisés dans les stages ?**
 
-- **Le conseil** : Les missions sont variées, allant de la transformation digitale à l'analyse de données, en passant par le marketing. Ce secteur a représenté 52 % des stages en 2022, ce qui témoigne de la demande croissante pour des profils capables de conduire des analyses statistiques complexes et de fournir des recommandations stratégiques.
+![](Images/stage_4.JPG)
 
-- **Banques et assurances** : Ce secteur représente une part significative des stages (19 % en 2022). La digitalisation des services bancaires et assurantiels a accru la demande pour des compétences en data science, en modélisation prédictive et en gestion des risques.
+*Les étudiants du master SEP travaillent sur une variété de missions durant leurs stages. Ils utilisent des techniques de modélisation et de prédiction, ainsi que l'analyse et la visualisation des données, pour accomplir les tâches qui leur sont confiées.*
 
-*En 2021, la tendance a été différente, avec 24 % des stages réalisés dans des banques et assurances, contre 12 % dans des cabinets de conseil. Cela montre que les secteurs peuvent alterner en fonction des besoins du marché.*
+*Les méthodes les plus appliquées au cours des six dernières années sont celles du Machine Learning et de l'analyse des données. L'utilisation des techniques du Big Data et de la data visualisation a considérablement augmenté en 2022. Cette année-là, des techniques de Big Data ont été utilisées dans 33% des stages, comparé à 3% des stages en 2021.*
 
-D'autres secteurs comme la recherche, l'énergie, et les télécommunications attirent également des stagiaires du Master SEP. En particulier, des entreprises spécialisées dans l’édition de logiciels, telles que SAS Institute, offrent des opportunités enrichissantes dans le domaine de la data science.
+*L'année 2022 a également vu l'introduction d'une nouvelle méthode appelée MLOPS dans deux stages différents. Il s'agit d'un processus qui permet d'intégrer les modèles d'apprentissage automatique dans le cycle de développement de logiciels et de les déployer dans un environnement de production.*
 
----
+#### **Quelles sont les principaux outils statistiques utilisés par les stagiaires ?**
 
-#### **Compétences techniques et méthodes statistiques utilisées**
+![](Images/stage_5.JPG)
 
-![Techniques statistiques](Images/stage_4.JPG)
+*En 2017, seulement 20% des stages utilisaient le langage de programmation Python, aujourd'hui considéré comme l'outil le plus couramment utilisé. Cependant, en 2022, ce pourcentage a augmenté à 67%. Le langage R, largement utilisé pour les statistiques et la visualisation de données en 2017, n'a été utilisé que dans 19% des stages en 2022. L'utilisation de SAS, fréquemment utilisé pour les analyses statistiques en entreprise, et de SQL, utilisé pour gérer et manipuler les bases de données, n'ont connu que peu de variations entre 2017 et 2022.*
 
-*Les stages réalisés par les étudiants du Master SEP impliquent l'utilisation d'une grande variété de techniques statistiques et de méthodes d’analyse de données. Les plus courantes depuis 2017 sont :*
+### **Sas Spring Campus**
 
-- **Machine Learning** : Pour la modélisation prédictive, l'optimisation et la détection de patterns.
-- **Analyse de données** : Pour interpréter des ensembles de données complexes et fournir des informations exploitables.
-- **Big Data** : Cette technique est devenue incontournable, utilisée dans 33 % des stages en 2022, contre seulement 3 % en 2021.
+Le SAS Spring Campus est bien plus qu'un événement, c'est une opportunité unique pour les étudiants passionnés par la data science et la technologie. En participant, non seulement vous aurez accès à des ateliers captivants et à des discussions animées avec des experts de l'industrie, mais vous ouvrirez également la porte **à des opportunités de stage exceptionnelles.**
 
-*En 2022, une nouvelle approche, appelée MLOPS, a été utilisée pour la première fois dans deux stages différents. MLOPS combine machine learning et développement de logiciels pour faciliter le déploiement de modèles en environnement de production.*
+Le campus offre la possibilité de décrocher un stage auprès des partenaires de SAS, des entreprises leaders dans le domaine, ou même au sein même de SAS. Chaque année, des étudiants de notre master sont sélectionnés pour y participer. Les cours débutent généralement au mois de mars, suivis de la période de stage.
 
----
+Découvrez comment le SAS Spring Campus peut façonner votre avenir professionnel : <https://www.sas.com/fr_fr/academic/sas-spring-campus.html>
 
-#### **Outils statistiques utilisés par les stagiaires**
+### **Livret des Stages**
 
-![Outils statistiques](Images/stage_5.JPG)
+Le livret des stages est une ressource précieuse qui met en lumière la diversité des expériences professionnelles réalisées par les étudiants au cours de leur formation en master. Ce document regroupe une grande variété de stages effectués, en précisant pour chaque expérience **l’entreprise ou l’organisation d’accueil**, **l’année de promotion de l’étudiant**, **une brève description des missions et tâches réalisées** . Il s’agit d’un outil inspirant pour les futurs étudiants et partenaires, illustrant concrètement les compétences acquises et mises en pratique par nos diplômés. Ce livret reflète également la qualité de notre réseau et l’ouverture de nos formations sur le monde professionnel.
 
-*Les outils et langages utilisés varient au fil des années. Python est devenu l'outil dominant, utilisé dans 67 % des stages en 2022, contre seulement 20 % en 2017. Ce langage est apprécié pour sa flexibilité et son efficacité dans la manipulation des données.*
-
-*Le langage R, bien qu'encore très utilisé pour la visualisation des données et les statistiques avancées, a vu son usage diminuer, passant de 33 % en 2017 à 19 % en 2022. SAS et SQL, largement utilisés pour la gestion et l'analyse des bases de données en entreprise, sont restés constants dans leur popularité au fil des ans.*
-
----
-
-### **SAS Spring Campus : Un tremplin vers l’avenir**
-
-Le **SAS Spring Campus** est un événement phare pour les étudiants intéressés par la data science. En participant à cet événement, vous bénéficierez d'ateliers pratiques, de conférences animées par des experts de l'industrie, et d'une opportunité unique de décrocher des stages dans des entreprises partenaires de SAS.
-
-Chaque année, plusieurs étudiants du Master SEP participent à cet événement et obtiennent des stages prestigieux auprès de leaders du secteur de la technologie. Le **SAS Spring Campus** se déroule généralement en mars, suivi de la période de stage qui offre une réelle ouverture vers le monde professionnel.
-
-En savoir plus sur le SAS Spring Campus et comment y participer : [SAS Spring Campus](https://www.sas.com/fr_fr/academic/sas-spring-campus.html).
-
----
-
-Cette présentation des stages dans le Master SEP montre à quel point cette expérience est essentielle pour le développement des compétences professionnelles et l’insertion dans le marché du travail. Que ce soit à travers l'utilisation de techniques statistiques avancées ou l’immersion dans des environnements professionnels dynamiques, chaque stage est une opportunité de concrétiser vos ambitions.
-
-
+Voici le lien : <https://livret-des-stages-2024.quarto.pub/livret-stages/>
