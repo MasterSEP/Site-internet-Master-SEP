@@ -34,6 +34,12 @@ Le Master SEP offre une formation complète et de haut niveau sur deux ans dans 
 6.  **Reconnaissance académique :**\
     Le Master SEP a été classé parmi les meilleurs au classement 2023 *"Master Big Data & Data Sciences"* ([voir le classement](#)) de Eduniversal.
 
+7.  <p style="text-align: center;">
+
+    <a href="flyer_APE_SEP.pdf" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold; margin-right: 20px;"> Télécharger le flyer du Master APE SEP </a> <a href="flyer_MA_SEP.pdf" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;"> Télécharger le flyer du Master MA SEP </a>
+
+    </p>
+
 ## Notre Vision Actuelle : Les Enjeux de la Data dans un Monde en Constante Évolution
 
 Dans un contexte mondial où la data s’impose comme l’épicentre de transformations majeures, le Master SEP s’affirme comme un catalyseur face aux défis inédits de notre époque. En réponse à l’avènement des nouvelles technologies et de l’intelligence artificielle, notre formation aspire à façonner des experts capables de naviguer avec brio dans l’univers dynamique de la Data Science, du Big Data et des technologies de machine learning.
