@@ -1,150 +1,31 @@
 ---
-title: "Interview"
+title: "Témoignages d'anciens"
 editor: visual
 ---
 
-# Axelle Torelli - Data Scientist chez Optacare
+
+---
+
+### **Axelle Torelli**
+[Data Scientist chez Optacare]{.poste}
 
 > **“Votre côté humain compte autant que votre côté professionnel.”**
 
-![](Images/ance1.png){.interview-photo}
+<video id="video-axelle" controls poster="Images/ance1.png">
+  <source src="Images/interview1.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture des vidéos.
+</video>
 
-------------------------------------------------------------------------
+---
 
-## Racontez-nous votre parcours scolaire
+### **Amaury MICHAUT**
+[Chef de projet]{.poste}
 
-Bonjour, je m'appelle **Axelle Torelli**, j’étais de la promo **2019-2021**. Et comment j'ai commencé mes études ?
+> **“Chacun arrive avec son bagage dans le master, ça te fait grandir et ça te permet d’apprendre un peu de partout.”**
 
-Déjà, *j’étais perdue*. **Il faut savoir qu’on n’est jamais sûr de ce qu'on veut.** C’est très rare de savoir très exactement ce qu’on a envie de faire plus tard. On le découvre au fur et à mesure des études. Il y a quelques rares cas qui le savent dès le début. Mais pour le coup, **j’ai été prof**, et j’ai vu beaucoup d’élèves qui ne savaient pas dans quoi ils se lançaient. **Pas de panique, c’est normal**, je suis aussi passée par là.
+<video id="video-amaury" controls poster="Images/ance2.png" onerror="this.poster='Images/ance1.png'" allowfullscreen>
+  <source src="Images/interview2.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture des vidéos.
+</video>
 
-J’ai commencé par une **prépa en maths**, c’était pas mon style d’étude, *trop scolaire*. Ensuite, j’ai hésité à partir sur de la bio, et **c’était catastrophique**. Enfin, j’ai repris une **licence de maths-info**, et c’est là que je me suis rendue compte que c’était vraiment **les maths que je voulais faire dans ma vie**.
-
-À la base, je voulais être prof, mais au vu de l’actualité, finalement, j’ai modifié mon parcours pour partir en **maths appliquées**. Je me disais que je ne voulais jamais faire de statistiques de ma vie, donc je voulais partir en **master CS**. Mais en fait, j’ai découvert ce prof, **M. Regnault**, qui est *incroyable comme prof* et qui m’a fait découvrir le monde de la **data science**, et **M. Maes** aussi, qui a été génial en stats inférentielles.
-
-Ils m’ont refait découvrir tout ça d’un nouvel œil parce que ce n’est pas du tout la même chose qu’au lycée, *mine de rien*, et ils ont été juste incroyables. Et c’est comme ça que j’ai su que je voulais faire ça, que je voulais partir dans la **data science**, même si j’étais toujours pas sûre du domaine. C’est pareil, **on découvre au fur et à mesure, on découvre ce qui est possible ou ce qui ne l’est pas**, et c’est là que je me suis orientée en **data science** sur leurs conseils.
-
-------------------------------------------------------------------------
-
-## Les côtés cool du master ? Les phases difficiles ?
-
-### Ce que j’ai aimé :
-
--   **On n’avait pas que de la théorie.**\
-    La théorie, c’est sympa pour apprendre les bases, mais quand on passe à la pratique, **on voit bien que ça ne s’adapte pas toujours comme on veut.**\
--   J’aimais bien voir les **cas pratiques**, *me creuser la tête* pour savoir comment je vais faire et comment je vais y arriver.
-
-C’est un peu notre équivalent à **s’exercer au monde du travail**, un monde qui va avoir des difficultés bien au-dessus.
-
-### Ce que j’ai trouvé difficile :
-
--   **La collaboration forcée :** être obligé de faire équipe avec des gens qui n’ont pas la même vision du travail.\
-    Cela forge une compétence essentielle : **collaborer avec des personnes différentes.**
-
-### La période Covid :
-
--   **Une difficulté supplémentaire :** la recherche de stage. En période Covid, il y avait encore moins de stages, mais **il ne faut pas lâcher**.\
--   Postulez même si vous pensez ne pas avoir toutes les compétences. **Vous pouvez apprendre en cours de route.**
-
-------------------------------------------------------------------------
-
-## Est-ce que l’insertion professionnelle était compliquée ?
-
-Non, pas du tout. Mon premier travail, c'était **data manager**. C’était un nouvel emploi qui a été créé dans la boîte, qui ne tombait pas totalement dans ce que le master faisait.
-
-::: highlight
-**Astuce : Faites-vous un réseau.** Créez un compte LinkedIn, utilisez vos contacts, c’est très important.
-:::
-
-Par exemple, j’ai un étudiant qui m’a demandé de l’aide pour un stage, et j’ai partagé son CV et sa demande.
-
-Un an plus tard, j’ai décidé de changer. J’ai envoyé des CV partout. Le boulot que je voulais vraiment, ils ont ouvert une offre pile au moment où j’ai décidé de changer de voie, et là, j’étais trop bien.
-
-N’hésitez pas à postuler même si vous ne correspondez pas à 100 % à l’offre. Faut montrer qui vous êtes lors de l’entretien, parce que **votre côté humain compte autant que votre côté professionnel.**
-
-------------------------------------------------------------------------
-
-## Est-ce que, selon vous, il y aurait des personnes qui ne devraient pas faire ce master ?
-
-Je pense qu’il faut une certaine **logique**, mine de rien, que tout le monde n’a pas. Par exemple, je ne pourrais pas faire de plomberie, même si je m’y intéresse. **C’est une autre logique.** Donc les personnes qui n’ont pas une bonne logique économique ou mathématique vont galérer.
-
-Si on n’aime pas s’ouvrir au monde, rester ouvert d’esprit pour visualiser ou être créatif, et qu’on n’a pas un minimum de logique niveau mathématique ou analyse (*esprit carré*), on peut ne pas forcément se sentir à l’aise dans le master.
-
-J’ai un ami, par exemple, avec une licence d’histoire, qui a décidé de se lancer dans une formation de data analyst, et il n’a eu aucun problème, parce qu’il avait la volonté et cette petite logique mathématique, même sans les études. Il avait cette ouverture d’esprit, voyait les choses en grand et était imaginatif.
-
-------------------------------------------------------------------------
-
-## Conseils pour ceux qui envisagent le master ?
-
-Si vous avez des difficultés, **n’hésitez pas à demander autour de vous**. Vous allez passer deux ans avec vos futurs collègues, vos contacts, vos amis, qui viennent de différentes parties du monde. **Il ne faut pas se sentir seul, il faut s’entraider.**
-
-Il ne faut pas rejeter certaines matières. Par exemple, **Monsieur Maes** nous a fait un cours sur les présentations à l’oral. Moi, je n'étais pas à l’aise, j’étais très timide. Faire une présentation, pour moi, c'était impossible (*rire*). **Il m’a beaucoup aidée là-dessus**, donc oui, **il ne faut surtout pas négliger ces "petites" matières** qui sont très importantes.
-
-Pareil pour l’**IVU**, on peut croire que ce n’est pas très utile, mais ça sert. Ça aide à forger ses compétences parce que vous devez contacter des gens, apprendre à rédiger des mails professionnels, etc. Par exemple, certains ont rédigé un **passeport d’accueil pour des personnes venant de l’étranger**. Ça leur a permis d’apprendre à rédiger de manière claire, bien résumée, avec des démarches administratives bien expliquées.
-
-Quand je parle d’entraide, je pense notamment au **mélange entre les matheux et les économistes**. Je l’ai vu à travers les travaux de groupe : **on n’a clairement pas la même vision des choses**.
-
-Là où, en tant que **matheux**, on est très scientifiques — attention, je ne dis pas que les écos ne le sont pas (*rire*) —, on est souvent très rigoureux, avec des réflexions très carrées, alors que les économistes sont beaucoup dans **l’analyse et la rédaction**, où ils sont super forts (*rire*).
-
-Franchement, j’ai vu mes collègues économistes, et c’est vrai qu’on doit faire des efforts, **nous les matheux**, là-dessus (*rire*). **On aime trop aller droit au but.**
-
-------------------------------------------------------------------------
-
-## Des choses qui vous ont surprises dans le master ?
-
-J’avoue que là, vous me laissez une colle (*rire*). Je ne saurais pas dire, ce n’est plus très frais non plus. Mais je crois que ce qui m’a vraiment marquée, c’est que **j’ai vraiment apprécié mon master**.
-
-Je me souviens avoir toujours eu du mal à être très scolaire : **les devoirs, ce n’était pas mon truc.** Travailler chez moi, ce n’était pas mon truc non plus. Je travaillais en cours, mais une fois chez moi, j’étais chez moi.
-
-Donc ce qui m’a surprise dans le master, c’est que **je voulais vraiment travailler, même chez moi**, parce que je voulais ce master énormément.
-
-J’ai aussi été surprise par les profs, qui sont plutôt des professionnels. Ils n’ont pas du tout la même façon d’enseigner. Par exemple, **Mme Gautherat** ou **M. Maes** avaient une méthode assez théorique, là où des professionnels vont être très exigeants sur le côté pratique, à cause de leur point de vue professionnel. Mais ça nous aide vraiment à **nous préparer au monde professionnel**.
-
-------------------------------------------------------------------------
-
-## Vous avez dit être data manager avant ? Qu’est-ce que c’est ?
-
-Un **data manager** va faire en sorte d’avoir des données propres : bien entrées dans les logiciels, bien coordonnées, bien nettoyées, sans erreurs, etc.
-
-C’est complémentaire avec le rôle de **data scientist**, dans le sens où on prépare les données pour lui. Souvent, **on a une double casquette**, c’est d’ailleurs mon cas.
-
-En fait, **c’est très compliqué pour rien** (*rire*). Il y a trop de dénominations selon le découpage du travail, mais tout se complète au final. Ça dépend des limites qu’on se pose dans les tâches respectives.
-
-Techniquement, je suis un peu **data engineer** et beaucoup **data scientist**. Et là, **j’aimerais vraiment tout faire de A à Z.**
-
-------------------------------------------------------------------------
-
-## Comment se passe le travail en équipe ?
-
-Dans mon **pôle R&D**, on est 5, avec un chef de projet très technique. Il est doctorant, donc très théorique, et moi, je mets en pratique.
-
-On a un spécialiste en **IA**, qui connaît énormément de techniques plus poussées.
-
-On a un **lead data scientist**, qui fait la même chose que moi, mais qui a suivi un parcours plus orienté informatique.
-
-D’ailleurs, si vous partez en **data science/création de logiciels**, il ne faut pas avoir peur : **on en apprend tous les jours.** **Il faut rester ouvert.**
-
-Je travaille aussi avec des équipes extérieures, par exemple les **data scientists de l’hôpital de Nancy**. Ils veulent travailler sur mes recherches pour faire des publications, et du coup je vais collaborer avec eux sur la parité data/analyse, sur comment j’ai développé le projet, etc.
-
-Ils vont me citer, bien sûr : **ça reste mon travail.** Mais dans le domaine de la santé, il est normal de faire des publications pour être rémunéré.
-
-Je collabore aussi avec les équipes informatiques des hôpitaux pour organiser les échanges de données, créer des connecteurs, ou décider si le logiciel sera hébergé chez eux ou sur nos serveurs.
-
-Enfin, je travaille avec une autre entreprise où on est 19, répartis en **4 équipes principales de 3 à 5 personnes**. Ici, je dois échanger avec tout le monde, car le travail de chaque équipe impacte celui des autres.
-
-------------------------------------------------------------------------
-
-## Conseil sur le mémoire
-
-Le **mémoire** va être lent au début. Vous allez avoir trop de pistes et être perdu. **C’est important de communiquer avec votre directeur de mémoire**, il ne faut pas hésiter à lui parler.
-
-Mon sujet portait sur les **féminicides**, donc de la sociologie, mais avec des maths. J’ai eu du mal à trouver mon encadrante.
-
-Au départ, je voulais travailler sur les violences faites aux femmes, mais c’était trop vague. C’est elle qui m’a orientée vers les féminicides.
-
-J’ai fait mon mémoire, je suis passée à l’oral devant le jury, et **j’ai eu 16.** Ce qui est énorme pour moi (*rire*), sachant que je n’avais quasiment pas de maths dedans.
-
-Avec mon encadrante, on faisait des **rendez-vous informels dans des cafés à Reims.** On discutait comme si c’étaient des rendez-vous personnels. **On est devenues assez proches.**
-
-Le mémoire, comme je l’ai dit, va être lent au début. Sur la fin, quand il faudra rédiger, **faites bien un versioning** pour ne pas tout perdre en cas d’erreur ou de crash.
-
--   **Commencez à rédiger petit à petit.** Faites des phrases courtes pour poser vos idées, puis réécrivez-les ensuite en paragraphes.
+---

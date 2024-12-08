@@ -4,7 +4,7 @@ project:
 
 website:
   search : true
-  title: "URCA - Master SEP "
+  title: "   "
   reader-mode: true
 
   page-footer: 
@@ -20,7 +20,7 @@ website:
           href: https://www.instagram.com/
 
   navbar:
-    logo: "Images/URCAorbrun.png"
+    logo: "Images/logoMaster.png"
     background: secondary
     search: true
     left:
