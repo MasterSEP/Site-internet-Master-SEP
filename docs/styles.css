@@ -156,10 +156,6 @@ th, td {
    display:none ;
 }
 
-
-
-
-
 /* Titre principal (en marron) */
 h1 {
   font-size: 2.2rem;
@@ -198,45 +194,35 @@ h3 {
   letter-spacing: 0.5px;
 }
 
-/* Vidéo Axelle */
-#video-axelle {
+/* Images stylisées */
+.interview-image {
   display: block;
   margin: 1.5rem auto;
-  width: auto; /* Adapte la largeur à la dimension native de la vidéo */
-  max-width: 400px; /* Limite la largeur maximale */
-  height: auto; /* Maintient les proportions en fonction de la largeur */
-  max-height: 250px; /* Limite la hauteur maximale */
+  width: 45%; /* Réduction de la largeur */
+  max-width: 350px; /* Limite la largeur maximale */
   border: 2px solid #8b4513; /* Bordure marron */
-  border-radius: 10px; /* Coins arrondis */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
+  border-radius: 12px; /* Coins légèrement plus arrondis */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Ombre douce */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation */
+  cursor: pointer;
 }
 
-/* Vidéo Amaury */
-#video-amaury {
-  display: block;
-  margin: 1.5rem auto;
-  width: auto; /* Adapte la largeur à la dimension native de la vidéo */
-  max-width: 400px; /* Limite la largeur maximale */
-  height: auto; /* Maintient les proportions en fonction de la largeur */
-  max-height: 250px; /* Limite la hauteur maximale */
-  border: 2px solid #8b4513; /* Bordure marron */
-  border-radius: 10px; /* Coins arrondis */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
+.interview-image:hover {
+  transform: scale(1.1); /* Zoom léger au survol */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Ombre plus marquée */
 }
-
-
 
 /* Citation stylisée */
 blockquote {
   margin: 1rem auto;
   padding: 1.2rem;
-  font-size: 1.2rem;
+  font-size: 1.3rem; /* Légèrement plus grande */
   font-style: italic;
   text-align: center;
   color: #8b4513;
-  background-color: #f9f5f0;
+  background-color: #fdf5f0; /* Couleur légèrement plus claire */
   border-left: 6px solid #8b4513;
-  border-radius: 8px;
+  border-radius: 10px;
   max-width: 700px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -248,4 +234,10 @@ hr {
   background-color: #8b4513;
   margin: 2rem auto;
   width: 60%;
+}
+
+/* Animation sur les séparateurs */
+hr:hover {
+  background-color: #6b3410; /* Plus foncé au survol */
+  transition: background-color 0.3s ease;
 }
