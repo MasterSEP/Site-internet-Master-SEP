@@ -4,7 +4,7 @@ project:
 
 website:
   search : true
-  title: "   "
+ 
   reader-mode: true
 
   page-footer: 

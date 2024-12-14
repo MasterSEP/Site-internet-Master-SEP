@@ -11,19 +11,26 @@ editor: visual
 
 > **“Votre côté humain compte autant que votre côté professionnel.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090313629">
-  <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image">
-</a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090313629"> <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image"/> </a>
 
 ------------------------------------------------------------------------
 
 ### **Amaury MICHAUT**
 
-[Chef de projet]{.poste}
+[chef de projet chez helium]{.poste}
 
 > **“Chacun arrive avec son bagage dans le master, ça te fait grandir et ça te permet d’apprendre un peu de partout.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090110899">
-  <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image">
-</a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090110899"> <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image"/> </a>
 
+------------------------------------------------------------------------
+
+### **Conseils pour réussir le Master SEP**
+
+[Un guide collectif pour tirer le meilleur du programme]{.poste}
+
+> **“Chaque conseil partagé est une boussole qui guide vers le succès.”**
+
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241209100712913">
+  <img src="Images/conseil.png" alt="Perspectives et atouts du Master SEP" class="interview-image"/>
+</a>
