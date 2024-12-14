@@ -25,6 +25,19 @@ editor: visual
 
 ------------------------------------------------------------------------
 
+### **Martin PERNEL**
+
+[Doctorant en comptabilité écologique pour l’implantation des haies au sein de l’agriculture du Grand Est – Tetra'Haies]{.poste}
+
+> **“C’est un master où chacun peut tirer son épingle du jeu avec ses propres qualités.”**
+
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214221124935">
+  <img src="Images/martin.png" alt="Martin PERNEL" class="interview-image"/>
+</a>
+
+
+------------------------------------------------------------------------
+
 ### **Conseils pour réussir le Master SEP**
 
 [Un guide collectif pour tirer le meilleur du programme]{.poste}
