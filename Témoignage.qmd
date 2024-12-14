@@ -11,7 +11,7 @@ editor: visual
 
 > **“Votre côté humain compte autant que votre côté professionnel.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090313629"> <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image"/> </a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224141903"> <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image"/> </a>
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ editor: visual
 
 > **“Chacun arrive avec son bagage dans le master, ça te fait grandir et ça te permet d’apprendre un peu de partout.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241127090110899"> <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image"/> </a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224254155"> <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image"/> </a>
 
 ------------------------------------------------------------------------
 
