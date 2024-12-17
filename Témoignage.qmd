@@ -7,21 +7,31 @@ editor: visual
 
 ### **Axelle Torelli**
 
-[Data Scientist chez Optacare]{.poste}
+[DATA SCIENTIST CHEZ OPTACARE]{.poste}
 
 > **“Votre côté humain compte autant que votre côté professionnel.”**
 
 <a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224141903"> <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image"/> </a>
 
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la vidéo de l'interview.
+</p>
+
+
 ------------------------------------------------------------------------
 
 ### **Amaury MICHAUT**
 
-[chef de projet chez helium]{.poste}
+[CHEF DE PROJET CHEZ HELIUM]{.poste}
 
 > **“Chacun arrive avec son bagage dans le master, ça te fait grandir et ça te permet d’apprendre un peu de partout.”**
 
 <a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224254155"> <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image"/> </a>
+
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la vidéo de l'interview.
+</p>
+
 
 ------------------------------------------------------------------------
 
@@ -34,16 +44,72 @@ editor: visual
 <a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214221124935">
   <img src="Images/martin.png" alt="Martin PERNEL" class="interview-image"/>
 </a>
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la vidéo de l'interview.
+</p>
 
 
+
+-------------------------------------------------------------------------
+
+
+
+### **Arona DIENE**  
+[DATA SCIENTIST, CONSULTANT, EXPERT EXCEL/VBA]{.poste}
+
+> **“1500 € la journée avec du VBA.”**
+
+<a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20Arona%20%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%5FInterviews%5FMaster%5FSEP&ga=1" target="_blank">
+  <img src="Images/arona.png" alt="Arona DIENE" class="interview-image" />
+</a>
+
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la transcription de l'interview.
+</p>
 ------------------------------------------------------------------------
 
 ### **Conseils pour réussir le Master SEP**
 
-[Un guide collectif pour tirer le meilleur du programme]{.poste}
+[Vous allez passer deux ans avec vos futurs collègues, vos contacts, des amis même, qui viennent de différentes parties du monde.]{.poste}
 
 > **“Chaque conseil partagé est une boussole qui guide vers le succès.”**
 
 <a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241209100712913">
   <img src="Images/conseil.png" alt="Perspectives et atouts du Master SEP" class="interview-image"/>
 </a>
+
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la vidéo de l'interview.
+</p>
+
+----------------------------------------------------------------------------
+
+### **Morgan COUSIN**  
+[DATA ENGINEER CHEZ JELLYSMACK]{.poste}
+
+> **“Il ne faut pas avoir peur d’être face à une page blanche et d’apprendre seul.”**
+
+<a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20Morgan%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%5FInterviews%5FMaster%5FSEP&ga=1" target="_blank">
+  <img src="Images/morgan.png" alt="Morgan COUSIN" class="interview-image" />
+</a>
+
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la transcription de l'interview.
+</p>
+
+----------------------------------------------------------------------------
+
+### **Séverine NOR**  
+[ÉTUDIANT EN MASTER 2 SEP(2023-2025)]{.poste}
+
+> **“Se mélanger c’est important, j’ai beaucoup mieux appris et plus rapidement en échangeant que toute seule dans mon coin.”**
+
+<a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20S%C3%A9verine%20%20%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%5FInterviews%5FMaster%5FSEP&ga=1" target="_blank">
+  <img src="Images/M2.png" alt="Séverine NOR" class="interview-image" />
+</a>
+
+<p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
+Cliquez sur l'image pour accéder à la transcription de l'interview.
+</p>
+
+
