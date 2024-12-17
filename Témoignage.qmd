@@ -7,30 +7,46 @@ editor: visual
 
 ### **Axelle Torelli**
 
-[Data Scientist Chez Optacare]{.poste}
+[Data Scientist chez Optacare]{.poste}
 
 > **“Votre côté humain compte autant que votre côté professionnel.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224141903"> <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image"/> </a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224141903">
+  <img src="Images/ance1.png" alt="Axelle Torelli" class="interview-image" />
+</a>
 
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
 Cliquez sur l'image pour accéder à la vidéo de l'interview.
 </p>
 
-
+<div style="text-align: center; margin-top: 1rem;">
+  <a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetransctipion%20Axelle%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP&ga=1" 
+     style="font-size: 1rem; color: #8b4513; text-decoration: none; font-weight: bold;">
+    📄 Accéder à la retranscription de l'interview
+  </a>
+</div>
 ------------------------------------------------------------------------
 
 ### **Amaury MICHAUT**
 
-[Chef de Projet Chez Helium]{.poste}
+[Chef de Projet chez Helium]{.poste}
 
 > **“Chacun arrive avec son bagage dans le master, ça te fait grandir et ça te permet d’apprendre un peu de partout.”**
 
-<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224254155"> <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image"/> </a>
+<a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214224254155">
+  <img src="Images/ance2.png" alt="Amaury MICHAUT" class="interview-image" />
+</a>
 
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
 Cliquez sur l'image pour accéder à la vidéo de l'interview.
 </p>
+
+<div style="text-align: center; margin-top: 1rem;">
+  <a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20Amaury%20%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP&ga=1" 
+     style="font-size: 1rem; color: #8b4513; text-decoration: none; font-weight: bold;">
+    📄 Accéder à la retranscription de l'interview
+  </a>
+</div>
 
 
 ------------------------------------------------------------------------
@@ -42,12 +58,19 @@ Cliquez sur l'image pour accéder à la vidéo de l'interview.
 > **“C’est un master où chacun peut tirer son épingle du jeu avec ses propres qualités.”**
 
 <a href="https://mediacenter.univ-reims.fr/videos/?video=MEDIA241214221124935">
-  <img src="Images/martin.png" alt="Martin PERNEL" class="interview-image"/>
+  <img src="Images/martin.png" alt="Martin PERNEL" class="interview-image" />
 </a>
+
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
 Cliquez sur l'image pour accéder à la vidéo de l'interview.
 </p>
 
+<div style="text-align: center; margin-top: 1rem;">
+  <a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20Martin%20%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP&ga=1" 
+     style="font-size: 1rem; color: #8b4513; text-decoration: none; font-weight: bold;">
+    📄 Accéder à la retranscription de l'interview
+  </a>
+</div>
 
 
 -------------------------------------------------------------------------
