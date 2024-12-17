@@ -96,8 +96,8 @@ Cliquez sur l'image pour accéder à la retranscription de l'interview.
 ----------------------------------------------------------------------------
 
 ### **Morgan COUSIN**  
-[DATA ENGINEER CHEZ JELLYSMACK]{.poste}
-
+[Data Engineer Chez Jellysmack]{.poste}
+Jellysmack
 > **“Il ne faut pas avoir peur d’être face à une page blanche et d’apprendre seul.”**
 
 <a href="https://univreimsfr-my.sharepoint.com/personal/severine_nor1_etudiant_univ-reims_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%2FInterviews%5FMaster%5FSEP%2FRetranscription%20Morgan%2Epdf&parent=%2Fpersonal%2Fseverine%5Fnor1%5Fetudiant%5Funiv%2Dreims%5Ffr%2FDocuments%5FInterviews%5FMaster%5FSEP&ga=1" target="_blank">
@@ -127,7 +127,7 @@ Cliquez sur l'image pour accéder à la retranscription de l'interview.
 
 ### **Conseils pour réussir le Master SEP**
 
-[Vous allez passer deux ans avec vos futurs collègues, vos contacts, des amis même, qui viennent de différentes parties du monde.]{.poste}
+[]{.poste}
 
 > **“Vous allez passer deux ans avec vos futurs collègues, vos contacts, des amis même, qui viennent de différentes parties du monde”**
 
