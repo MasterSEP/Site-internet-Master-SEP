@@ -64,7 +64,7 @@ Cliquez sur l'image pour accéder à la vidéo de l'interview.
 </a>
 
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
-Cliquez sur l'image pour accéder à la transcription de l'interview.
+Cliquez sur l'image pour accéder à la retranscription de l'interview.
 </p>
 
 
@@ -82,7 +82,7 @@ Cliquez sur l'image pour accéder à la transcription de l'interview.
 </a>
 
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
-Cliquez sur l'image pour accéder à la transcription de l'interview.
+Cliquez sur l'image pour accéder à la retranscription de l'interview.
 </p>
 
 ----------------------------------------------------------------------------
@@ -97,7 +97,7 @@ Cliquez sur l'image pour accéder à la transcription de l'interview.
 </a>
 
 <p style="text-align: center; font-style: italic; color: #6d6d6d; font-size: 1rem; margin-top: 1rem;">
-Cliquez sur l'image pour accéder à la transcription de l'interview.
+Cliquez sur l'image pour accéder à la retranscription de l'interview.
 </p>
 
 ---------------------------------------------------------------------
