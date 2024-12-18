@@ -25,8 +25,8 @@ Le Master SEP offre une formation complète et de haut niveau sur deux ans dans 
 3.  **Approche multidisciplinaire :**\
     Une formation qui couvre la statistique, l’économie, la data science et l’informatique, rendant les diplômés polyvalents.
 
-4.  **Forte employabilité :**  
-Les diplômés sont très recherchés grâce à leurs compétences techniques et à leur formation pratique, notamment pour des postes de **Data Analyst** et **Data Scientist**.
+4.  **Forte employabilité :**\
+    Les diplômés sont très recherchés grâce à leurs compétences techniques et à leur formation pratique, notamment pour des postes de **Data Analyst** et **Data Scientist**.
 
 5.  **Utilisation d’outils de pointe :**\
     Les étudiants maîtrisent des logiciels et langages comme Python, R et SAS, essentiels pour l’analyse de données.
