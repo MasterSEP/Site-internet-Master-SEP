@@ -1,0 +1,40 @@
+---
+title: "Evenements étudiants"
+output:
+  html_document:
+    toc: true
+    css: styles.css
+---
+
+## Match de Foot ⚽
+
+### Un match de foot plein d'énergie et de convivialité
+
+Après un match intense et disputé ce **jeudi 14 novembre 2024**, l'équipe **SEP APE** s'est imposée avec succès face au **SEP MATHS** au **Five de Reims**.
+
+Avec une participation active de tous, l'événement a permis de créer un véritable esprit d'équipe et de cohésion estudiantine.
+
+Un grand bravo à tous les joueurs pour leur performance et leur esprit sportif !  
+
+![](Images/foot.jfif)
+
+------------------------------------------------------------------------
+
+## Soirée au restaurant 🍽️
+
+### Moment de partage autour d'un restaurant convivial 
+  
+  
+
+
+![](Images/restau.jfif)
+
+Le **lundi 18 novembre 2024**, place à **Brique House** pour une soirée chaleureuse et mémorable. Cette rencontre a rassemblé les étudiants **SEP du moment** ainsi que les **anciens du master**.
+
+Ce moment fut riche en discussions et en partage avec des parties de divers jeux comme **UNO** ou **Babyfoot**, accompagnés d'une agréable dégustation.
+
+Une belle occasion de renforcer nos liens dans une ambiance festive !  
+
+<div style="text-align: center;">
+  ![](Images/uno.jfif){width="500"}
+</div>

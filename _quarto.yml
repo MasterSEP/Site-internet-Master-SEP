@@ -42,6 +42,8 @@ website:
         menu:
           - text: "Témoignages d'anciens"
             file: Témoignage.qmd
+          - text: "Evenements Etudiants"
+            file: evenement.qmd
           - text: "Actualités"
             file: Actualites.qmd
           - text: "Outils et ressources"

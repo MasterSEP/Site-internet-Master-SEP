@@ -1,6 +1,9 @@
 ---
-title: "Modalités d'admissions"
-editor: visual
+title: "Modalités d'admission"
+output:
+  html_document:
+    toc: true
+    css: styles.css
 ---
 
 Le Master SEP fonde sa renommée sur la qualité de sa sélection. À travers cette page, nous vous accompagnons dans votre candidature en vous fournissant toutes les informations nécessaires pour intégrer cette formation d’excellence.
@@ -21,8 +24,8 @@ Cette liste n’est pas exhaustive. Chaque candidature est étudiée en fonction
 
 ### Master 2
 
-L’accès direct au M2 est réservé aux candidats ayant validé un M1 ou équivalent dans des domaines connexes,  
-tels que :  
+L’accès direct au M2 est réservé aux candidats ayant validé un M1 ou équivalent dans des domaines connexes,\
+tels que :
 
 \- Économétrie
 
@@ -117,3 +120,13 @@ Préparez-vous à répondre aux questions concernant vos expériences académiqu
 L’entretien dure généralement entre 20 et 30 minutes. Soyez clair et concis, en insistant sur les points forts de votre dossier.
 
 Nous espérons que ces informations vous aideront à bien préparer votre candidature. N’hésitez pas à poser des questions si besoin, et bonne chance dans vos démarches !
+
+## Livret d'Accueil
+
+Le livret d'accueil des étudiants étrangers de l'Université de Reims Champagne-Ardenne (URCA) est un outil essentiel conçu pour guider les nouveaux arrivants dans leur intégration à l'université et à la vie en France.
+
+Ce document couvre divers aspects tels que les démarches administratives, le logement, les coûts de la vie, les options de transport, ainsi que des conseils pratiques pour réussir leur séjour.
+
+Il met également en avant les services disponibles pour les étudiants internationaux, tout en offrant un aperçu des opportunités académiques et professionnelles proposées par l'URCA.
+
+Vous pouvez le trouvez ici : [**Livret_d'accueil-2025_2026.pdf**](Livret_d'accueil-2025_2026.pdf)

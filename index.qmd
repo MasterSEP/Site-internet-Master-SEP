@@ -25,14 +25,14 @@ Le Master SEP offre une formation complète et de haut niveau sur deux ans dans 
 3.  **Approche multidisciplinaire :**\
     Une formation qui couvre la statistique, l’économie, la data science et l’informatique, rendant les diplômés polyvalents.
 
-4.  **Forte employabilité :**\
-    Les diplômés sont très recherchés grâce à leurs compétences techniques et leur formation pratique.
+4.  **Forte employabilité :**  
+Les diplômés sont très recherchés grâce à leurs compétences techniques et à leur formation pratique, notamment pour des postes de **Data Analyst** et **Data Scientist**.
 
 5.  **Utilisation d’outils de pointe :**\
     Les étudiants maîtrisent des logiciels et langages comme Python, R et SAS, essentiels pour l’analyse de données.
 
 6.  **Reconnaissance académique :**\
-    Le Master SEP a été classé parmi les meilleurs au classement 2023 *"Master Big Data & Data Sciences"* ([voir le classement](#)) de Eduniversal.
+    Le Master SEP a été classé parmi les meilleurs au classement 2023 *"Master Big Data & Data Sciences :* <a href="https://www.meilleurs-masters.com/master-big-data-data-sciences/universite-de-reims-champagne-ardenne-master-statistique-pour-l-evaluation-et-la-prevision.html" target="_blank">voir le classement</a> de Eduniversal.
 
 7.  <p style="text-align: center;">
 
