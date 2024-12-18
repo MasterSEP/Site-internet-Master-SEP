@@ -11,7 +11,7 @@ output: html_document
 | **Email du responsable**               | [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr) | [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr)                                 |
 | **Email du secrétariat**               | [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr)           | [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr)                     |
 | **Numéro de téléphone du secrétariat** | 03.26.91.86.19                                                                   | 03.26.91.86.19                                                                               |
-| **Nouveau respondable**                    | Philippe REGNAULT                                                                | [philippe.regnault\@etudiant.univ-reims.fr](mailto:philippe.regnault@etudiant.univ-reims.fr) |
+| **Nouveau responsable**                    | Philippe REGNAULT                                                                | [philippe.regnault\@etudiant.univ-reims.fr](mailto:philippe.regnault@etudiant.univ-reims.fr) |
 
 ## Campus Croix-Rouge
 
