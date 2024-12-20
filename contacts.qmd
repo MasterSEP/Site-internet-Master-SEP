@@ -3,17 +3,25 @@ title: "Contacts"
 output: html_document
 ---
 
-**Le responsable change en fonction de la spécialité prise dans le master.**
+**Retrouvez ici les informations des personnes responsables du master SEP.**
 
-| Spécialité                             | Analyse et Politique Économique                                                  | Mathématiques et Application                                                                 |
-|---------------------|-----------------------------|----------------------|
-| **Responsable du master**              | Emmanuelle GAUTHERAT                                                             | Jules MAES                                                                                   |
-| **Email du responsable**               | [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr) | [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr)                                 |
-| **Email du secrétariat**               | [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr)           | [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr)                     |
-| **Numéro de téléphone du secrétariat** | 03.26.91.86.19                                                                   | 03.26.91.86.19                                                                               |
-| **Nouveau responsable**                    | Philippe REGNAULT                                                                | [philippe.regnault\@etudiant.univ-reims.fr](mailto:philippe.regnault@etudiant.univ-reims.fr) |
+```{=html}
+<style>
+table th {
+  color: black;
+}
+</style>
+```
+| **Détails**                            | **Informations**                                                                                                                                                                                                                             |
+|----------------------|--------------------------------------------------|
+| **Responsables du master**             | Emmanuelle GAUTHERAT, Jules MAES, PHILIPPE REGNAULT                                                                                                                                                                                          |
+| **Emails des responsables**            | [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr), [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr), [philippe.regnault\@etudiant.univ-reims.fr](mailto:philippe.regnault@etudiant.univ-reims.fr) |
+| **Email du secrétariat**               | [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr), [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr)                                                                                             |
+| **Numéro de téléphone du secrétariat** | 03.26.91.86.19                                                                                                                                                                                                                               |
 
 ## Campus Croix-Rouge
+
+**Retrouvez ici les informations des deux campus où les élèves pourront être invités à se rendre.**
 
 **Adresse** : 57 rue Pierre Taittinger, 51100 Reims\
 **Téléphone** : 03 26 91 86 19
@@ -21,6 +29,8 @@ output: html_document
 ![](Images/Plan_campus.JPG){fig-align="center" width="900"}
 
 ## Campus Moulin de la Housse
+
+**Les élèves du master SEP APE seront très peu présents sur ce campus.**
 
 **Adresse** : Chem. des Rouliers, 51100 Reims\
 **Téléphone** : 03 26 91 34 19
