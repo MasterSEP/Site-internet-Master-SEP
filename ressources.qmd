@@ -17,7 +17,7 @@ editor: visual
 
 ### Data Camp
 
-Un Data Camp présentant les prérequis de la formation pour les parcours économique et mathématique est disponible [ici](https://elifets.github.io/DataCamp_SEP_2023_2024/).
+Un Data Camp présentant les prérequis de la formation pour les parcours économique et mathématique est disponible [ici](https://mastersep.github.io/DataCamp_SEP_2023_2024/).
 
 ### Enquête d'insertion professionnelle
 
