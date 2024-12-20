@@ -47,7 +47,7 @@ On retrouve comme matières principales :
 
 -   **Data mining** : Processus d'extraction de connaissances et de modèles à partir de grandes quantités de données.
 
--   **Macro Excel** : Automatisation de tâches dans Excel à l'aide de scripts VBA pour améliorer l'efficacité des analyses de données.
+-   **Macro Excel VBA**: Automatisation de tâches dans Excel à l'aide de scripts VBA pour améliorer l'efficacité des analyses de données.
 
 -   **Apprentissage de Git** : Acquisition de compétences pour utiliser Git, un système de contrôle de version, pour gérer et collaborer sur des projets de code.
 
