@@ -1,9 +1,11 @@
 ---
 title: "Modalités d'admission"
-output:
-  html_document:
-    toc: true
-    css: styles.css
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 Le Master SEP fonde sa renommée sur la qualité de sa sélection. À travers cette page, nous vous accompagnons dans votre candidature en vous fournissant toutes les informations nécessaires pour intégrer cette formation d’excellence.

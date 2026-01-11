@@ -1,6 +1,12 @@
 ---
 title: "On parle de nous !"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 [**Article du magazine Challenge**](http://mastersep.fr/wp-content/uploads/2018/11/Article-Challenge-2017.pdf)

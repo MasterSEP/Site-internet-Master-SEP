@@ -1,6 +1,12 @@
 ---
 title: "Stages"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 ![](Images/stage2.jpg)
@@ -63,4 +69,5 @@ Découvrez comment le SAS Spring Campus peut façonner votre avenir professionne
 
 Le livret des stages est une ressource précieuse qui met en lumière la diversité des expériences professionnelles réalisées par les étudiants au cours de leur formation en master. Ce document regroupe une grande variété de stages effectués, en précisant pour chaque expérience **l’entreprise ou l’organisation d’accueil**, **l’année de promotion de l’étudiant**, **une brève description des missions et tâches réalisées** . Il s’agit d’un outil inspirant pour les futurs étudiants et partenaires, illustrant concrètement les compétences acquises et mises en pratique par nos diplômés. Ce livret reflète également la qualité de notre réseau et l’ouverture de nos formations sur le monde professionnel.
 
-Voici le lien : <https://livret-des-stages-2024.quarto.pub/livret-stages/>
+Voici le lien : [livret des stages 2025-2026](Images/livret_des_stages_2025_2026.pdf)
+

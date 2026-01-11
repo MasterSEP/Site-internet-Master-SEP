@@ -1,0 +1,283 @@
+/* ===== MASTER SEP - style moderne sans dépendances (version finale) ===== */
+
+/* --------- Variables --------- */
+:root {
+  --bg: #0e1117;
+  --panel: #161b22;
+  --card: #1c2333;
+  --text: #e6ebf5;
+  --muted: #a6b3c7;
+  --brand: #4da3ff;
+  --brand2: #936bff;
+  --heading: #f0a46b;
+  --radius: 16px;
+  --shadow: 0 8px 25px rgba(0,0,0,0.35);
+}
+
+/* --------- Reset léger --------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* --------- Fond global unifié --------- */
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: var(--panel);
+  color: var(--text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pleine largeur (évite le contenu “serré” par Quarto) */
+#quarto-content, .page-columns, .content, main {
+  max-width: none !important;
+}
+body, main {
+  width: 100%;
+}
+
+/* --------- Rythme vertical (✅ FIX : plus de “boîtes” partout) ---------
+   Quarto génère des <section> à chaque niveau de titre.
+   On garde le padding / séparation UNIQUEMENT pour les sections principales (level2).
+------------------------------------------------------------------------- */
+main > section.level2,
+main > .section.level2 {
+  padding: 38px 5%;
+  background: var(--panel);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+/* évite double padding entre sections principales consécutives */
+main > section.level2 + section.level2,
+main > .section.level2 + .section.level2,
+main > section.level2 + .section.level2,
+main > .section.level2 + section.level2 {
+  padding-top: 18px;
+}
+
+/* ✅ IMPORTANT : on annule sur les sous-sections (###, ####...) */
+main section.level3,
+main section.level4,
+main section.level5,
+main section.level6,
+main .section.level3,
+main .section.level4,
+main .section.level5,
+main .section.level6 {
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+/* --------- Typographie --------- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading);
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  margin: 0 0 12px 0;
+}
+
+p, li {
+  color: var(--text);
+  font-size: 1rem;
+  margin: 0 0 10px 0;
+}
+
+/* --------- Liens --------- */
+a {
+  color: var(--brand);
+  text-decoration: none;
+  transition: color .2s ease;
+}
+a:hover {
+  color: var(--brand2);
+  text-decoration: underline;
+}
+
+/* --------- Images --------- */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: block;
+  margin: 0 auto;
+}
+
+/* --------- Boutons --------- */
+.u-btn, button, .btn, .btn-primary {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--brand), var(--brand2));
+  color: #fff;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: transform .15s ease, filter .15s ease;
+  font-weight: 600;
+  text-align: center;
+}
+.u-btn:hover, button:hover, .btn:hover, .btn-primary:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.08);
+  text-decoration: none;
+}
+
+/* --------- Cards --------- */
+.card, .u-list-item, .u-group {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 22px;
+}
+
+/* --------- HERO --------- */
+.hero {
+  margin: 28px 5% 18px 5%;
+  padding: 52px 52px;
+  border-radius: 18px;
+  background: linear-gradient(90deg, #ff4b86 0%, #5b63ff 55%, #2b2f8f 100%);
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 28px;
+  align-items: center;
+  box-shadow: var(--shadow);
+}
+
+/* petit titre au-dessus */
+.hero-kicker {
+  font-weight: 700;
+  letter-spacing: .08em;
+  font-size: .85rem;
+  margin: 0 0 14px 0;
+  color: rgba(255,255,255,.9);
+}
+
+/* TITRE hero */
+.hero .hero-text h1 {
+  color: var(--heading);
+  margin: 0 0 14px 0;
+  line-height: 1.2;
+}
+
+/* texte hero */
+.hero .hero-text p {
+  color: var(--text);
+}
+
+/* image hero */
+.hero .hero-image img {
+  border-radius: 16px;
+}
+
+/* --------- Grille 3 colonnes --------- */
+.cards-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.cards-3 .card {
+  margin: 0;
+}
+
+/* --------- Footer --------- */
+footer {
+  background: var(--panel);
+  color: var(--muted);
+  text-align: center;
+  padding: 28px 0;
+  border-top: 1px solid rgba(255,255,255,0.07);
+}
+
+/* --------- Responsive --------- */
+@media (max-width: 900px) {
+  main > section.level2,
+  main > .section.level2 {
+    padding: 32px 6%;
+  }
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 38px 24px;
+    margin: 22px 6% 14px 6%;
+  }
+  .cards-3 { grid-template-columns: 1fr; }
+}
+
+/* =========================
+   THEME TITRES + CARDS IA
+   ========================= */
+
+/* Lueur légère (bleue) */
+h1, h2{
+  text-shadow: 0 0 18px rgba(143,182,255,0.18);
+}
+
+/* CARDS : plus colorées */
+.cards-3 .card{
+  border: 1px solid rgba(255,255,255,0.06);
+  transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+}
+
+.cards-3 .card:hover{
+  transform: translateY(-5px);
+  box-shadow: 0 16px 38px rgba(0,0,0,0.50);
+  filter: brightness(1.06);
+}
+
+/* Dégradés “palette IA” — accentués */
+.cards-3 .card:nth-child(1){
+  background: linear-gradient(135deg, rgba(91,99,255,0.36), rgba(28,35,51,1) 60%);
+}
+.cards-3 .card:nth-child(2){
+  background: linear-gradient(135deg, rgba(147,107,255,0.38), rgba(28,35,51,1) 60%);
+}
+.cards-3 .card:nth-child(3){
+  background: linear-gradient(135deg, rgba(77,163,255,0.40), rgba(28,35,51,1) 60%);
+}
+.cards-3 .card:nth-child(4){
+  background: linear-gradient(135deg, rgba(109,242,210,0.34), rgba(28,35,51,1) 60%);
+}
+.cards-3 .card:nth-child(5){
+  background: linear-gradient(135deg, rgba(255,75,134,0.28), rgba(28,35,51,1) 60%);
+}
+.cards-3 .card:nth-child(6){
+  background: linear-gradient(135deg, rgba(240,164,107,0.26), rgba(28,35,51,1) 60%);
+}
+
+/* Texte des cards */
+.cards-3 .card p{
+  color: var(--text);
+}
+
+/* ===== Témoignages – citation ===== */
+blockquote{
+  background: #f7f2ed;
+  color: #1c2333;
+  border-left: 4px solid #ff8c42;
+  padding: 18px 24px;
+  border-radius: 12px;
+  max-width: 720px;
+  margin: 24px auto;
+  font-style: italic;
+  font-size: 1.05rem;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* supprime les styles hérités internes */
+blockquote p{
+  color: #1c2333 !important;
+  margin: 0;
+}
+
+.interview-caption {
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+

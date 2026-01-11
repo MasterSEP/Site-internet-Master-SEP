@@ -1,6 +1,12 @@
 ---
 title: "Organisation"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 ### Structure du Master

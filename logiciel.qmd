@@ -1,0 +1,197 @@
+---
+title: "Logiciels et environnements à installer"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Introduction
+
+Cette page récapitule l’ensemble des logiciels et langages à maîtriser cette année : **R, Python et SQL**.\
+Les consignes d’installation peuvent varier selon le **système d’exploitation** : Windows, macOS ou Linux.
+
+
+
+
+## R
+
+R est un langage de programmation dédié aux statistiques et à la data science.
+
+#### Windows
+
+1.  Aller sur https://cran.r-project.org/
+2.  Cliquer sur **Download R for Windows**
+3.  Choisir **base**
+4.  Suivre les instructions d’installation
+
+##### Rtools (Windows uniquement)
+
+Rtools permet de compiler certains packages R depuis leurs sources.
+
+1.  Après l’installation de R, retourner sur la page Windows de CRAN
+2.  Cliquer sur **Rtools**
+3.  Choisir la version correspondant à votre installation de R
+4.  Installer en suivant les instructions
+
+Remarque : l’installation de Rtools requiert plusieurs Go d’espace disque.
+
+#### macOS
+
+1.  Aller sur https://cran.r-project.org/
+2.  Cliquer sur **Download R for macOS**
+3.  Télécharger le fichier `.pkg`
+4.  Suivre les instructions d’installation
+
+#### Linux / Debian
+
+Installer R via le gestionnaire de paquets de la distribution ou via les instructions CRAN adaptées à votre distribution.
+
+## Environnement de développement pour R
+
+#### RStudio Desktop (recommandé)
+
+RStudio Desktop (gratuit) :\
+https://posit.co/download/rstudio-desktop/
+
+-   Compatible Windows, macOS et Linux
+-   Utile pour travailler avec Quarto et R Markdown
+
+#### Positron
+
+Positron :\
+https://positron.posit.co/download.html/
+
+-   IDE moderne adapté aux projets en data science
+-   Conçu pour travailler avec R et Python
+
+#### Visual Studio Code
+
+Visual Studio Code :\
+https://code.visualstudio.com/
+
+
+## LaTeX (facultatif)
+
+Une distribution LaTeX peut être utile pour générer des documents PDF avec Quarto ou R Markdown.
+
+#### Windows
+
+MiKTeX :\
+https://miktex.org/
+
+#### macOS
+
+MacTeX :\
+https://www.tug.org/mactex/
+
+#### Linux / Debian
+
+TeX Live (via votre distribution).
+
+
+## Python
+
+#### Présentation
+
+Python est un langage central en data science et en apprentissage automatique.
+
+#### Windows
+
+Suivre le guide d’installation et de mise à jour :\
+https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python/4262506-installez-python
+
+#### macOS
+
+Suivre le guide d’installation et de mise à jour :\
+https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python/4262506-installez-python
+
+#### Linux / Debian
+
+Suivre le guide d’installation et de mise à jour :\
+https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python/4262506-installez-python
+
+
+
+## Jupyter
+
+### Présentation
+
+Jupyter permet d’exécuter du code dans des notebooks pratiques pour l’analyse de données.
+
+#### Windows
+
+Guide d’installation :\
+https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5559646-installez-jupyter-sur-votre-propre-ordinateur
+
+#### macOS
+
+Guide d’installation :\
+https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5559646-installez-jupyter-sur-votre-propre-ordinateur
+
+#### Linux / Debian
+
+Guide d’installation :\
+https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5559646-installez-jupyter-sur-votre-propre-ordinateur
+
+
+## SQL
+
+### Présentation
+
+SQL est indispensable pour interroger et manipuler des bases de données relationnelles.
+
+#### Windows
+
+Ressources d’auto-formation : - https://www.codecademy.com/learn/learn-sql - https://sql.sh/cours
+
+#### macOS
+
+Ressources d’auto-formation : - https://www.codecademy.com/learn/learn-sql - https://sql.sh/cours
+
+#### Linux / Debian
+
+Ressources d’auto-formation : - https://www.codecademy.com/learn/learn-sql - https://sql.sh/cours
+
+
+## Power BI
+
+### Windows
+
+Lien de téléchargement :\  
+https://www.microsoft.com/fr-fr/download/details.aspx?id=58494
+
+### macOS et Linux
+
+Power BI Desktop n’est pas disponible sur macOS et Linux. En revanche, plusieurs alternatives existent :\
+
+- **Utiliser Power BI Service (en ligne)** : fonctionnalités plus limitées.
+- **Utiliser une machine virtuelle Windows** (sur Mac/Linux) pour installer Power BI Desktop.
+
+
+## Machine virtuelle Windows (macOS et Linux)
+
+Power BI Desktop n’étant disponible que sous Windows, il est possible d’utiliser une **machine virtuelle Windows** sur macOS ou Linux.
+
+### VirtualBox 
+
+VirtualBox est un logiciel de virtualisation.
+
+Téléchargement :\
+https://www.virtualbox.org/
+
+### Installation et configuration (résumé)
+
+1. Installer **VirtualBox** et l’**Extension Pack**
+2. Télécharger une image ISO de Windows :  
+   https://www.microsoft.com/software-download/
+3. Créer une nouvelle machine virtuelle :
+   - Type : **Microsoft Windows**
+   - Version : **Windows 10 (64-bit)**
+4. Configuration recommandée :
+   - RAM : 8 Go (4 Go minimum)
+   - Processeur : 2 à 4 cœurs
+   - Disque : 40 Go minimum

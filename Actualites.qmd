@@ -1,5 +1,11 @@
 ---
 title: "Actualités"
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 listing:
   type: grid
   contents:

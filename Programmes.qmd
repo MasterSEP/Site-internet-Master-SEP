@@ -1,6 +1,11 @@
 ---
 title: "Programmes"
-
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 editor: visual
 ---
 
@@ -12,8 +17,8 @@ Sur cette page, vous découvrirez en détail le programme académique des deux M
 
 #### Master Mathématique et Applications
 
-Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master MA SEP en cliquant [ici](https://www.univ-reims.fr/formation/catalogue-de-formation/master-mathematiques-et-applications,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=599#educationalOrganizations)
+Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master MA SEP en cliquant [ici](https://oreof.univ-reims.fr/parcours/mccc/export/601.pdf)
 
 #### Master Analyse et Politique Economique
 
-Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master APE SEP en cliquant [ici](https://www.univ-reims.fr/formation/catalogue-de-formation/master-analyse-et-politique-economique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp*XGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=684#educationalOrganizations)
+Veuillez trouver ici un lien qui va vous permettre de connaître le contenu du Master APE SEP en cliquant [ici](https://oreof.univ-reims.fr/parcours/mccc/export/560.pdf)
