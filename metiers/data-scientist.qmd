@@ -1,0 +1,56 @@
+---
+title: "Data Scientist"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Concevoir des modèles statistiques et de machine learning pour exploiter des données complexes
+
+#### Présentation du métier
+
+Le **Data Scientist** analyse des données complexes afin d’en extraire des informations utiles et de construire des modèles prédictifs.\
+Il mobilise des méthodes statistiques avancées et des techniques de machine learning pour répondre à des problématiques variées.
+
+#### Missions principales
+
+-   Analyser et préparer des jeux de données complexes\
+-   Concevoir des modèles statistiques et de machine learning\
+-   Évaluer et comparer les performances des modèles\
+-   Tester des hypothèses et scénarios\
+-   Restituer les résultats aux équipes métiers
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Statistiques avancées\
+-   Machine learning\
+-   Python, R\
+-   Analyse de données
+
+**Compétences transversales**
+
+-   Esprit analytique\
+-   Rigueur\
+-   Communication
+
+#### Secteurs d’activité
+
+-   Industrie\
+-   Finance\
+-   Santé\
+-   Marketing\
+-   Recherche
+
+#### Perspectives d’évolution
+
+-   Senior Data Scientist\
+-   Lead Data Scientist\
+-   Responsable data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

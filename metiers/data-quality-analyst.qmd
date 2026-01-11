@@ -1,0 +1,54 @@
+---
+title: "Data Quality Analyst"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Assurer la fiabilité et la cohérence des données
+
+#### Présentation du métier
+
+Le **Data Quality Analyst** contrôle et améliore la qualité des données utilisées par l’organisation.\
+Il identifie les anomalies, met en place des règles de validation et contribue à la fiabilité des analyses.
+
+#### Missions principales
+
+-   Contrôler la qualité des données\
+-   Identifier les incohérences et anomalies\
+-   Définir des règles de validation\
+-   Suivre les indicateurs de qualité\
+-   Collaborer avec les équipes data
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Qualité des données\
+-   SQL\
+-   Outils de contrôle data
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Sens du détail\
+-   Esprit critique
+
+#### Secteurs d’activité
+
+-   Industrie\
+-   Finance\
+-   Services\
+-   Secteur public
+
+#### Perspectives d’évolution
+
+-   Data Governance Manager\
+-   Data Analyst\
+-   Data Steward
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

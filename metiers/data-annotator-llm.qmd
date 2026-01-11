@@ -1,0 +1,54 @@
+---
+title: "Data Annotator for LLM"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Produire et contrôler des données annotées pour l’entraînement des modèles de langage
+
+#### Présentation du métier
+
+Le **Data Annotator for LLM** est chargé de créer, annoter et valider des jeux de données utilisés pour l’entraînement et l’évaluation des modèles de langage.\
+Il joue un rôle essentiel dans la qualité et la fiabilité des systèmes d’intelligence artificielle.
+
+#### Missions principales
+
+-   Annoter des données textuelles\
+-   Vérifier la cohérence et la qualité des annotations\
+-   Appliquer des règles d’annotation précises\
+-   Participer à l’évaluation des modèles\
+-   Documenter les processus d’annotation
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Annotation de données\
+-   Outils d’annotation\
+-   Compréhension du langage naturel
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Attention au détail\
+-   Esprit critique
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Intelligence artificielle\
+-   Recherche\
+-   Services numériques
+
+#### Perspectives d’évolution
+
+-   Data Analyst\
+-   Data Quality Analyst\
+-   Spécialiste NLP
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

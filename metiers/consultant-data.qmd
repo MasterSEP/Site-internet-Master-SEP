@@ -1,0 +1,53 @@
+---
+title: "Consultant Data"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Accompagner les organisations dans leurs projets data et décisionnels
+
+#### Présentation du métier
+
+Le **Consultant Data** accompagne les organisations dans la définition et la mise en œuvre de projets data.\
+Il intervient sur des problématiques d’analyse, de gouvernance et de valorisation des données.
+
+#### Missions principales
+
+-   Analyser les besoins des clients\
+-   Concevoir des solutions data adaptées\
+-   Piloter des projets data\
+-   Restituer des recommandations\
+-   Accompagner le changement
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Analyse de données\
+-   Méthodologies de projet\
+-   Outils data
+
+**Compétences transversales**
+
+-   Communication\
+-   Adaptabilité\
+-   Esprit de synthèse
+
+#### Secteurs d’activité
+
+-   Cabinets de conseil\
+-   Entreprises\
+-   Secteur public
+
+#### Perspectives d’évolution
+
+-   Manager data\
+-   Consultant senior\
+-   Chief Data Officer
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

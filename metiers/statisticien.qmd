@@ -1,0 +1,57 @@
+---
+title: "Statisticien"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Analyser et modéliser des données quantitatives pour répondre à des problématiques complexes
+
+#### Présentation du métier
+
+Le **statisticien** conçoit et applique des méthodes statistiques afin d’analyser des données quantitatives et d’en extraire des résultats fiables.
+
+Il intervient dans de nombreux domaines pour modéliser des phénomènes, tester des hypothèses et appuyer la prise de décision.
+
+#### Missions principales
+
+-   Collecter et préparer des données\
+-   Concevoir des modèles statistiques adaptés\
+-   Réaliser des analyses inférentielles\
+-   Interpréter et valider les résultats\
+-   Rédiger des rapports d’analyse
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Statistiques descriptives et inférentielles\
+-   Modélisation statistique\
+-   R, Python, SAS\
+-   Analyse de données
+
+**Compétences transversales**
+
+-   Rigueur scientifique\
+-   Esprit critique\
+-   Capacité de synthèse
+
+#### Secteurs d’activité
+
+-   Industrie\
+-   Santé\
+-   Finance\
+-   Secteur public\
+-   Recherche
+
+#### Perspectives d’évolution
+
+-   Data Scientist\
+-   Consultant statistique\
+-   Responsable d’études
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

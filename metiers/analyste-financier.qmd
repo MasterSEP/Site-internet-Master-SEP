@@ -1,0 +1,54 @@
+---
+title: "Analyste financier"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Analyser les données financières pour guider les décisions stratégiques
+
+#### Présentation du métier
+
+L’**analyste financier** exploite des données comptables et financières afin d’évaluer la performance et la santé financière d’une organisation.\
+Il contribue aux décisions d’investissement et à la gestion des risques.
+
+#### Missions principales
+
+-   Analyser les états financiers\
+-   Construire des modèles financiers\
+-   Évaluer la rentabilité et les risques\
+-   Produire des rapports financiers\
+-   Aider à la prise de décision
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Analyse financière\
+-   Modélisation\
+-   Excel, Python, outils financiers
+
+**Compétences transversales**
+
+-   Esprit d’analyse\
+-   Rigueur\
+-   Communication
+
+#### Secteurs d’activité
+
+-   Banque\
+-   Assurance\
+-   Conseil\
+-   Entreprises
+
+#### Perspectives d’évolution
+
+-   Analyste senior\
+-   Responsable financier\
+-   Gestionnaire de risques
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

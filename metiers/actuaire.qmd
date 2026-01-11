@@ -1,0 +1,54 @@
+---
+title: "Actuaire"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Évaluer et modéliser les risques financiers et assurantiels
+
+#### Présentation du métier
+
+L’**actuaire** analyse les risques financiers liés à l’assurance et à la finance en s’appuyant sur des modèles mathématiques et statistiques.\
+Il joue un rôle clé dans la gestion des risques, la tarification et la définition des provisions.
+
+#### Missions principales
+
+-   Modéliser les risques\
+-   Calculer des primes et provisions\
+-   Analyser la rentabilité des produits\
+-   Évaluer les impacts financiers\
+-   Conseiller les décideurs
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Statistiques avancées\
+-   Modélisation actuarielle\
+-   R, Excel, logiciels spécialisés
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Sens des responsabilités\
+-   Capacité d’analyse
+
+#### Secteurs d’activité
+
+-   Assurance\
+-   Finance\
+-   Banque\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Actuaire senior\
+-   Responsable des risques\
+-   Manager actuariel
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

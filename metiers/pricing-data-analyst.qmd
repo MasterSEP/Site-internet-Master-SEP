@@ -1,0 +1,61 @@
+---
+title: "Pricing Data Analyst"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Optimiser les stratégies tarifaires grâce à l’analyse statistique et aux données
+
+
+#### Présentation du métier
+
+Le **Pricing Data Analyst** est un analyste spécialisé dans l’étude des données de prix, de coûts et de comportements clients afin d’aider les entreprises à définir des **stratégies tarifaires optimales**.
+
+Il intervient à l’interface entre l’analyse de données, la statistique et la prise de décision stratégique, dans des contextes souvent **fortement concurrentiels**.
+
+#### Missions principales
+
+- Analyser les données de ventes, de prix et de marges  
+- Étudier la sensibilité des clients aux variations de prix  
+- Construire des modèles statistiques de demande et d’élasticité  
+- Tester et évaluer différentes stratégies tarifaires  
+- Produire des analyses d’aide à la décision pour les équipes métiers  
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+- Statistiques descriptives et inférentielles  
+- Modélisation statistique et régressions  
+- Analyse de séries temporelles  
+- Python ou R pour l’analyse de données  
+- SQL pour l’extraction de données  
+
+**Compétences transversales**
+
+- Esprit d’analyse et de synthèse  
+- Rigueur et sens critique  
+- Capacité à vulgariser des résultats complexes  
+- Collaboration avec les équipes marketing et finance  
+
+#### Secteurs d’activité
+
+- Commerce et distribution  
+- Transport (aérien, ferroviaire)  
+- Télécommunications  
+- Assurance et finance  
+- Industrie et services  
+
+#### Perspectives d’évolution
+
+- Senior Pricing Analyst  
+- Lead Pricing Analyst  
+- Data Scientist spécialisé en pricing  
+- Responsable stratégie tarifaire  
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

@@ -1,0 +1,55 @@
+---
+title: "Network Planning Analyst"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Optimiser la planification et la performance des réseaux complexes
+
+#### Présentation du métier
+
+Le **Network Planning Analyst** analyse les données issues de réseaux (transport, télécommunications, énergie) afin d’optimiser leur conception et leur exploitation.
+
+Il contribue à améliorer l’efficacité, la fiabilité et la rentabilité des infrastructures.
+
+#### Missions principales
+
+-   Analyser les flux et performances des réseaux\
+-   Modéliser différents scénarios de planification\
+-   Optimiser l’allocation des ressources\
+-   Évaluer les impacts de nouvelles stratégies\
+-   Produire des analyses d’aide à la décision
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Analyse de données\
+-   Modélisation mathématique\
+-   Python, outils de simulation
+
+**Compétences transversales**
+
+-   Esprit logique\
+-   Capacité d’analyse\
+-   Travail en équipe
+
+#### Secteurs d’activité
+
+-   Transport\
+-   Télécommunications\
+-   Énergie\
+-   Logistique
+
+#### Perspectives d’évolution
+
+-   Senior Network Analyst\
+-   Responsable planification\
+-   Consultant en optimisation
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

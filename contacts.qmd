@@ -1,6 +1,12 @@
 ---
 title: "Contacts"
 output: html_document
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 **Retrouvez ici les informations des personnes responsables du master SEP.**
@@ -13,8 +19,8 @@ table th {
 </style>
 ```
 | **Détails**                            | **Informations**                                                                                                                                                                                                                             |
-|----------------------|--------------------------------------------------|
-| **Responsables du master**             | Emmanuelle GAUTHERAT, Jules MAES, PHILIPPE REGNAULT                                                                                                                                                                                          |
+|-----------------|-------------------------------------------------------|
+| **Responsables du master**             | Emmanuelle GAUTHERAT, Jules MAES, Philippe REGNAULT                                                                                                                                                                                          |
 | **Emails des responsables**            | [emmanuelle.gautherat\@univ-reims.fr](mailto:emmanuelle.gautherat@univ-reims.fr), [jules.maes\@univ-reims.fr](mailto:jules.maes@univ-reims.fr), [philippe.regnault\@etudiant.univ-reims.fr](mailto:philippe.regnault@etudiant.univ-reims.fr) |
 | **Email du secrétariat**               | [sesg.master-ape\@univ-reims.fr](mailto:sesg.master-ape@univ-reims.fr), [secretariat-math\@univ-reims.fr](mailto:secretariat-math@univ-reims.fr)                                                                                             |
 | **Numéro de téléphone du secrétariat** | 03.26.91.86.19                                                                                                                                                                                                                               |

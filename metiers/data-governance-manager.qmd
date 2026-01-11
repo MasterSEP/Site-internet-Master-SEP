@@ -1,0 +1,52 @@
+---
+title: "Data Governance Manager"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Garantir la qualité, la conformité et la sécurité des données
+
+#### Présentation du métier
+
+Le **Data Governance Manager** définit et met en œuvre les règles de gouvernance des données afin d’assurer leur qualité, leur sécurité et leur conformité réglementaire.\
+Il agit comme référent sur les politiques data de l’organisation.
+
+#### Missions principales
+
+-   Définir les règles et standards de gouvernance\
+-   Mettre en place des politiques de qualité des données\
+-   Assurer la conformité réglementaire\
+-   Sensibiliser les équipes aux bonnes pratiques\
+-   Suivre les indicateurs de qualité
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Gouvernance des données\
+-   Qualité des données\
+-   Réglementations (RGPD, normes)
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Communication\
+-   Gestion de projet
+
+#### Secteurs d’activité
+
+-   Entreprises\
+-   Secteur public\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Chief Data Officer\
+-   Consultant en gouvernance data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

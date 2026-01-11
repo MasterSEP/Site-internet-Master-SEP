@@ -1,0 +1,55 @@
+---
+title: "Analyste Prédictif"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Anticiper les évolutions futures grâce à la modélisation statistique
+
+#### Présentation du métier
+
+L’**analyste prédictif** développe des modèles statistiques pour prévoir des tendances ou des comportements futurs.
+
+Il intervient dans des contextes où l’anticipation est un enjeu stratégique.
+
+#### Missions principales
+
+-   Analyser des données historiques\
+-   Construire des modèles prédictifs\
+-   Évaluer la performance des modèles\
+-   Mettre en place des scénarios de prévision\
+-   Restituer les résultats
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Régressions et modèles prédictifs\
+-   Séries temporelles\
+-   Python ou R
+
+**Compétences transversales**
+
+-   Esprit analytique\
+-   Rigueur\
+-   Capacité de vulgarisation
+
+#### Secteurs d’activité
+
+-   Finance\
+-   Marketing\
+-   Industrie\
+-   Transport
+
+#### Perspectives d’évolution
+
+-   Data Scientist\
+-   Analyste senior\
+-   Responsable analytique
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

@@ -1,6 +1,12 @@
 ---
 title: "Livret d'accueil"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 ![](Images/FR_welcome.jpg){fig-align="center"}

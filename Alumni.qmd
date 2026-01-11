@@ -5,26 +5,26 @@ editor: visual
 
 ### PROMOTION 2023
 
-| **Nom**          | **Prénom**         |
-|------------------|--------------------|
-| SZYMON           | SZPUNAR            |
-| MAXIME           | LAINE              |
-| OMAIMA           | GHENNAMI           |
-| NOLAN            | PRUVOT             |
-| GRACE MOLINGO    | MAMBIKA            |
-| ANTOINE          | QUEVILLART         |
-| KOUSSO CLAVERIE  | KOFFI              |
-| HAFSA            | SABONE             |
-| HELENE           | NOVAKOWSKI         |
-| KHAOULA          | AROUI              |
-| NIHEL            | MEDJADJI           |
-| MARTIN           | PERNEL             |
-| OUSMANE          | FALL               |
-| ISMAEL DJOULDE   | DIALLO             |
-| ALIZEE           | SCHOLLHORN-LEOPOLD |
-| HOUDA            | BEL KORCHI         |
-| EUSTACHE ADRIEN  | BIKEGNE            |
-| YAHIA KASMI      | KASMI              |
-| MARWA            | EL GHEMMAZ         |
-| NOUHAILA         | KHOUNA             |
-| YACINE           | ZIDI               |
+| **Nom**         | **Prénom**         |
+|-----------------|--------------------|
+| SZYMON          | SZPUNAR            |
+| MAXIME          | LAINE              |
+| OMAIMA          | GHENNAMI           |
+| NOLAN           | PRUVOT             |
+| GRACE MOLINGO   | MAMBIKA            |
+| ANTOINE         | QUEVILLART         |
+| KOUSSO CLAVERIE | KOFFI              |
+| HAFSA           | SABONE             |
+| HELENE          | NOVAKOWSKI         |
+| KHAOULA         | AROUI              |
+| NIHEL           | MEDJADJI           |
+| MARTIN          | PERNEL             |
+| OUSMANE         | FALL               |
+| ISMAEL DJOULDE  | DIALLO             |
+| ALIZEE          | SCHOLLHORN-LEOPOLD |
+| HOUDA           | BEL KORCHI         |
+| EUSTACHE ADRIEN | BIKEGNE            |
+| YAHIA KASMI     | KASMI              |
+| MARWA           | EL GHEMMAZ         |
+| NOUHAILA        | KHOUNA             |
+| YACINE          | ZIDI               |

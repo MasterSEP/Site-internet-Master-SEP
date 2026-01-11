@@ -1,45 +1,71 @@
 ---
 title: "Présentation du Master SEP"
-output:
-  html_document:
-    toc: true
-    css: styles.css
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
-**Bienvenue sur le site du Master Statistique pour l’Évaluation et la Prévision (SEP).**
+::: {.hero}
+<div class="hero-text">
+  <h1>MASTER STATISTIQUE POUR L’ÉVALUATION ET LA PRÉVISION (SEP)</h1>
 
-Le Master SEP offre une formation complète et de haut niveau sur deux ans dans les domaines de l’analyse économique quantitative et de l’aide à la décision. Cette formation duale, combinant théorie et pratique, permet aux étudiants de développer des compétences recherchées dans les secteurs professionnels et académiques, y compris pour ceux souhaitant poursuivre un doctorat.
+  <p class="muted">
+    Le Master SEP offre une formation complète et de haut niveau sur deux ans dans les domaines de l’analyse économique quantitative et de l’aide à la décision. Cette formation duale, combinant théorie et pratique, permet aux étudiants de développer des compétences recherchées dans les secteurs professionnels et académiques, y compris pour ceux souhaitant poursuivre un doctorat.
+  </p>
 
-::: {style="text-align: center;"}
-<img src="Images/indexgraph.png" width="70%"/>
+  <a class="btn" href="#rejoindre">Pourquoi rejoindre le Master ?</a>
+</div>
+
+<div class="hero-image">
+  <img src="Images/indexgraph.png" alt="Graphiques"/>
+</div>
 :::
+
+::: {#rejoindre .section}
 
 ## Pourquoi rejoindre le Master SEP ?
 
-1.  **Expertise en Data Science :**\
-    Le programme permet d’acquérir des compétences avancées en Data Science et Big Data, répondant aux besoins actuels de nombreux secteurs.
+::: {.cards-3}
+::: {.card}
+<h3>1 : Expertise en Data Science</h3>
+<p>Compétences avancées en Data Science et Big Data pour répondre aux besoins actuels de nombreux secteurs.</p>
+:::
 
-2.  **Formation théorique et pratique :**\
-    Les étudiants bénéficient de cours théoriques approfondis et réalisent un stage obligatoire pour appliquer leurs connaissances en milieu professionnel.
+::: {.card}
+<h3>2 : Formation théorique et pratique</h3>
+<p>Cours théoriques approfondis complétés par un stage obligatoire en milieu professionnel.</p>
+:::
 
-3.  **Approche multidisciplinaire :**\
-    Une formation qui couvre la statistique, l’économie, la data science et l’informatique, rendant les diplômés polyvalents.
+::: {.card}
+<h3>3 : Approche multidisciplinaire</h3>
+<p>Statistique, économie, data science et informatique pour des diplômés polyvalents.</p>
+:::
 
-4.  **Forte employabilité :**\
-    Les diplômés sont très recherchés grâce à leurs compétences techniques et à leur formation pratique, notamment pour des postes de **Data Analyst** et **Data Scientist**.
+::: {.card}
+<h3>4 : Forte employabilité</h3>
+<p>Les diplômés sont très recherchés, notamment pour des postes de Data Analyst et Data Scientist.</p>
+:::
 
-5.  **Utilisation d’outils de pointe :**\
-    Les étudiants maîtrisent des logiciels et langages comme Python, R et SAS, essentiels pour l’analyse de données.
+::: {.card}
+<h3>5 : Outils et méthodes</h3>
+<p>Maîtrise de Python, R, SAS, SQL, visualisation, reproductibilité et bonnes pratiques.</p>
+:::
 
-6.  **Reconnaissance académique :**\
-    Le Master SEP a été classé parmi les meilleurs au classement 2023 *"Master Big Data & Data Sciences :* <a href="https://www.meilleurs-masters.com/master-big-data-data-sciences/universite-de-reims-champagne-ardenne-master-statistique-pour-l-evaluation-et-la-prevision.html" target="_blank">voir le classement</a> de Eduniversal.
+::: {.card}
+<h3>6 : Pour plus d'informations voici les flyers</h3>
+<p>
+  <a href="Images/flyer_APE_SEP.pdf" target="_blank" rel="noopener">Télécharger le flyer du Master APE SEP</a><br>
+  <a href="Images/flyer_MA_SEP.pdf" target="_blank" rel="noopener">Télécharger le flyer du Master MA SEP</a>
+</p>
+:::
+:::
 
-7.  <p style="text-align: center;">
+:::
 
-    <a href="flyer_APE_SEP.pdf" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold; margin-right: 20px;"> Télécharger le flyer du Master APE SEP </a> <a href="flyer_MA_SEP.pdf" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;"> Télécharger le flyer du Master MA SEP </a>
-
-    </p>
-
+::: {.section}
 ## Notre Vision Actuelle : Les Enjeux de la Data dans un Monde en Constante Évolution
 
 Dans un contexte mondial où la data s’impose comme l’épicentre de transformations majeures, le Master SEP s’affirme comme un catalyseur face aux défis inédits de notre époque. En réponse à l’avènement des nouvelles technologies et de l’intelligence artificielle, notre formation aspire à façonner des experts capables de naviguer avec brio dans l’univers dynamique de la Data Science, du Big Data et des technologies de machine learning.
@@ -47,11 +73,15 @@ Dans un contexte mondial où la data s’impose comme l’épicentre de transfor
 L’explosion des volumes de données, la prolifération des dispositifs connectés et l’émergence de l’intelligence artificielle ont transformé la manière dont nous appréhendons et utilisons l’information. Dans ce panorama en perpétuelle évolution, le Master SEP s’engage à fournir à ses étudiants les compétences nécessaires pour exploiter ces avancées de manière innovante et stratégique.
 
 Dans un monde où chaque secteur, de l’économie à la santé, en passant par la finance et le marketing, s’appuie sur les données pour prendre des décisions éclairées, le Master SEP forme des experts polyvalents et agiles. Ces diplômés sont prêts à relever les défis complexes de l’ère de la data et à contribuer activement à l’innovation et au progrès, tant au niveau local que mondial.
+:::
 
+::: {.section}
 ## Localisation et Certification
 
-Les enseignements du Master SEP se déroulent sur deux campus à Reims :\
-- **Campus Croix Rouge**\
-- **Campus Moulin de la Housse**
+Les enseignements du Master SEP se déroulent sur deux campus à Reims :
+- Campus Croix Rouge
+- Campus Moulin de la Housse
 
-Cette flexibilité géographique permet aux étudiants d’accéder à des ressources et infrastructures variées tout en favorisant les interactions avec des étudiants d'autres disciplines.
+Cette flexibilité géographique permet aux étudiants d’accéder à des ressources et infrastructures variées tout en favorisant les interactions avec des étudiants d’autres disciplines.
+:::
+

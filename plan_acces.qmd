@@ -1,6 +1,12 @@
 ---
 title: "Plan d'accès"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 Les cours sont dispensés dans les deux campus : Campus Croix Rouge à la faculté d'économie et Campus Moulin de la Housse à la faculté des sciences, vous trouvez ci-dessous les adresses :

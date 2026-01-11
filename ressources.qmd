@@ -1,6 +1,12 @@
 ---
-title: "Ressources"
+title: "Outils et Ressources"
 editor: visual
+format:
+  html:
+    theme: "null"
+    css: sep-style.css
+    toc: false
+    page-layout: full
 ---
 
 ![](Images/28.jpg){fig-align="center"}

@@ -1,0 +1,54 @@
+---
+title: "Business Intelligence Analyst"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Transformer les données en indicateurs clairs pour le pilotage stratégique
+
+#### Présentation du métier
+
+Le **Business Intelligence Analyst** conçoit des tableaux de bord et des indicateurs permettant de suivre l’activité d’une organisation.\
+Il joue un rôle central dans l’aide à la décision opérationnelle et stratégique, en rendant les données compréhensibles, fiables et actionnables.
+
+#### Missions principales
+
+-   Analyser les besoins métiers\
+-   Concevoir des indicateurs de performance\
+-   Créer des tableaux de bord interactifs\
+-   Automatiser les reportings\
+-   Interpréter les résultats
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   SQL\
+-   Outils BI (Power BI, Tableau)\
+-   Modélisation des données
+
+**Compétences transversales**
+
+-   Communication\
+-   Sens du besoin métier\
+-   Esprit de synthèse
+
+#### Secteurs d’activité
+
+-   Finance\
+-   Commerce\
+-   Industrie\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Senior BI Analyst\
+-   Manager BI\
+-   Consultant Data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

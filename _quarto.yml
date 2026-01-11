@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  search : true
- 
+  site-url: https://mastersep.github.io/Site-internet-Master-SEP
+  search: true
   reader-mode: true
-
+  
   page-footer: 
-      center: "<span style='color: #8b4513;'> Made by Isra Friaa & Benjamin Sejdi</span>"
+      center: "<span style='color: #8b4513;'> Site conçu par des étudiants du Master SEP 🎓😁 </span>"
       right:
         - icon: linkedin
           href: https://www.linkedin.com/in/master-sep-a004ba256/
@@ -32,7 +32,7 @@ website:
             file: Programmes.qmd
           - text: "Organisation"
             file: Organisation.qmd
-          - text: "Débouchés"
+          - text: "Débouchés professionnels"
             file: Débouchés.qmd
           - text: "Modalités"
             file: Modalités.qmd
@@ -48,6 +48,8 @@ website:
             file: Actualites.qmd
           - text: "Outils et ressources"
             file: ressources.qmd
+          - text: "Logiciels et environnements à installer"
+            file: logiciel.qmd
       - text: "Contacts"
         file: contacts.qmd
       
