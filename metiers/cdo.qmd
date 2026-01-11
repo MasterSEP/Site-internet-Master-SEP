@@ -1,0 +1,50 @@
+---
+title: "Chief Data Officer (CDO)"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Définir et piloter la stratégie data d’une organisation
+
+#### Présentation du métier
+
+Le **Chief Data Officer (CDO)** est responsable de la vision et de la gouvernance globale des données au sein d’une organisation.\
+Il aligne les enjeux data avec la stratégie globale et coordonne les équipes data, techniques et métiers.
+
+#### Missions principales
+
+-   Définir la stratégie data de l’organisation\
+-   Piloter les projets data transverses\
+-   Superviser la gouvernance et la qualité des données\
+-   Assurer la conformité réglementaire\
+-   Accompagner la transformation data
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Gouvernance des données\
+-   Architecture data\
+-   Connaissance des systèmes d’information
+
+**Compétences transversales**
+
+-   Leadership\
+-   Vision stratégique\
+-   Communication
+
+#### Secteurs d’activité
+
+-   Tous secteurs
+
+#### Perspectives d’évolution
+
+-   Directeur de la transformation\
+-   Consultant senior en stratégie data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

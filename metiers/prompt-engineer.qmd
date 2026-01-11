@@ -1,0 +1,55 @@
+---
+title: "Prompt Engineer"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Optimiser les interactions avec les modèles de langage
+
+#### Présentation du métier
+
+Le **Prompt Engineer** conçoit et optimise des prompts permettant d’améliorer les performances et la fiabilité des modèles de langage (LLM).\
+Il intervient à l’interface entre compréhension métier, langage naturel et systèmes d’intelligence artificielle.
+
+#### Missions principales
+
+-   Concevoir et tester des prompts efficaces\
+-   Optimiser la qualité des réponses des LLM\
+-   Évaluer les performances des prompts\
+-   Adapter les prompts aux cas d’usage métiers\
+-   Documenter les bonnes pratiques
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Modèles de langage (LLM)\
+-   Traitement du langage naturel\
+-   Python\
+-   Évaluation de modèles
+
+**Compétences transversales**
+
+-   Esprit analytique\
+-   Créativité\
+-   Capacité d’expérimentation
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Conseil\
+-   Services numériques\
+-   Recherche
+
+#### Perspectives d’évolution
+
+-   AI Engineer\
+-   Data Scientist spécialisé IA\
+-   Product Owner IA
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

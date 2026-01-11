@@ -1,0 +1,55 @@
+---
+title: "Machine Learning Engineer"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Industrialiser et déployer des modèles d’apprentissage automatique
+
+#### Présentation du métier
+
+Le **Machine Learning Engineer** se concentre sur le déploiement et la mise en production des modèles de machine learning.\
+Il fait le lien entre la conception des modèles et leur intégration dans des systèmes opérationnels, en veillant à leur robustesse et à leurs performances.
+
+#### Missions principales
+
+-   Déployer des modèles de machine learning en production\
+-   Optimiser les performances et la robustesse des modèles\
+-   Mettre en place des pipelines d’entraînement et de test\
+-   Surveiller les modèles en production\
+-   Collaborer avec data scientists et ingénieurs
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Machine learning\
+-   Python\
+-   Outils MLOps\
+-   Cloud computing
+
+**Compétences transversales**
+
+-   Esprit logique\
+-   Rigueur\
+-   Travail en équipe
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Finance\
+-   Services numériques
+
+#### Perspectives d’évolution
+
+-   Lead ML Engineer\
+-   Architecte IA\
+-   Responsable IA
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

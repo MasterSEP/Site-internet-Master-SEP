@@ -1,0 +1,55 @@
+---
+title: "Data Engineer"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Concevoir et maintenir les infrastructures de données
+
+#### Présentation du métier
+
+Le **Data Engineer** développe et maintient les pipelines de données permettant de collecter, transformer et stocker les données.\
+Il garantit la disponibilité et la qualité des données pour les équipes analytiques.
+
+#### Missions principales
+
+-   Concevoir des pipelines de données\
+-   Automatiser la collecte et le traitement des données\
+-   Optimiser les performances des systèmes\
+-   Garantir la fiabilité des flux de données\
+-   Collaborer avec les équipes data
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Python\
+-   SQL\
+-   Outils ETL\
+-   Bases de données
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Organisation\
+-   Travail en équipe
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Finance\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Senior Data Engineer\
+-   Data Architect\
+-   Responsable data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

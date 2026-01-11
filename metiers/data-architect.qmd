@@ -1,0 +1,54 @@
+---
+title: "Data Architect"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Concevoir l’architecture globale des systèmes de données
+
+#### Présentation du métier
+
+Le **Data Architect** définit l’architecture des systèmes de données afin d’assurer leur cohérence, leur performance et leur évolutivité.\
+Il intervient sur des projets data à grande échelle.
+
+#### Missions principales
+
+-   Concevoir des architectures de données\
+-   Définir les standards et bonnes pratiques\
+-   Choisir les technologies adaptées\
+-   Garantir la cohérence des systèmes\
+-   Accompagner les équipes techniques
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Architecture de données\
+-   Bases de données\
+-   Cloud computing
+
+**Compétences transversales**
+
+-   Vision globale\
+-   Communication\
+-   Leadership technique
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Finance\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Chief Data Officer\
+-   Architecte senior\
+-   Responsable data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

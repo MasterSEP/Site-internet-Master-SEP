@@ -1,0 +1,53 @@
+---
+title: "AI Product Manager"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Piloter des produits intégrant des solutions data et d’intelligence artificielle
+
+#### Présentation du métier
+
+L’**AI Product Manager** est responsable du développement et du pilotage de produits intégrant des solutions data et IA.\
+Il fait le lien entre les équipes techniques, métiers et les utilisateurs finaux.
+
+#### Missions principales
+
+-   Définir la vision produit\
+-   Prioriser les fonctionnalités\
+-   Piloter le cycle de vie du produit\
+-   Collaborer avec les équipes data et IA\
+-   Suivre les performances du produit
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Data et intelligence artificielle\
+-   Gestion de produit\
+-   Méthodes agiles
+
+**Compétences transversales**
+
+-   Vision stratégique\
+-   Communication\
+-   Leadership
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Services numériques
+
+#### Perspectives d’évolution
+
+-   Product Director\
+-   Responsable innovation\
+-   Chief Product Officer
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

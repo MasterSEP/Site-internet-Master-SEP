@@ -1,0 +1,54 @@
+---
+title: "Architecte en IA"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Développer et structurer des solutions d’intelligence artificielle à grande échelle
+
+#### Présentation du métier
+
+L’**Architecte en IA** conçoit des systèmes intégrant des solutions d’intelligence artificielle complexes.\
+Il définit les choix techniques permettant de déployer des modèles IA de manière robuste et scalable.
+
+#### Missions principales
+
+-   Concevoir des architectures IA\
+-   Intégrer des modèles d’apprentissage automatique\
+-   Définir les infrastructures adaptées\
+-   Garantir la performance et la sécurité\
+-   Piloter des projets IA
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Intelligence artificielle\
+-   Deep learning\
+-   Cloud computing
+
+**Compétences transversales**
+
+-   Vision stratégique\
+-   Rigueur\
+-   Capacité de pilotage
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Recherche\
+-   Services numériques
+
+#### Perspectives d’évolution
+
+-   Chief AI Officer\
+-   Responsable IA\
+-   Consultant IA senior
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

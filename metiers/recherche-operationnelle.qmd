@@ -1,0 +1,54 @@
+---
+title: "Analyste en recherche opérationnelle"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Optimiser les systèmes et processus complexes à l’aide de modèles mathématiques
+
+#### Présentation du métier
+
+L’**analyste en recherche opérationnelle** conçoit des modèles mathématiques pour améliorer l’efficacité des systèmes complexes.\
+Il intervient sur des problématiques d’optimisation, de planification et d’aide à la décision.
+
+#### Missions principales
+
+-   Modéliser des problèmes complexes\
+-   Résoudre des problèmes d’optimisation\
+-   Tester différents scénarios\
+-   Analyser les résultats\
+-   Proposer des solutions opérationnelles
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Optimisation\
+-   Programmation mathématique\
+-   Python, outils de calcul
+
+**Compétences transversales**
+
+-   Raisonnement analytique\
+-   Rigueur\
+-   Capacité de synthèse
+
+#### Secteurs d’activité
+
+-   Industrie\
+-   Transport\
+-   Logistique\
+-   Conseil
+
+#### Perspectives d’évolution
+
+-   Data Scientist\
+-   Consultant en optimisation\
+-   Manager d’opérations
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

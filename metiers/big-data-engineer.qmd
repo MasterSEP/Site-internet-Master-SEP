@@ -1,0 +1,54 @@
+---
+title: "Big Data Engineer"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Gérer le traitement et le stockage de données massives
+
+#### Présentation du métier
+
+Le **Big Data Engineer** est spécialisé dans la gestion de volumes très importants de données.\
+Il conçoit des solutions capables de traiter des données massives de manière efficace et scalable.
+
+#### Missions principales
+
+-   Concevoir des architectures Big Data\
+-   Traiter des volumes massifs de données\
+-   Optimiser les performances des systèmes\
+-   Gérer les flux de données distribués\
+-   Assurer la fiabilité des traitements
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Hadoop, Spark\
+-   Python\
+-   Systèmes distribués
+
+**Compétences transversales**
+
+-   Esprit analytique\
+-   Rigueur\
+-   Capacité d’adaptation
+
+#### Secteurs d’activité
+
+-   Technologie\
+-   Industrie\
+-   Télécommunications\
+-   Finance
+
+#### Perspectives d’évolution
+
+-   Architecte Big Data\
+-   Data Architect\
+-   Responsable infrastructure data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

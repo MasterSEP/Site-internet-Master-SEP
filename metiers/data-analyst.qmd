@@ -1,0 +1,52 @@
+---
+title: "Data Analyst"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Analyser et interpréter les données pour éclairer la prise de décision
+
+#### Présentation du métier
+
+Le **Data Analyst** collecte, traite et analyse les données afin de produire des indicateurs et des analyses exploitables.\
+Il joue un rôle clé dans la compréhension des données et leur transformation en informations utiles.
+
+#### Missions principales
+
+-   Collecter et préparer les données\
+-   Réaliser des analyses descriptives\
+-   Concevoir des indicateurs et tableaux de bord\
+-   Interpréter les résultats\
+-   Restituer les analyses aux équipes métiers
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Statistiques descriptives\
+-   SQL\
+-   Python ou R\
+-   Outils de visualisation
+
+**Compétences transversales**
+
+-   Esprit analytique\
+-   Rigueur\
+-   Communication
+
+#### Secteurs d’activité
+
+-   Tous secteurs
+
+#### Perspectives d’évolution
+
+-   Data Scientist\
+-   Business Analyst\
+-   Senior Data Analyst
+
+👉 [Retour à la liste des métiers](../Débouchés.html)

@@ -1,0 +1,52 @@
+---
+title: "Data Privacy Officer (DPO)"
+editor: visual
+format:
+  html:
+    theme: "null"
+    css: ../sep-style.css
+    toc: false
+    page-layout: full
+---
+
+### Veiller au respect des réglementations sur la protection des données
+
+#### Présentation du métier
+
+Le **Data Privacy Officer (DPO)** garantit la conformité des traitements de données personnelles avec les réglementations en vigueur.\
+Il joue un rôle central dans la protection des données et la gestion des risques juridiques.
+
+#### Missions principales
+
+-   Assurer la conformité au RGPD\
+-   Conseiller les équipes sur la protection des données\
+-   Gérer les risques liés aux données personnelles\
+-   Mettre en place des procédures de conformité\
+-   Sensibiliser les collaborateurs
+
+#### Compétences mobilisées
+
+**Compétences techniques**
+
+-   Droit des données\
+-   Réglementations (RGPD)\
+-   Gestion des risques
+
+**Compétences transversales**
+
+-   Rigueur\
+-   Sens de l’éthique\
+-   Communication
+
+#### Secteurs d’activité
+
+-   Entreprises\
+-   Administrations\
+-   Cabinets de conseil
+
+#### Perspectives d’évolution
+
+-   Chief Data Officer\
+-   Consultant en conformité data
+
+👉 [Retour à la liste des métiers](../Débouchés.html)
