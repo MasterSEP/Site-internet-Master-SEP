@@ -195,3 +195,11 @@ https://www.virtualbox.org/
    - RAM : 8 Go (4 Go minimum)
    - Processeur : 2 à 4 cœurs
    - Disque : 40 Go minimum
+
+## SAS Studio 
+
+Pour chaque système d’exploitation mentionné précédemment, il est possible d’utiliser SAS Studio sans installation locale. Toutefois, cette solution nécessite une connexion Internet.
+
+1 . Aller sur le site officiel SAS : - https://welcome.oda.sas.com
+2 . Créer un compte pour ensuite se connecter.
+3 . Lancer *SAS Studio* dans le navigateur.
