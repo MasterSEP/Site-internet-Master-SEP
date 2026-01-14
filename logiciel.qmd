@@ -198,8 +198,9 @@ https://www.virtualbox.org/
 
 ## SAS Studio 
 
-Indépendance du système d'exploitation de la machine utilisée, il est possible d’utiliser SAS Studio sans installation locale. Toutefois, cette solution nécessite une connexion Internet.
+Indépendamment du système d'exploitation de la machine utilisée, il est possible d’utiliser SAS Studio sans installation locale. Toutefois, cette solution nécessite une connexion Internet.
 
 1 . Aller sur le site officiel SAS : - https://welcome.oda.sas.com
 2 . Créer un compte pour ensuite se connecter.
+
 3 . Lancer *SAS Studio* dans le navigateur.
